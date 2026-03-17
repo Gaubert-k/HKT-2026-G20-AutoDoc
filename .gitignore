@@ -22,3 +22,22 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ============================================================
+# Architecture Medallion - Données (ne jamais committer)
+# ============================================================
+# Exclure tout le contenu des couches de données
+data/1_bronze/*
+data/2_silver/*
+data/3_gold/*
+
+# Sauf les marqueurs de dossiers vides (indispensables pour Git)
+!data/1_bronze/.gitkeep
+!data/2_silver/.gitkeep
+!data/3_gold/.gitkeep
+
+# Formats de données sensibles (sécurité supplémentaire)
+*.pdf
+*.parquet
+*.csv
+*.json

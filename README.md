@@ -1,16 +1,41 @@
-# React + Vite
+# 📁 Branche : `feature/medallion-pipeline-logic`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objectif
 
-Currently, two official plugins are available:
+Cette branche implémente le **squelette de l'architecture Medallion** pour le pipeline de traitement des factures automatisées par l'IA.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Structure des dossiers `data/`
 
-## React Compiler
+```
+data/
+├── 1_bronze/     → PDF originaux + JSON bruts extraits par l'IA       [⏳ EN ATTENTE]
+├── 2_silver/     → Fichiers Parquet nettoyés et typés                  [⏳ EN ATTENTE]
+└── 3_gold/       → Agrégations finales et KPI métier                   [⏳ EN ATTENTE]
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> ⚠️ **Les dossiers `data/` sont actuellement vides.**
+> Ils attendent les exports de l'équipe IA (fichiers JSON issus de l'extraction des factures PDF).
+> Ne pas committer de fichiers de données — ils sont exclus par le `.gitignore`.
 
-## Expanding the ESLint configuration
+## Comment déposer vos données
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Équipe IA / Extraction** → Déposer les JSON bruts dans `data/1_bronze/`
+   - Nommage suggéré : `facture_<id>_<date>.json`
+2. **Équipe Data** → Lancer `pipeline_bronze_to_silver.py` pour nettoyer et typer
+3. **Équipe Analytics** → Lancer `pipeline_silver_to_gold.py` pour générer les KPI
+
+## Scripts disponibles
+
+| Fichier | Rôle | Statut |
+|---|---|---|
+| `pipeline_bronze_to_silver.py` | Nettoyage + typage via DuckDB | 🟡 Squelette |
+| `pipeline_silver_to_gold.py` | Création des KPI métier | 🟡 Squelette |
+
+## Technologies prévues
+
+- **DuckDB** : moteur SQL pour la transformation des données
+- **Parquet** : format de stockage colonnaire pour Silver et Gold
+- **Python** : orchestration des pipelines
+
+---
+*Aucune donnée réelle ne doit être commitée dans ce dépôt. Voir `.gitignore`.*
