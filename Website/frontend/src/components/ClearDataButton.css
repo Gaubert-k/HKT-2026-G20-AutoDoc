@@ -1,0 +1,59 @@
+.clear-data-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.btn-clear-hdfs {
+  padding: 10px 18px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 2px solid #c0392b;
+  border-radius: 8px;
+  background: transparent;
+  color: #c0392b;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-clear-hdfs:hover:not(:disabled) {
+  background: #c0392b;
+  color: #fff;
+}
+
+.btn-clear-hdfs:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.clear-data-msg {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #27ae60;
+  text-align: center;
+  max-width: 420px;
+}
+
+.clear-data-msg.err {
+  color: #c0392b;
+}
+
+body.dark .btn-clear-hdfs {
+  border-color: #e74c3c;
+  color: #e74c3c;
+}
+
+body.dark .btn-clear-hdfs:hover:not(:disabled) {
+  background: #e74c3c;
+  color: #1e1e1f;
+}
+
+body.dark .clear-data-msg {
+  color: #2ecc71;
+}
+
+body.dark .clear-data-msg.err {
+  color: #e74c3c;
+}

@@ -1,0 +1,4002 @@
+[
+    {
+        "nom_fichier": "00d2b4549579f43a40f0ad0ca4c8e44a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Millet Gaudin et Fils SIRET: 604 805 895 00819 Date émission: 1985-01-09",
+        "extracted_data": {
+            "siret": "60480589500819",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-01-09"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "017d2d2f841ef73b61feece43ed1d556.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Becker et Fils SIRET: 686 508 631 00831 Date émission: 2024-08-06",
+        "extracted_data": {
+            "siret": "68650863100831",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-08-06"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "02e82c88bc92ef552e0cddd79441b185.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Brun Riou SARL SIRET: 996 112 538 00532 Date émission: 1991-05-02",
+        "extracted_data": {
+            "siret": "99611253800532",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-05-02"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "03bb0d5dcc85f75c664a583274b61009.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Morvan Barbe SARL SIRET: 477 053 839 00148 Date émission: 2007-05-07",
+        "extracted_data": {
+            "siret": "47705383900148",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2007-05-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0535180db4c77c2510f330cf118eaeac.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Blondel SIRET: 141 633 560 00612 Date émission: 2006-06-14",
+        "extracted_data": {
+            "siret": "14163356000612",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-06-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0741e9ce77920e70644fbc507c321caf.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Roussel et Fils SIRET: 863 383 923 00290 Date émission: 2008-01-01",
+        "extracted_data": {
+            "siret": "86338392300290",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2008-01-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "07463d32144a4ee27f42e392bb7f2e93.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dijoux SIRET: 843 256 215 00032 Date émission: 2016-02-20",
+        "extracted_data": {
+            "siret": "84325621500032",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-02-20"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "07ebe124436eaab610149489cc937283.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chevallier SIRET: 555 438 407 00028 Date émission: 2025-06-14",
+        "extracted_data": {
+            "siret": "55543840700028",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-06-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "07f394ac00f1ede7b1d547875962db0f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lefort SIRET: 784 872 822 00605 Date émission: 2020-12-18",
+        "extracted_data": {
+            "siret": "78487282200605",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-12-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "087358cfe4eb864da5863b94251f2923.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Klein Besnard S.A.R.L. SIRET: 886 086 800 00317 Date émission: 1990-09-22",
+        "extracted_data": {
+            "siret": "88608680000317",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1990-09-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "08a514ebd78ed7536208f7319aaf3e3f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Maurice Hamon S.A. SIRET: 111 790 804 00996 Date émission: 2002-10-27",
+        "extracted_data": {
+            "siret": "11179080400996",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2002-10-27"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0ae14e0cd795466b4d4bf2139c8570cc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lebreton SIRET: 812 982 668 00921 Date émission: 1971-09-12",
+        "extracted_data": {
+            "siret": "81298266800921",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1971-09-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0eff58951cadb78c3e27d2847bb70d22.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pires S.A. SIRET: 906 048 053 00951 Date émission: 2006-09-29",
+        "extracted_data": {
+            "siret": "90604805300951",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-09-29"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0f5bc4a359c3a8787f8d05944677ab5e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dupré SARL SIRET: 347 228 207 00291 Date émission: 1992-02-17",
+        "extracted_data": {
+            "siret": "34722820700291",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-02-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0f7bbf2381e3a2e21235a40df8cc2a28.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Robin SA SIRET: 793 714 528 00221 Date émission: 2018-01-22",
+        "extracted_data": {
+            "siret": "79371452800221",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-01-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "10e3928417a827abbd0865a90d336c31.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Blot S.ASS. SIRET: None Date émission: 1979-09-06",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1979-09-06"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "12164e261e6b4938c5f749ff6f5f38dc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gomes SIRET: 003 691 557 00882 Date émission: 2011-09-13",
+        "extracted_data": {
+            "siret": "00369155700882",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-09-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "133058285a79fcd2900615210623f445.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Boulay Maillot S.A.R.L. SIRET: 790 714 166 00879 Date émission: 2013-02-13",
+        "extracted_data": {
+            "siret": "79071416600879",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2013-02-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1430f1f7b63afe799cfe8ca96d9a244d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rivière et Fils SIRET: 618 723 464 00342 Date émission: 1986-12-10",
+        "extracted_data": {
+            "siret": "61872346400342",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1986-12-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "15b903f08661d32745c7c4a5720b8d4b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lejeune SIRET: 511 810 228 00821 Date émission: 1972-02-17",
+        "extracted_data": {
+            "siret": "51181022800821",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-02-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "18d33f884af93732969a736c8a523166.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Deschamps Fournier S.A.R.L. SIRET: 784 873 929 00904 Date émission: 2006-12-29",
+        "extracted_data": {
+            "siret": "78487392900904",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-12-29"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1b2e65eca3043fa99492a3fc6d4f0d5e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Hamel S.A. SIRET: 461 872 343 00078 Date émission: 2025-08-12",
+        "extracted_data": {
+            "siret": "46187234300078",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-08-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1c3155e0ece7ca8a8cd26ff6446ea08c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Valentin et Fils SIRET: 096 105 564 00387 Date émission: 1998-05-06",
+        "extracted_data": {
+            "siret": "09610556400387",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1998-05-06"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1c407d0939879e248ee9f7de3e58c6e3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Aubert SARL SIRET: 12345678901234 Date émission: 1999-11-30",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1999-11-30"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1d2df550fbbf791029a71d84b881923b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Hoareau Dias S.A.R.L. SIRET: 6925602865627 Date émission: 1972-12-27",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-12-27"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1e1be37f69bf3a476dcd462e75a146af.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Morin SARL SIRET: 6296715332991 Date émission: 1991-12-20",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-12-20"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1e5fe128073d4870edf25b96a15d7194.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Jean David S.A.R.L. SIRET: 8679780040210 Date émission: 2022-01-10",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-01-10"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1ef0e31776fb505a236d353eb6132dcd.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Mallet et Fils SIRET: 565 126 943 00267 Date émission: 1987-10-13",
+        "extracted_data": {
+            "siret": "56512694300267",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1987-10-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1f3e604e017f53ebef67a3e879b5eec1.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Coste SIRET: 476 973 573 00738 Date émission: 1971-11-11",
+        "extracted_data": {
+            "siret": "47697357300738",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1971-11-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1fcc333d592015a868bbab59b50aa95f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lebrun Mace SA SIRET: 086 209 590 00586 Date émission: 2014-10-18",
+        "extracted_data": {
+            "siret": "08620959000586",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2014-10-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2490062bbd486e9fc6c74c14279b7c69.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lefort SIRET: 968 845 784 00956 Date émission: 1985-06-16",
+        "extracted_data": {
+            "siret": "96884578400956",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-06-16"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "25a558b5d2f7d1fb3e1a5f750e9dd0bd.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pages SIRET: 939 836 847 00417 Date émission: 1994-07-02",
+        "extracted_data": {
+            "siret": "93983684700417",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-07-02"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "276996ddd63b1d6a1dd9bbacf02c90ff.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pasquier SIRET: 289 755 852 00844 Date émission: 2022-01-01",
+        "extracted_data": {
+            "siret": "28975585200844",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-01-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "27fd8bba21e59ea913b16a91e8208dcb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fernandes SA SIRET: 356 475 707 00630 Date émission: 1992-06-22",
+        "extracted_data": {
+            "siret": "35647570700630",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-06-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "289a38def1fb1dfbd16faa9fc0329806.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Prévost SIRET: 996 112 538 00805 Date émission: 2014-06-09",
+        "extracted_data": {
+            "siret": "99611253800805",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2014-06-09"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2b3716da957051d964400e0740a8eba3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Grondin SIRET: 453 038 564 00085 Date émission: 2001-12-17",
+        "extracted_data": {
+            "siret": "45303856400085",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2001-12-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2c735bb88f0524c00899dffb057bc492.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dupont SIRET: None Date émission: 1986-09-21",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1986-09-21"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2d5a79293e7c3c560f05563d353f946d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pichon SARL SIRET: 642 400 824 00461 Date émission: 1993-05-27",
+        "extracted_data": {
+            "siret": "64240082400461",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1993-05-27"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2e6f0fdb5a5e3dab8da1f6cd3e9eaacb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lamy S.A. SIRET: 863 765 996 00898 Date émission: 1987-04-28",
+        "extracted_data": {
+            "siret": "86376599600898",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1987-04-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "30883d1ea84485c32d6405f6672d88ee.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Perret Pires S.A. SIRET: 329 832 489 00168 Date émission: 2014-08-28",
+        "extracted_data": {
+            "siret": "32983248900168",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2014-08-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "30b535bfb055e694074e81b65e897fcb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fernandes SA SIRET: 214 427 031 00023 Date émission: 2003-08-03",
+        "extracted_data": {
+            "siret": "21442703100023",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2003-08-03"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "30fa6023e4bb45436fb6a1419e77338d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lemoine SIRET: 434 795 522 00706 Date émission: 2003-12-10",
+        "extracted_data": {
+            "siret": "43479552200706",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2003-12-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "316b5147c4eba444cedc4d1f0f4e76ea.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fouquet SIRET: 975 736 604 00565 Date émission: 1991-04-18",
+        "extracted_data": {
+            "siret": "97573660400565",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-04-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "32f510f0cd04377857fdd71880de29a8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Petitjean SIRET: None Date émission: 2023-11-01",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-11-01"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3557a24de784431d3d4e639a77e6297f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Petit SIRET: 438 663 221 00127 Date émission: 1982-01-07",
+        "extracted_data": {
+            "siret": "43866322100127",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-01-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "358373cfa6fa67b8088919b326a01daa.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rousset Tanguy S.A. SIRET: 884 879 206 00263 Date émission: 1995-08-18",
+        "extracted_data": {
+            "siret": "88487920600263",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1995-08-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "376dde561668513e8fe1c9c524c3daff.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Alves SIRET: 845 061 597 00710 Date émission: 1983-07-17",
+        "extracted_data": {
+            "siret": "84506159700710",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1983-07-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3aa313d326b454dc23b4966cc3e167a3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Perez Jacquet S.AS. SIRET: 643 009 814 00697 Date émission: 2005-05-15",
+        "extracted_data": {
+            "siret": "64300981400697",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2005-05-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3ac304e44f0e85966082aba803849ab2.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Letellier SIRET: 863 383 923 00290 Date émission: 1977-03-07",
+        "extracted_data": {
+            "siret": "86338392300290",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1977-03-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3acf79801106695519eef53f0a53a17d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Blanc Pichon SARL SIRET: 968 845 784 00816 Date émission: 1994-11-22",
+        "extracted_data": {
+            "siret": "96884578400816",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-11-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3ba4404a128db39f84aaa889de249bf7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lévy SARL SIRET: 686 632 662 00249 Date émission: 1985-01-04",
+        "extracted_data": {
+            "siret": "68663266200249",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-01-04"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3bc7f28a9c07382e0ab45c7064aac4ae.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lejeune SIRET: 638 782 946 00682 Date émission: 2013-08-12",
+        "extracted_data": {
+            "siret": "63878294600682",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2013-08-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3d55bce36c2c686df6f707fb40ac008e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Morel SIRET: 157 279 191 00272 Date émission: 2019-09-24",
+        "extracted_data": {
+            "siret": "15727919100272",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-09-24"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3e28c920f15f302abba7902fb3d41562.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Louis SIRET: 967 899 402 00044 Date émission: 2011-03-28",
+        "extracted_data": {
+            "siret": "96789940200044",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-03-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "40c572a534f697a04dcc29191dcaa99d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Martineau S.ASS. SIRET: 831792482425841 Date émission: 2011-01-20",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-01-20"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "414f9b89eef75e4757f56a4e754f2b12.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fouquet SIRET: 12345678901234 Date émission: 1991-04-18",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-04-18"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "41f685eb9ac58774add18cee5ad390c4.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vidal S.A. SIRET: 179 749 734 00374 Date émission: 1991-10-27",
+        "extracted_data": {
+            "siret": "17974973400374",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-10-27"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "42406cbec38ec2157f52846699754e92.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Mace S.A.S. SIRET: 5996707245867 Date émission: 1977-09-13",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1977-09-13"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "43b9f95ec9b15c6fa7ae277d97408ec0.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vallée et Fils SIRET: 573 065 240 00711 Date émission: 1999-10-10",
+        "extracted_data": {
+            "siret": "57306524000711",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1999-10-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4630e789920506b4b5d1669932fe9b75.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Maillet SIRET: 518 275 532 00951 Date émission: 2009-01-15",
+        "extracted_data": {
+            "siret": "51827553200951",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2009-01-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "46585753077a0d352ead4a50e14a9137.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chauvet SIRET: 973956721200474 Date émission: 2003-05-05",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2003-05-05"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "47deaeda0557032f5f54a2ff6ebc850a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Reynaud Perrier et Fils SIRET: 520 881 475 00393 Date émission: 2013-06-14",
+        "extracted_data": {
+            "siret": "52088147500393",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2013-06-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "485fd4b049a4901d6a23ed14ad29704b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fleury SIRET: 368 872 586 00962 Date émission: 1990-11-13",
+        "extracted_data": {
+            "siret": "36887258600962",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1990-11-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "48b6f895562a99bb21559043ac35b0cf.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Raymond SIRET: 183530702967945 Date émission: 2020-07-11",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-07-11"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4b65263bdd5705c4c6a11759438dfc2b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Imbert SIRET: None Date émission: 2000-09-27",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-09-27"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4bb5aca9637e8283b8b93ac87ab8e17f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Charles SIRET: 225 179 084 00507 Date émission: 1975-10-16",
+        "extracted_data": {
+            "siret": "22517908400507",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1975-10-16"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4c03b65c56bdb479b51ba87d6dea1f02.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bègue Martin S.A. SIRET: 465 669 380 00110 Date émission: 1971-01-17",
+        "extracted_data": {
+            "siret": "46566938000110",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1971-01-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4c3424237e780ed529a1bafa1c553ea1.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gomes S.A.RL. SIRET: 812 387 801 00762 Date émission: 1972-09-15",
+        "extracted_data": {
+            "siret": "81238780100762",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-09-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4d9c1a42f06e4642179a3fe1786cec64.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Raynaud et Fils SIRET: 12345678901234 Date émission: 2026-02-04",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2026-02-04"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "50cc0d0b3d3f25b1330ebf6c5092399b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fouquet et Fils SIRET: 413 797 721 00847 Date émission: 1984-12-05",
+        "extracted_data": {
+            "siret": "41379772100847",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1984-12-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "523cd1261068a33bc9a0f7ea95bc5573.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fernandes SA SIRET: 797 497 351 00149 Date émission: 2006-05-28",
+        "extracted_data": {
+            "siret": "79749735100149",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-05-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5384a75c1278c322669b121298b1556a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Alves SIRET: 034 717 546 00203 Date émission: 2008-02-18",
+        "extracted_data": {
+            "siret": "03471754600203",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2008-02-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "54251b374a806d407e95da2217805338.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pineau SIRET: 999 880 818 00508 Date émission: 1972-11-20",
+        "extracted_data": {
+            "siret": "99988081800508",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-11-20"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "56e71e1abd78f80050d785f55c96cdc2.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rey SIRET: 500 528 120 00792 Date émission: 1991-07-22",
+        "extracted_data": {
+            "siret": "50052812000792",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-07-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "57c6e8626c0093fa27653cfbd227f0df.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dupré SARL SIRET: 778 487 280 00415 Date émission: 1982-01-18",
+        "extracted_data": {
+            "siret": "77848728000415",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-01-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "580307a5377502a98e91bb55a8986c5b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gautier Vallée S.A. SIRET: 118 102 201 00415 Date émission: 1976-09-20",
+        "extracted_data": {
+            "siret": "11810220100415",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1976-09-20"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5900f1df2cfe1f8bf6bb12383ac679a6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Moulin S.A.S. SIRET: None Date émission: 1988-12-04",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1988-12-04"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5a971523936dc0cf293273078ab6b8a3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lopez Jacquet S.A. SIRET: 920 698 040 00614 Date émission: 2023-09-15",
+        "extracted_data": {
+            "siret": "92069804000614",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-09-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5af067816a1cef20d6adf511f36226ab.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Briand SIRET: 535 590 426 00461 Date émission: 1993-10-19",
+        "extracted_data": {
+            "siret": "53559042600461",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1993-10-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5b8c3384a4b44301297dca86b9174263.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fernandez Chauveau S.A.R.L. SIRET: 936 392 646 00662 Date émission: 2011-03-13",
+        "extracted_data": {
+            "siret": "93639264600662",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-03-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5c629fdd96392660c8987e82383ad9eb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dijoux SA SIRET: 164051008807158 Date émission: 2000-09-24",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-09-24"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5def464899e3c6832d61a1f922f4b36e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Didier SIRET: 3851713407391 Date émission: 2006-12-26",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-12-26"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5f27c92471d557ae225b4a03e9a76fef.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Morin SIRET: 693 157 273 00733 Date émission: 2026-03-11",
+        "extracted_data": {
+            "siret": "69315727300733",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2026-03-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5fd4e6bae02d945001e62592b868e882.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Labbé Boutin S.A. SIRET: 658 804 349 00400 Date émission: 1976-04-30",
+        "extracted_data": {
+            "siret": "65880434900400",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1976-04-30"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5fda982cc10dafb058b3335214248960.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bègue S.A.R.L. SIRET: 334 722 824 00391 Date émission: 1971-12-12",
+        "extracted_data": {
+            "siret": "33472282400391",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1971-12-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6013375572ca6bf2ee085d32454a7d0f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lelièvre SIRET: 077 406 494 00680 Date émission: 1985-09-25",
+        "extracted_data": {
+            "siret": "07740649400680",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-09-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "601a4d1a8bfd83edb550b04ca98adb1e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Foucher SIRET: 487 392 854 00716 Date émission: 2001-11-16",
+        "extracted_data": {
+            "siret": "48739285400716",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2001-11-16"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "627e4d57a94fe553700fa20d515186df.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Boulay Buisson S.A. SIRET: 229 927 504 00576 Date émission: 1984-11-21",
+        "extracted_data": {
+            "siret": "22992750400576",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1984-11-21"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "62bc2bbd43ad9b7f1b3782e543a1eccb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Guibert SIRET: 496 475 989 00372 Date émission: 2000-08-22",
+        "extracted_data": {
+            "siret": "49647598900372",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-08-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "63f6743c93f332e1796bf71ea01d348f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: De Sousa Robin SARL SIRET: None Date émission: 1992-01-20",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-01-20"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "650ef71d97baf7c304842b097d67497b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Tessier SIRET: 094 801 412 00902 Date émission: 1984-09-10",
+        "extracted_data": {
+            "siret": "09480141200902",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1984-09-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "66c768fadfa3dae6c09001b44090a24f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ramos S.A.R.L. SIRET: 984 902 775 00514 Date émission: 1970-09-24",
+        "extracted_data": {
+            "siret": "98490277500514",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1970-09-24"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "69c2fc790b89d55c1fedc4c6437f955b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dupuy S.A.R.L. SIRET: 449339198861351 Date émission: 1985-02-22",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-02-22"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6a7e73a98a09d58bb32840a166ff5636.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vaillant SIRET: 744 956 210 00713 Date émission: 2020-11-21",
+        "extracted_data": {
+            "siret": "74495621000713",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-11-21"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6a9929657e8d5d920383a8e6d55d4b08.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lévy SARL SIRET: 774 064 935 00018 Date émission: 1982-10-31",
+        "extracted_data": {
+            "siret": "77406493500018",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-10-31"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6a9e39614e7e77ecb724f6527f659ed6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pinto SIRET: 12345678901234 Date émission: 1981-05-01",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1981-05-01"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6d7c6344a6ca237c04aa82923053f3ae.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Robin S.A.S. SIRET: 895 543 932 00365 Date émission: 2000-12-12",
+        "extracted_data": {
+            "siret": "89554393200365",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-12-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6fd3a3e6d5679476f11474f36c16970c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Tanguy SIRET: 181 845 181 00641 Date émission: 2025-05-02",
+        "extracted_data": {
+            "siret": "18184518100641",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-05-02"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6ff4319bc4a1b458e033bcef73ef4a89.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lacombe et Fils SIRET: 314 986 431 00612 Date émission: 2023-09-21",
+        "extracted_data": {
+            "siret": "31498643100612",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-09-21"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "71f1fd82c63baf73ff76e8eeff8f8bb6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gillet SIRET: None Date émission: 2025-10-26",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-10-26"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "72c07a1f71a904190322f58e74ccc20c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Leduc et Fils SIRET: 739 260 305 00613 Date émission: 1978-09-14",
+        "extracted_data": {
+            "siret": "73926030500613",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1978-09-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "72e4dbad84b10804e843ded253fb8801.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Legendre SIRET: 794 728 469 00402 Date émission: 1985-02-11",
+        "extracted_data": {
+            "siret": "79472846900402",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-02-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7319c2e9fc7296e56ceed3b3a9a36ebc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bailly SIRET: 2484831679063 Date émission: 2022-08-25",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-08-25"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "73414c62c1e306a9be405326c4c80883.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Masse S.A.R.L. SIRET: 245 933 445 00190 Date émission: 2008-09-22",
+        "extracted_data": {
+            "siret": "24593344500190",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2008-09-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "73921aa3aa03e478c341751a94aa7f94.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Daniel Moreno et Fils SIRET: 7629699691673 Date émission: 1980-03-19",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1980-03-19"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "75dab728db1dbb8d05f9ff5fdd6fa37a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Cousin SIRET: 519791666440868 Date émission: 2011-09-22",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-09-22"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7928c5c553e3fcc1d3fee23894a1367e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Guilbert Chauvet et Fils SIRET: 331 465 914 00678 Date émission: 1977-08-28",
+        "extracted_data": {
+            "siret": "33146591400678",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1977-08-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7e6b7745835c503178c199c7019de2ca.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Mary SIRET: 630 097 921 00153 Date émission: 1995-04-11",
+        "extracted_data": {
+            "siret": "63009792100153",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1995-04-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7ecbb7806565ed2420e7d5e919e08ccc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lemoine S.A. SIRET: 636 815 797 00379 Date émission: 2004-01-26",
+        "extracted_data": {
+            "siret": "63681579700379",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2004-01-26"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7ee6a6a6a1671c4624e28e3b02029108.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bazin SIRET: 694 486 952 00195 Date émission: 1997-01-17",
+        "extracted_data": {
+            "siret": "69448695200195",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1997-01-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7fc94e73ec3fe73ac48d5603855f95be.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ollivier Bouvier SARL SIRET: 434 165 189 00011 Date émission: 1984-11-15",
+        "extracted_data": {
+            "siret": "43416518900011",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1984-11-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "809188f11b67645edcaa4864e106b78a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pires SARL SIRET: 166 553 552 00117 Date émission: 1981-07-08",
+        "extracted_data": {
+            "siret": "16655355200117",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1981-07-08"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "82d13329abdff4b6ba6dbfc673a34995.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bertin S.A. SIRET: 554 393 769 00746 Date émission: 1997-09-15",
+        "extracted_data": {
+            "siret": "55439376900746",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1997-09-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "836fcf6dfa33ae81625d2e94de573d4c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Moreno SIRET: 946 368 875 00468 Date émission: 1982-03-01",
+        "extracted_data": {
+            "siret": "94636887500468",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-03-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "84e2f332eaea37293c55db15f3846983.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Nicolas Durand S.A. SIRET: 579 913 666 00874 Date émission: 2005-07-28",
+        "extracted_data": {
+            "siret": "57991366600874",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2005-07-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8584af728cd2da92ff239d11dcf679e3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bertrand SIRET: 518 689 260 00579 Date émission: 2022-04-13",
+        "extracted_data": {
+            "siret": "51868926000579",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-04-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8602df24f8daef81be6eb47893ebb918.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bruneau SIRET: 426 818 183 00003 Date émission: 1990-01-09",
+        "extracted_data": {
+            "siret": "42681818300003",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1990-01-09"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8684ba7a87a25649b74ffc2d553c7555.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lambert SIRET: 518 449 897 00058 Date émission: 1981-10-31",
+        "extracted_data": {
+            "siret": "51844989700058",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1981-10-31"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "875dd2aaf2f605f8c5e345bd01306d10.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pons SIRET: 363 926 494 00784 Date émission: 2006-11-25",
+        "extracted_data": {
+            "siret": "36392649400784",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-11-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "884568f66935a50f4e8b1a2fdd70452a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ledoux S.AS. SIRET: 499 939 338 00780 Date émission: 2016-10-10",
+        "extracted_data": {
+            "siret": "49993933800780",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-10-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "88ebd5d04b89ce09633c425f7cbb2e68.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bodin SIRET: 957 612 286 00980 Date émission: 1992-12-19",
+        "extracted_data": {
+            "siret": "95761228600980",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-12-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8b226f9785ac1c4ce475cd88998fd931.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Millet Gaudin et Fils SIRET: 206 799 819 00282 Date émission: 1985-02-10",
+        "extracted_data": {
+            "siret": "20679981900282",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-02-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8eaeb24d8d50094efd4394536b6caf88.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lebon SIRET: None Date émission: 2022-10-27",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-10-27"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8f19e2aff5ff6c16163be6cd40e04697.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lemaire Payet S.A. SIRET: 966309771405479 Date émission: 1970-03-29",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1970-03-29"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8ffbe4526c9a2138003538a79580aaef.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Clément SIRET: None Date émission: 2005-08-24",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2005-08-24"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "905959f61e38f0754210f61ff6af7f8f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Charles SIRET: 570 862 094 00697 Date émission: 1994-10-11",
+        "extracted_data": {
+            "siret": "57086209400697",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-10-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "90e588fd2d2c3fee8d6d958dacb723a9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lecoq SIRET: 599 162 476 00486 Date émission: 2022-02-12",
+        "extracted_data": {
+            "siret": "59916247600486",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-02-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "914b90020466f08f80c07aa374449e49.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lucas Lombard S.A.SS. SIRET: 920 242 864 00055 Date émission: 2010-10-15",
+        "extracted_data": {
+            "siret": "92024286400055",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2010-10-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9155d326a3766cf1762978def8850d78.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fabre S.A.R.L. SIRET: 428 699 045 00210 Date émission: 2011-04-11",
+        "extracted_data": {
+            "siret": "42869904500210",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-04-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "928156f214b083e64718f60a0c80b781.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Berger S.A.S. SIRET: 405 147 703 00186 Date émission: 1992-08-01",
+        "extracted_data": {
+            "siret": "40514770300186",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-08-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "93333bf4da48b2935afaadfe6dbd505b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Delaunay S.A. SIRET: 313 650 244 00061 Date émission: 1970-08-10",
+        "extracted_data": {
+            "siret": "31365024400061",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1970-08-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9388dcfc800be6e7c3548ea652301012.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Wagner Peron SA SIRET: 120527202747432 Date émission: 1976-03-16",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1976-03-16"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "938adbf11bffb44332eb5811c1c9592f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rodrigues Colin et Fils SIRET: 1766383971679 Date émission: 1973-06-29",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-06-29"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "93be8c2110a28251bd068174c6524a45.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Colin S.A.R.L. SIRET: 524104651228233 Date émission: 2010-03-04",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2010-03-04"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "941e10b8e7b7f5c386e1a4e3a92827d3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pottier SIRET: 898 331 467 00255 Date émission: 2009-03-14",
+        "extracted_data": {
+            "siret": "89833146700255",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2009-03-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9750c9c6f60c928ad8362c26f51c5f9a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Clément Bègue S.A.R.L. SIRET: 006 811 491 00700 Date émission: 1991-01-20",
+        "extracted_data": {
+            "siret": "00681149100700",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-01-20"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "97d0901c5747c42097b8f89a091148e0.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Hamel Verdier S.A. SIRET: 794 728 469 00402 Date émission: 1973-09-07",
+        "extracted_data": {
+            "siret": "79472846900402",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-09-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "991cd073d758cd43fa960fd614ecfbc9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Roussel Mace SARL SIRET: 866 322 704 00309 Date émission: 1982-01-07",
+        "extracted_data": {
+            "siret": "86632270400309",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-01-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "99311482fcc554fc84e3140906185836.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pelletier SA SIRET: 728 975 269 00883 Date émission: 2003-06-11",
+        "extracted_data": {
+            "siret": "72897526900883",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2003-06-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9a581e30328ba52c864207d362623a3a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Hamel S.A. SIRET: 564 757 052 00274 Date émission: 1973-10-24",
+        "extracted_data": {
+            "siret": "56475705200274",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-10-24"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9b075bc55936f38acbbcb82ee229052b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Leduc SARL SIRET: 211 179 080 00455 Date émission: 2012-03-27",
+        "extracted_data": {
+            "siret": "21117908000455",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2012-03-27"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9bf21860bd1d21a62e2dcc256bb5b744.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chevalier SIRET: 389 448 465 00549 Date émission: 1982-10-17",
+        "extracted_data": {
+            "siret": "38944846500549",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-10-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9cec4ea27a3932a5573d9982bef3d4bd.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Brun Riou SARL SIRET: 877 169 474 00864 Date émission: 1998-09-15",
+        "extracted_data": {
+            "siret": "87716947400864",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1998-09-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9d88e5c53a9b066e80b5ac931f601b8a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Schmitt S.A.R.L. SIRET: 908 811 722 00788 Date émission: 2011-01-25",
+        "extracted_data": {
+            "siret": "90881172200788",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-01-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9de72fdd766bb4ba9164fc46c7365250.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Robin SIRET: 979 251 329 00053 Date émission: 2016-09-05",
+        "extracted_data": {
+            "siret": "97925132900053",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-09-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9fa728d12da05d2e32a05bf483e01773.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Laporte Schneider SARL SIRET: 620 555 433 00627 Date émission: 2004-02-10",
+        "extracted_data": {
+            "siret": "62055543300627",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2004-02-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9ff4639c077e390bb05fb313ee4d3adb.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Marchand S.A.R.L. SIRET: 585 730 658 00291 Date émission: 2019-04-19",
+        "extracted_data": {
+            "siret": "58573065800291",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-04-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a2249e6e0aa6c6a04b7ec45d327a86d5.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rolland Renaud S.A. SIRET: 423 733 344 00737 Date émission: 2012-02-05",
+        "extracted_data": {
+            "siret": "42373334400737",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2012-02-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a3636a710b887acd3b9b5e943560d107.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Hervé SIRET: 6442750784898 Date émission: 2012-08-18",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2012-08-18"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a3c5d58ad7d0d6d39bb4d4ed3dbfccba.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Reynaud SIRET: 728 975 269 00990 Date émission: 1979-05-11",
+        "extracted_data": {
+            "siret": "72897526900990",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1979-05-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a3d6c2fc8e2ed9da7a7e7fee0af18995.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Étienne SIRET: 750 036 915 00668 Date émission: 2011-09-13",
+        "extracted_data": {
+            "siret": "75003691500668",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-09-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a489f80144cc183a37f1b4c15d8d8516.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Carlier Pasquier SARL SIRET: 12345678901234 Date émission: 2000-09-06",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-09-06"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a52bd31de926b5200937f26c7310fcce.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Mendès SIRET: 351 906 698 00334 Date émission: 2010-08-29",
+        "extracted_data": {
+            "siret": "35190669800334",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2010-08-29"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a54a8ac164be3cf467fca28d87a1c260.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Baron S.A.R.L. SIRET: 392 053 021 00896 Date émission: 1994-01-12",
+        "extracted_data": {
+            "siret": "39205302100896",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-01-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a563605e50b730c5198e4605c5d4c3d8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Valette Jacquet SARL SIRET: 450 615 935 00712 Date émission: 1992-02-15",
+        "extracted_data": {
+            "siret": "45061593500712",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1992-02-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a79ff3406063b46e360fa1fb3754be39.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dupré SIRET: 510 463 680 00841 Date émission: 2018-04-18",
+        "extracted_data": {
+            "siret": "51046368000841",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-04-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a8800ff4b1361f6ade84558143730327.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Nicolas SIRET: 940 701 642 00891 Date émission: 1971-04-20",
+        "extracted_data": {
+            "siret": "94070164200891",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1971-04-20"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a98be82438fee4108b42c5367751ca05.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Le Gall SIRET: 12345678901234 Date émission: 1991-01-24",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-01-24"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "aa78f4a68352d4060e378660898c0477.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Munoz S.A.R.L. SIRET: 341162203944205 Date émission: 2013-02-23",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2013-02-23"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "aa90a6b3569a175bf8be79b0277192be.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Robin S.A. SIRET: 961 143 518 00606 Date émission: 2011-06-12",
+        "extracted_data": {
+            "siret": "96114351800606",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-06-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "aae43a8d756c4ad8aafcbd750f32ef32.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Joseph S.A.S. SIRET: 277 038 436 00071 Date émission: 2005-02-06",
+        "extracted_data": {
+            "siret": "27703843600071",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2005-02-06"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ab1c377594a584eab9f76861da760361.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Dos Santos SIRET: 618022955365645 Date émission: 1981-02-22",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1981-02-22"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ac4225eb90326fd6976dc3d5e411aeee.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Louis SIRET: 504 888 991 00271 Date émission: 1980-07-12",
+        "extracted_data": {
+            "siret": "50488899100271",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1980-07-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ad765d2a122297fd0e64668de1e2887e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gonzalez SIRET: 284 347 952 00335 Date émission: 2003-12-10",
+        "extracted_data": {
+            "siret": "28434795200335",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2003-12-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ad9fff304bb8f4fe83f1d8779c0cf1e6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vallet SIRET: 800 384 570 00589 Date émission: 1980-09-07",
+        "extracted_data": {
+            "siret": "80038457000589",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1980-09-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "af28d6f753b2d16881b81d93f591044c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Letellier Guibert S.ASS. SIRET: 610 556 615 00736 Date émission: 1970-10-12",
+        "extracted_data": {
+            "siret": "61055661500736",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1970-10-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b00a46aea307925a849037930097c15c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Charpentier SIRET: 225 179 084 00507 Date émission: 1997-03-01",
+        "extracted_data": {
+            "siret": "22517908400507",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1997-03-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b2f4f0dfe26c3d84aa220bcf0a2d21a8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Grégoire Maréchal SARL SIRET: 562 137 216 00734 Date émission: 2024-07-01",
+        "extracted_data": {
+            "siret": "56213721600734",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-07-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b4ee038d5b2932e2ce67ff8e524db4b0.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gauthier SA SIRET: 023 413 263 00239 Date émission: 2002-03-15",
+        "extracted_data": {
+            "siret": "02341326300239",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2002-03-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b5bf501d360853a0473ef15cc21becd1.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Richard SIRET: 367 303 716 00156 Date émission: 2005-06-18",
+        "extracted_data": {
+            "siret": "36730371600156",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2005-06-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b5c99bf06d601fadf6c2355d61d3d0b5.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Muller Vidal S.A. SIRET: 389 448 465 00804 Date émission: 1989-09-15",
+        "extracted_data": {
+            "siret": "38944846500804",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1989-09-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b61edc7c5fa67a84c46ad166da7b35bd.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lucas SIRET: 881 658 033 00595 Date émission: 2024-11-19",
+        "extracted_data": {
+            "siret": "88165803300595",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-11-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b7c9b75af9ce7ee32b42436386176b40.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Perrin SIRET: 203 471 750 00885 Date émission: 1987-09-05",
+        "extracted_data": {
+            "siret": "20347175000885",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1987-09-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b8e3359e5648538c1225adf19a763f1d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gilles SIRET: 862 278 371 00516 Date émission: 2008-11-17",
+        "extracted_data": {
+            "siret": "86227837100516",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2008-11-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b929cd4c0e9b729b43803b53905e414b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Meyer SIRET: 979 270 337 00442 Date émission: 2021-07-25",
+        "extracted_data": {
+            "siret": "97927033700442",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b96cf458c4929a5007e57f11117e0e07.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pruvost Delmas S.A.R.L. SIRET: None Date émission: 2000-11-16",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-11-16"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bac4995cc08f4cdd01207fd9d20ad0d2.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chevalier SIRET: 999 393 309 00342 Date émission: 2016-10-29",
+        "extracted_data": {
+            "siret": "99939330900342",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-10-29"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bc17f83b43e9ca793119b90c7b5eaa8d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Morel S.A.R.L. SIRET: 224 593 343 00458 Date émission: 2025-03-12",
+        "extracted_data": {
+            "siret": "22459334300458",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-03-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bcaffb2a2b77d29d33a8571690ee540a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Descamps Paul SARL SIRET: 098 839 202 00243 Date émission: 1994-06-25",
+        "extracted_data": {
+            "siret": "09883920200243",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-06-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bf77134b42fe19cfc5457527d7075e2d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rossi S.AS. SIRET: 629 127 994 00644 Date émission: 2021-03-14",
+        "extracted_data": {
+            "siret": "62912799400644",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-03-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c05658e565bd7a0f956224cf716e0a81.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Charpentier SIRET: 067 998 138 00191 Date émission: 2023-07-07",
+        "extracted_data": {
+            "siret": "06799813800191",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-07-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c2d02c040956ebb5e2175d2ebbedf5ff.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Brun SIRET: 023 413 263 00239 Date émission: 1977-01-04",
+        "extracted_data": {
+            "siret": "02341326300239",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1977-01-04"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c44fc4976d4ef5483212e584737d4f00.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Fernandes SA SIRET: 021 442 702 00680 Date émission: 1985-11-04",
+        "extracted_data": {
+            "siret": "02144270200680",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1985-11-04"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c4692730406f5bcf936e3f6d857a94ea.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Petitiean Martinez SARL SIRET: 647 423 128 00527 Date émission: 1982-07-28",
+        "extracted_data": {
+            "siret": "64742312800527",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-07-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c4725537867ee719584a49d7ad37edc7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pons SIRET: 232 983 247 00692 Date émission: 2016-11-08",
+        "extracted_data": {
+            "siret": "23298324700692",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-11-08"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c4c15b8d389c3327553ae5613fb0f38e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Adam S.A. SIRET: 439 407 016 00070 Date émission: 1996-06-12",
+        "extracted_data": {
+            "siret": "43940701600070",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1996-06-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c535c231af90ba3f7a8ee496c3c41946.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gautier Vallée S.A. SIRET: 096 789 946 00124 Date émission: 1973-05-05",
+        "extracted_data": {
+            "siret": "09678994600124",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-05-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c8244003ea5cf18187ab918c408db6b9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bruneau Torres S.A. SIRET: 365 564 723 00549 Date émission: 2025-05-28",
+        "extracted_data": {
+            "siret": "36556472300549",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-05-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c882bc6230891704b9a1f630edf5b0c7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rémy SIRET: 143122062637593 Date émission: 1975-12-20",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1975-12-20"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c9364463736a5b949fb1fbb82ac8dc53.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Alves SIRET: 659 398 366 00818 Date émission: 2000-10-14",
+        "extracted_data": {
+            "siret": "65939836600818",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-10-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ca262c5bbf8dd2c18a60546a3b542fc9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Albert SIRET: 264879941068234 Date émission: 1986-10-17",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1986-10-17"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ca3011aa45eb9bcaf9453cb623eca168.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Clément SIRET: 862 278 371 00516 Date émission: 1996-11-25",
+        "extracted_data": {
+            "siret": "86227837100516",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1996-11-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cba7bd64f662d6ae2b74d9ce2abb890a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Menard S.A. SIRET: 195 005 285 00638 Date émission: 2023-11-11",
+        "extracted_data": {
+            "siret": "19500528500638",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-11-11"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cbf179c395cee10df1ace750df608f9b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lelièvre SIRET: 424 008 258 00529 Date émission: 2006-05-31",
+        "extracted_data": {
+            "siret": "42400825800529",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2006-05-31"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cc80d9f46e49d7ce1ed885195dc9fec0.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Boulay Martins SA SIRET: 330 604 638 00206 Date émission: 1982-01-19",
+        "extracted_data": {
+            "siret": "33060463800206",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-01-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ce4bff84e18d3c2e82fbd840f47b79cf.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Descamps SIRET: 897 558 557 00202 Date émission: 1998-01-22",
+        "extracted_data": {
+            "siret": "89755855700202",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1998-01-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ce62674c51b7dbbd3afbaf2c387a1041.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lecomte SIRET: 225 913 656 00198 Date émission: 2019-01-06",
+        "extracted_data": {
+            "siret": "22591365600198",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-01-06"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cf3c82808ab98a0bb4cbe53a40bff3db.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Guyon SIRET: None Date émission: 1972-09-02",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-09-02"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cf6fbfe489dd8522333790a42dc46745.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Girard Gonzalez S.A. SIRET: 546367589875292 Date émission: 1973-09-30",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-09-30"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cfc36c3fc114fd694ed240d0f60349cc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Barre SIRET: 790 827 232 00626 Date émission: 1975-04-01",
+        "extracted_data": {
+            "siret": "79082723200626",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1975-04-01"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d029b275978c716d8854e2c0aec8b5c8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chauvin SA SIRET: 728 857 442 00533 Date émission: 2016-12-28",
+        "extracted_data": {
+            "siret": "72885744200533",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-12-28"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d112a4ac414549dd0399b8d0c61faf6f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Merle Mary et Fils SIRET: 2431655888632 Date émission: 2007-03-09",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2007-03-09"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d1d011b057397fecb9b1646db23f6141.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Guibert SIRET: 591 846 381 00489 Date émission: 1997-08-14",
+        "extracted_data": {
+            "siret": "59184638100489",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1997-08-14"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d25afbce8796eb16fb10493a7c917e37.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lebrun Mace SA SIRET: 863 878 294 00843 Date émission: 1989-04-08",
+        "extracted_data": {
+            "siret": "86387829400843",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1989-04-08"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d2f7fb443075cdee7d439156771b8e8e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Philippe SIRET: 520 881 475 00393 Date émission: 1994-07-12",
+        "extracted_data": {
+            "siret": "52088147500393",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-07-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d40874d50365523ed84248b3bd4d836d.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Étienne SIRET: 981 806 359 00007 Date émission: 1977-04-03",
+        "extracted_data": {
+            "siret": "98180635900007",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1977-04-03"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d443c7159d854a41e5d6b8635ab01519.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Breton SIRET: 749 821 823 00939 Date émission: 2000-07-31",
+        "extracted_data": {
+            "siret": "74982182300939",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2000-07-31"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d4c00dd15c3620508b1e9047b810f050.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Brunel SIRET: 929 842 573 00180 Date émission: 2010-08-05",
+        "extracted_data": {
+            "siret": "92984257300180",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2010-08-05"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d554878b9efba7f66335c2f0f8905033.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Perret Pires S.A. SIRET: 925 188 120 00834 Date émission: 1991-08-12",
+        "extracted_data": {
+            "siret": "92518812000834",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1991-08-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d5d834db3039c77db77f73b85cc3625c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Petitiean Martinez SARL SIRET: 251 881 256 00720 Date émission: 1998-03-06",
+        "extracted_data": {
+            "siret": "25188125600720",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1998-03-06"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d634c4a711b270d937093121662fa644.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pasquier SIRET: 496 475 989 00372 Date émission: 1981-05-21",
+        "extracted_data": {
+            "siret": "49647598900372",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1981-05-21"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d68f6011349d5fec91f83226f724fef7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Andre S.A.R.L. SIRET: 006 811 491 00700 Date émission: 1980-07-26",
+        "extracted_data": {
+            "siret": "00681149100700",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1980-07-26"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d7b4d46726213f4375615ca0497776f6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Raynaud S.A.R.L. SIRET: 12345678901234 Date émission: 1986-03-10",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1986-03-10"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d7c87e85015f5763b3109ee968488c27.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Perrier SIRET: 730 371 838 00493 Date émission: 2016-05-16",
+        "extracted_data": {
+            "siret": "73037183800493",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-05-16"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d86b3f67503d92317e5d5d5a852e7bfa.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Letellier SIRET: 957 612 286 00139 Date émission: 1997-04-29",
+        "extracted_data": {
+            "siret": "95761228600139",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1997-04-29"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d9e581ab1ae6c34960125d770c730cb8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Rolland S.A.R.L. SIRET: 210 388 625 00498 Date émission: 2011-03-17",
+        "extracted_data": {
+            "siret": "21038862500498",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-03-17"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "da85bea794b54d5257c96ffef435810a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ferrand SIRET: 703 352 112 00188 Date émission: 2020-04-30",
+        "extracted_data": {
+            "siret": "70335211200188",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-04-30"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "da939305a8ec4f341cbca92802a785c7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pons SIRET: 004 908 240 00502 Date émission: 1970-06-13",
+        "extracted_data": {
+            "siret": "00490824000502",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1970-06-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "db98ed99cfea514b050691bf16075cc3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Cohen Bonnin S.A. SIRET: 386 589 022 00121 Date émission: 1996-06-24",
+        "extracted_data": {
+            "siret": "38658902200121",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1996-06-24"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dbcf588a81b1146a9fa4cebfae78d9cc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Blanc SIRET: 902 601 277 00707 Date émission: 1974-05-12",
+        "extracted_data": {
+            "siret": "90260127700707",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1974-05-12"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dcc0ae665a75eed97cfe9d588c1ec454.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lemonnier SIRET: 110 392 404 00932 Date émission: 2024-09-24",
+        "extracted_data": {
+            "siret": "11039240400932",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-09-24"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dd048aea8b428264d959aa748a098ab3.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Richard SIRET: 12345678901234 Date émission: 2001-03-18",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2001-03-18"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "de471323dda857d0a782d81402fd38e6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lemaître SIRET: 172 980 682 00154 Date émission: 1972-12-15",
+        "extracted_data": {
+            "siret": "17298068200154",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1972-12-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e0b822bcb3208a8a3b9fd5d00546eb3c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Lacroix SIRET: 556 472 926 00535 Date émission: 2009-03-10",
+        "extracted_data": {
+            "siret": "55647292600535",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2009-03-10"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e1327b479db179267ac7540d52041660.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Brun SIRET: 723 692 927 00608 Date émission: 2019-04-13",
+        "extracted_data": {
+            "siret": "72369292700608",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-04-13"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e3ea8f9587c772783956ec8ea6068c3a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pichon SIRET: 280494983208938 Date émission: 1975-05-28",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1975-05-28"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e4d62bf5cfa82da6bc8779c31ff47f8e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Allard SIRET: 982 182 743 00350 Date émission: 1994-12-25",
+        "extracted_data": {
+            "siret": "98218274300350",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-12-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e89388af8f9af10f90148bb6d3b7202e.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vidal SIRET: 373 334 333 00953 Date émission: 1983-10-19",
+        "extracted_data": {
+            "siret": "37333433300953",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1983-10-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e9aa6617e0dcc44bdf34e09d822a1d6f.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ferreira SIRET: 489 476 978 00650 Date émission: 2022-05-25",
+        "extracted_data": {
+            "siret": "48947697800650",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-05-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ea34d54a6ece852635debca39afda3f9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Bonnet SIRET: 460 843 253 00804 Date émission: 1996-09-25",
+        "extracted_data": {
+            "siret": "46084325300804",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1996-09-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "eccec4e9df269750a44bcb2d9d31f4c9.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Da Silva SIRET: 191882211849891 Date émission: 1979-11-23",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1979-11-23"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "eee8a18ae8453201e6191668dfbffb09.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pineau Bouvet S.ASS. SIRET: 973888883326454 Date émission: 1994-07-06",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-07-06"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ef724a11b5aa560264cb0c064c8790bc.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Pages SIRET: 669 380 115 00859 Date émission: 2008-01-18",
+        "extracted_data": {
+            "siret": "66938011500859",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2008-01-18"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "efcc6fb587a9dd256030b84b2a1de8a8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Louis SIRET: 103 717 054 00771 Date émission: 2007-12-22",
+        "extracted_data": {
+            "siret": "10371705400771",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2007-12-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f0c7adb3ede2d76231518b6dd72afb20.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Gauthier Morel S.A.R.L. SIRET: 350 488 896 00282 Date émission: 1994-03-15",
+        "extracted_data": {
+            "siret": "35048889600282",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1994-03-15"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f1ade73a2895880f817e1cf9f1bc3f14.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Tessier SIRET: 103 717 054 00912 Date émission: 2024-01-19",
+        "extracted_data": {
+            "siret": "10371705400912",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-19"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f39da23bdbeb76451fc5b7c81158ae1a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Mathieu SIRET: 678 085 622 00671 Date émission: 2017-07-07",
+        "extracted_data": {
+            "siret": "67808562200671",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-07-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f3f29d7111bd6ded6550cbf42ed1396c.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Barthelemy Imbert S.A.R.L. SIRET: 472 649 086 00999 Date émission: 1976-02-26",
+        "extracted_data": {
+            "siret": "47264908600999",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1976-02-26"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f4bc1f165a75e6bb1a684e0cdbb18fc7.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Philippe SIRET: 031 365 026 00462 Date émission: 2024-01-22",
+        "extracted_data": {
+            "siret": "03136502600462",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-22"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f4fb916ad70af0350dff97deed662519.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Chevalier SIRET: 866 326 630 00526 Date émission: 1998-09-25",
+        "extracted_data": {
+            "siret": "86632663000526",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1998-09-25"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f5a19bae41257da25c276f83afa2ba4a.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Robert SIRET: 600 490 825 00574 Date émission: 1990-06-09",
+        "extracted_data": {
+            "siret": "60049082500574",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1990-06-09"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f7f643d6ee7f9925c66d0fc586da97b8.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Didier SIRET: 885 744 896 00170 Date émission: 1973-03-31",
+        "extracted_data": {
+            "siret": "88574489600170",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1973-03-31"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fb1afb9075e9b62714716cd30bfbc8ae.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Blondel SIRET: 12345678901234 Date émission: 2022-01-26",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-01-26"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fbdcdf676790f93d1e679851b48443a6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Maillet Jacquet S.AS. SIRET: 1331052753911 Date émission: 2014-12-23",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2014-12-23"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fc28cd8874c3a272d3bac5112f7dcdf1.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Nicolas S.A.R.L. SIRET: 12345678901234 Date émission: 1982-02-17",
+        "extracted_data": {
+            "siret": "12345678901234",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-02-17"
+        },
+        "anomalies": [
+            "SIRET invalide"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fd274489b71c33dacfbd44f4e2fbba19.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Paul Pereira SA SIRET: 094 801 412 00902 Date émission: 2019-05-08",
+        "extracted_data": {
+            "siret": "09480141200902",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-05-08"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fd8e362ed21d4fc617984379e5ebaaf5.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Boulay Martins SA SIRET: None Date émission: 1982-01-19",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "1982-01-19"
+        },
+        "anomalies": [
+            "SIRET manquant"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fdcfdd28ff3dcbae7017ff68aafac38b.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Valette Jacquet SARL SIRET: 877 169 474 00419 Date émission: 2012-12-27",
+        "extracted_data": {
+            "siret": "87716947400419",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2012-12-27"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fea4f0b851553a9e46d76294f87331f6.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Ledoux S.AS. SIRET: 474 231 222 00529 Date émission: 2011-12-26",
+        "extracted_data": {
+            "siret": "47423122200529",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2011-12-26"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ff5f97bc802d5ea455144b322e0bbd72.pdf",
+        "categorie": "attestation_siret",
+        "contenu": "Type de document: attestation_siret Entreprise: Vincent Laine S.A.R.L. SIRET: 808 562 714 00614 Date émission: 2017-07-07",
+        "extracted_data": {
+            "siret": "80856271400614",
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-07-07"
+        },
+        "anomalies": [
+            "SIRET différent du modèle"
+        ],
+        "is_valid": false
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "attestation_siret": {
+        "siret": "12345678901234",
+        "tva": null,
+        "iban": null,
+        "bic": null,
+        "date": "2026-03-18",
+        "ground_truth_valid": true
+    },
+    "facture": {
+        "siret": "12345678901234",
+        "tva": "FR12345678901",
+        "iban": null,
+        "bic": null,
+        "date": "2026-03-01",
+        "ground_truth_valid": true
+    },
+    "devis": {
+        "siret": "12345678901234",
+        "tva": "FR12345678901",
+        "iban": null,
+        "bic": null,
+        "date": "2026-04-15",
+        "ground_truth_valid": true
+    },
+    "rib": {
+        "siret": null,
+        "tva": null,
+        "iban": "FR7612345678901234567890123",
+        "bic": "AGRIFRPP",
+        "date": null,
+        "ground_truth_valid": true
+    }
+}

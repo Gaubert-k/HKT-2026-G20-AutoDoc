@@ -1,0 +1,13 @@
+[
+  {
+    "nom_fichier": "demo-facture.pdf",
+    "extracted_data": {
+      "siret": "55210055400015",
+      "tva": "FR44552100554",
+      "amount_ht": "1200.50",
+      "date": "2025-03-01",
+      "fournisseur": "ACME Services SARL"
+    },
+    "anomalies": []
+  }
+]

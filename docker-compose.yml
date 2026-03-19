@@ -1,0 +1,177 @@
+services:
+  # ========== Hadoop Cluster ==========
+  namenode:
+    image: apache/hadoop:3
+    container_name: namenode
+    hostname: namenode
+    user: root
+    entrypoint: ["/entrypoint.sh"]
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    healthcheck:
+      test: ["CMD-SHELL", "hdfs dfsadmin -safemode get 2>/dev/null | grep -q 'OFF'"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+    volumes:
+      - ./bigdata-project/Script/namenode-entrypoint.sh:/entrypoint.sh
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+      - namenode_data:/data/hdfs
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    networks: [bigdata]
+
+  datanode1:
+    image: apache/hadoop:3
+    container_name: datanode1
+    hostname: datanode1
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command:
+      - bash
+      - -c
+      - "mkdir -p /data/hdfs/data && hdfs datanode"
+    volumes:
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+      - datanode1_data:/data/hdfs
+    networks: [bigdata]
+
+  datanode2:
+    image: apache/hadoop:3
+    container_name: datanode2
+    hostname: datanode2
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command:
+      - bash
+      - -c
+      - "mkdir -p /data/hdfs/data && hdfs datanode"
+    volumes:
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+      - datanode2_data:/data/hdfs
+    networks: [bigdata]
+
+  resourcemanager:
+    image: apache/hadoop:3
+    container_name: resourcemanager
+    hostname: resourcemanager
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn resourcemanager"]
+    volumes:
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+    ports:
+      - "8088:8088"
+    networks: [bigdata]
+
+  nodemanager1:
+    image: apache/hadoop:3
+    container_name: nodemanager1
+    hostname: nodemanager1
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn nodemanager"]
+    volumes:
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+    networks: [bigdata]
+
+  nodemanager2:
+    image: apache/hadoop:3
+    container_name: nodemanager2
+    hostname: nodemanager2
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn nodemanager"]
+    volumes:
+      - ./bigdata-project/hadoop:/opt/hadoop/etc/hadoop
+    networks: [bigdata]
+
+  # ========== Backend AutoDoc ==========
+  backend:
+    build: ./Website/backend
+    container_name: autdoc-backend
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - HDFS_URL=http://namenode:9870/webhdfs/v1
+      - HDFS_USER=root
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks: [bigdata]
+
+  # ========== Frontend AutoDoc ==========
+  frontend:
+    build:
+      context: ./Website/frontend
+      args:
+        - VITE_API_URL=http://localhost:5000
+    container_name: autdoc-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks: [bigdata]
+
+  # ========== Workers HDFS (bronze->silver->gold) ==========
+  worker-ocr:
+    build:
+      context: ./Pipeline/workers
+    container_name: autdoc-worker-ocr
+    environment:
+      - HDFS_URL=http://namenode:9870/webhdfs/v1
+      - HDFS_USER=root
+      - BRONZE_DIR=/data_lake/bronze/documents/documents
+      - SILVER_DIR=/data_lake/silver/ocr_text
+      - GOLD_DIR=/data_lake/gold
+      - POLL_INTERVAL_MS=5000
+    command: ["node", "bronzeToSilver.js"]
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks: [bigdata]
+
+  worker-score:
+    build:
+      context: ./Pipeline/workers
+    container_name: autdoc-worker-score
+    environment:
+      - HDFS_URL=http://namenode:9870/webhdfs/v1
+      - HDFS_USER=root
+      - BRONZE_DIR=/data_lake/bronze/documents/documents
+      - SILVER_DIR=/data_lake/silver/ocr_text
+      - GOLD_DIR=/data_lake/gold
+      - POLL_INTERVAL_MS=5000
+    command: ["node", "silverToGold.js"]
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks: [bigdata]
+
+volumes:
+  namenode_data:
+  datanode1_data:
+  datanode2_data:
+
+networks:
+  bigdata:
+    driver: bridge

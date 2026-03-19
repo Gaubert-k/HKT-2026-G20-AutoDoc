@@ -1,0 +1,3997 @@
+[
+    {
+        "nom_fichier": "01082f60e75757b97437452d0002904e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Sanchez S.A. IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Germain Ramos S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "05b2b4e47d402f6c17bf10da59c06bdd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Colin François S.A.R.L. IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Gauthier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "05de22fc6c98143e11400bd4171f806e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Le Goff IBAN: FR0597371470827235909605673 BIC: GAYVFRIR Banque: Bousquet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR0597371470827235909605673B1C",
+            "bic": "GAYVFR1RB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "087cbbb1102ad868351c8126d5ac500a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Aubry IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Leblanc Paris et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0922f9cf4b049964e1f39ae7ce02f205.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lopes IBAN: FR3196410496706670336268040 BIC: ATYKFRQNBV1 Banque: Chauveau Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3196410496706670336268040B1C",
+            "bic": "ATYKFRQNBV1",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0a5fd95e0cc391c8dd6b6ede1ccfa30a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dias IBAN: FR5865369455158886367747226 BIC: ARKYFR3LGYO Banque: Bouchet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5865369455158886367747226B1C",
+            "bic": "ARKYFR3LGY0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0e0cfc79fc3fc4f48b18c70cc20303ac.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Ramos IBAN: FR2301078356743000389608706 BIC: WENWFR191H2 Banque: Chauvet SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2301078356743000389608706B1C",
+            "bic": "WENWFR191H2",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0e54200d18d360ef146d73c59c17bfe8.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Carlier Torres S.A.S. IBAN: FR2431216376182091660100231 BIC: EUTAFRAGSVF Banque: Joly Voisin S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2431216376182091660100231B1C",
+            "bic": "EUTAFRAGSVF",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0f7133ba40d1a8cec91daf02f0410af5.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lebrun et Fils IBAN: FR5099604387875357788116162 BIC: FQXDFRKM Banque: Noël Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5099604387875357788116162B1C",
+            "bic": "FQXDFRKMB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "0fd7f30795a18069f3324f309a698f99.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Mary IBAN: FR8296100231177533126610941 BIC: XCOYFRXB Banque: Lebrun Nicolas et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8296100231177533126610941B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "110cda1ce8c2ac164c4fa9d3ec36b175.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Traore Chauvin S.A.R.L. IBAN: FR6888127868669432029390878 BIC: JHJWFRR9HKO Banque: Joubert S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6888127868669432029390878B1C",
+            "bic": "JHJWFRR9HK0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "120b306fdf128b529ee0e8af68fb36ed.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Camus IBAN: FR5387256862110225803056906 BIC: JJPCFR1PJ6L Banque: Guyot Gosselin SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5387256862110225803056906B1C",
+            "bic": "JJPCFR1PJ6L",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1348d08b0fd3d6f7b1d1d86e9726322c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Coulon Robert SARL IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Costa Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "13a0a73028bcc2fd442b0e07a9857c01.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hamon IBAN: FR7798217661912841173098503 BIC: IMWLFREKSE8 Banque: Paul Bourdon S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7798217661912841173098503B1C",
+            "bic": "MWLFREKSE8B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "14dfec78135c78a04b384ff59e5331fe.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Morel IBAN: FR2861853800329633472727423 BIC: QXXGFRA1 Banque: Marin S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2861853800329633472727423B1C",
+            "bic": "QXXGFRA1B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "151afce53d223673b71128ef744bf13a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lagarde IBAN: FR4493897015502916815466024 BIC: NDZGFRQT Banque: Lemonnier Girard SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4493897015502916815466024B1C",
+            "bic": "NDZGFRQTB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "154d5bcac80cdb5d7e0c18995db487ad.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lamy S.A.R.L. IBAN: FR5428728660416448595922483 BIC: QTIPFR3NVIK Banque: Dubois Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5428728660416448595922483B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1c1b2045b1b9502447a6c66eae5bbb98.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fernandez Delannoy SARL IBAN: FR0O323691430753666144942965 BIC: VYGIFRIO Banque: Hernandez Schneider SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00323691430753666144942965B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1d540bb6d04e4c58c3727950b0a88bf7.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lefèvre IBAN: None BIC: None Banque: Monnier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1ef15a213445424f67c7d08c1684a921.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Munoz IBAN: FR6094012897432512257207650 BIC: ICFVFRAW Banque: Guillon Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6094012897432512257207650B1C",
+            "bic": "CFVFRAWB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "1fdd52b1b05b14cb5e912ba0c57155dc.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hoareau S.A.R.L. IBAN: FR7401002314290018513279724 BIC: PEHBFR8R8HB Banque: Henry S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7401002314290018513279724B1C",
+            "bic": "PEHBFR8R8HB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "21460e197467004549c6008e2de8ddb3.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lacombe IBAN: FR2929580660138241270493862 BIC: JIRLFRHV Banque: Duhamel Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2929580660138241270493862B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "22d13e2e7226129b9d4f8b5a3f7bd0c0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lopez IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Lefèvre et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2368ea67f9b02d5c2ca3ebc3d8466ede.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Carre IBAN: FR1938612590472927742333059 BIC: VZEMFR1K Banque: Pereira SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1938612590472927742333059B1C",
+            "bic": "VZEMFR1KB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "24f6b24319568e17c900095b0e68eb73.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dumas IBAN: FR6100038960870662668217195 BIC: GKNBFRPOFAO Banque: Letellier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6100038960870662668217195B1C",
+            "bic": "GKNBFRP0FA0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2567b45b74d788ec4f4143f96f14d52f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Costa Munoz et Fils IBAN: FR1153745843845881056974132 BIC: JXRGFRHX Banque: Da Silva Huet et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1153745843845881056974132B1C",
+            "bic": "JXRGFRHXB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2622b324aefbcbebf5b8a4522b8042d1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Thierry IBAN: FR2685571617688029424090367 BIC: FOYQFRY9 Banque: Maréchal Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2685571617688029424090367B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2a5adaf08e65a0064534f645bebf3a9c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Klein S.A.R.L. IBAN: FR5605687611249125652373415 BIC: OWPYFRPQ Banque: Collet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5605687611249125652373415B1C",
+            "bic": "WPYFRPQB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "2c0fd66fc7bdba00dfdaa5576ded2d6f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Briand IBAN: FR7004641978575851268612059 BIC: GQTXFR31D3S Banque: Rivière S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7004641978575851268612059B1C",
+            "bic": "GQTXFR31D3S",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "315705e37101b0cdbc3d32a6d4c4bc1e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Perrin IBAN: FR9554214477324491342138820 BIC: RRZGFRA5 Banque: Lemaître S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9554214477324491342138820B1C",
+            "bic": "RRZGFRA5B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "339e06ab3d30ab146ad244338842cb51.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bonneau IBAN: FR5698028413908088235130523 BIC: XWEIFRR4 Banque: Morin Lévêque et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5698028413908088235130523B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "33b6eee825617bfcb5b8d67a460c7181.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Boulanger Guillou S.A.R.L. IBAN: INVALIDIBAN123456 BIC: ABC Banque: Imbert Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "34d5994e8d80a0b9cdfd2437b0d4ce0d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Cousin SA IBAN: FR7870349107406500425488214 BIC: XGNSFRFS Banque: David Reynaud SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7870349107406500425488214B1C",
+            "bic": "XGNSFRFSB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "35439493421b976536101e1baa58791e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Chauvin S.A. IBAN: FR8075791452118237931269789 BIC: BYPIFROT Banque: Fernandes Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8075791452118237931269789B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "361454ef39a5bcea172759f8af73f7c2.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Masson IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Lucas Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "371c78d0724170c53ea8d0396a0998e5.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Regnier SA IBAN: None BIC: ABC Banque: Couturier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3986f6df22ede1bd053026eae1026279.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Briand Barbier SARL IBAN: FR1618623690362891775662056 BIC: IDDCFRXV Banque: Dupuis SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1618623690362891775662056B1C",
+            "bic": "DDCFRXVB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3a63ec11ce1c1cb49e89167a40e18cb7.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Valette IBAN: None BIC: INVALIDBICCODE123 Banque: Rolland Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3bd956f8968d7668e13d797eecd11130.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Martineau S.A.R.L. IBAN: FR2465024120957907371009438 BIC: YEYDFRGT Banque: Sauvage Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2465024120957907371009438B1C",
+            "bic": "YEYDFRGTB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3c4be054f7a26a72236dc6e5b0c83454.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Garcia et Fils IBAN: FR6130102724055934296711148 BIC: PWXLFRO2 Banque: Poulain Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6130102724055934296711148B1C",
+            "bic": "PWXLFR02B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3c5fe3e19a7d12f47d97c270e33a58aa.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Masson S.A.R.L. IBAN: FR9391124421175361706171366 BIC: UOZFFRLTALC Banque: Le Goff SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9391124421175361706171366B1C",
+            "bic": "ZFFRLTALCB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3c9e0c1675ab3cebc0932f55a38ead38.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bernard Gallet et Fils IBAN: FR0O296348079705097545105265 BIC: DNPGFRF7 Banque: Bouchet Denis S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00296348079705097545105265B1C",
+            "bic": "DNPGFRF7B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3de1f9761deb899a1327680a1bde5bb5.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Olivier Fischer S.A.R.L. IBAN: FR8811895473820236848557161 BIC: NQQZFRBKRIS Banque: Moreno SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8811895473820236848557161B1C",
+            "bic": "NQQZFRBKR1S",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3ebfbcf50869d9c3f737efcd8ca9d927.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lebreton IBAN: FR123 BIC: None Banque: Lamy Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3edb0ab4dd9e3950890f5fc755b76b96.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Leroy Lecomte S.A.S. IBAN: FR123 BIC: ABC Banque: Caron Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "3f2b3a1bbc2274095a77df8278b37892.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Philippe IBAN: None BIC: ABC Banque: Allard S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "40a56d8819fc98984347b8c95000b5f8.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Martineau IBAN: FR1419754661766204719609409 BIC: BLEOFR3RAKW Banque: Lévêque Munoz S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1419754661766204719609409B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "410032dc72f6f57dbe79c01abb4313bd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Laine Carpentier SA IBAN: FR5184919665533077046117295 BIC: HSAJFRBA3SI Banque: Da Silva Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5184919665533077046117295B1C",
+            "bic": "HSAJFRBA3S1",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "426e0442fd54c863bdb3e276b485b388.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Aubert IBAN: FR3680032963347272742318306 BIC: PRTGFRLC Banque: Lagarde Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3680032963347272742318306B1C",
+            "bic": "PRTGFRLCB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "427ebc64875c3b957b7cd288a404525d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Laroche SA IBAN: INVALIDIBAN123456 BIC: None Banque: Jean Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "42f5304c3777b6867caa3395e2b7171c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hardy Leduc S.A. IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Gillet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4364ae81308022eeb23caf27230afa2e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dumas Berger S.ASS. IBAN: FR123 BIC: None Banque: Barthelemy Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "43c6a35e693b1835422831f5d9fc54d2.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fernandes IBAN: FR1305996043878753577881161 BIC: EYAFFR7HKM2 Banque: Morel S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1305996043878753577881161B1C",
+            "bic": "EYAFFR7HKM2",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "44f711c835935c5c65a9b9429c65ada9.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hamon IBAN: FR4019515109226859262494514 BIC: VLIZFREAJJU Banque: Perrier Cohen et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4019515109226859262494514B1C",
+            "bic": "ZFREAJJUB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4551aa4daa8a0460c6d74b38b39d8ce0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Guibert IBAN: FR7538458810569741328348315 BIC: BHWOFR3H Banque: Didier SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7538458810569741328348315B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "461c7531b0c3e59bd88d95bd7899b572.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gauthier Guyon S.AS. IBAN: FR3263945680447314976461368 BIC: PJWRFR6PYB5 Banque: Guichard Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3263945680447314976461368B1C",
+            "bic": "PJWRFR6PYB5",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "463a8395091f96bac63220955d4b4e76.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Colin IBAN: FR8501859626301367492617647 BIC: ADDCFRH56OB Banque: Paris Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8501859626301367492617647B1C",
+            "bic": "ADDCFRH560B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "479c5494d9a000f43889a3cbb36c44cd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hebert Pinto SA IBAN: FR5270705783609149851724447 BIC: HUFEFRDO Banque: Bègue SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5270705783609149851724447B1C",
+            "bic": "HUFEFRD0B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "480aeefca2dceebd9f3d34a2d1ca5baa.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Grégoire IBAN: FR3150745106634362948978610 BIC: DHDBFRCR Banque: François Rossi SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3150745106634362948978610B1C",
+            "bic": "DHDBFRCRB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "482765a5b00d17b02f02fca1d08fb84d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Benoit Le Gall S.ASS. IBAN: None BIC: INVALIDBICCODE123 Banque: Julien Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "483b9165a9b6742d40d96af5f07c7738.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Baron IBAN: FR6568341465111312901487068 BIC: PPQVFR8H Banque: Garcia Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6568341465111312901487068B1C",
+            "bic": "PPQVFR8HB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4a3a7e8e70d7e029f8d186ae6c6e83bf.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lefèvre S.A.R.L. IBAN: INVALIDIBAN123456 BIC: None Banque: Moulin Boucher et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4a60c31c1abe938fcc831cb0ae299dad.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Guyon IBAN: FR1858474570545897148026325 BIC: AHSXFR1XNFM Banque: Riou Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1858474570545897148026325B1C",
+            "bic": "AHSXFR1XNFM",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4caa1af9a4485a91c4ab871d13eaae1d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Couturier S.A.R.L. IBAN: FR6289046337861371576605384 BIC: VIJZFROPAOC Banque: Michel S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6289046337861371576605384B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4d902123f6ff8e7829c6f7d6bea3b1a2.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Delahaye S.A. IBAN: None BIC: ABC Banque: Didier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "4eb92c3a8c0998093fd03bbb0747111f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Pineau Gosselin SARL IBAN: FR123 BIC: ABC Banque: Fischer S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "52b8cba0f42556fd8ae2339381c6b7ea.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Charrier S.A.R.L. IBAN: FR0O570244033041662411186008 BIC: DXSZFRZM Banque: Breton Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00570244033041662411186008B1C",
+            "bic": "DXSZFRZMB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "53725936eea5f948f009c32e4c847155.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Pruvost IBAN: FR4569586780555572773826460 BIC: UPRLFRFN Banque: Bailly Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4569586780555572773826460B1C",
+            "bic": "UPRLFRFNB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "548da0b6d38dea054f7fb1880f09064a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Paris et Fils IBAN: FR2287824556964430985916795 BIC: DAPVFRJ3J7S Banque: Bailly Coulon SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2287824556964430985916795B1C",
+            "bic": "DAPVFRJ3J7S",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "56bc56978dbe6a209f8094927828d384.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Blanchet IBAN: FR1004473149764613684748836 BIC: PXMLFR8G Banque: Hubert Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1004473149764613684748836B1C",
+            "bic": "PXMLFR8GB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "56ca042eb33d432f394c91616dd25b6d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Blot Gilles S.A. IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Blot Wagner S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "57d14aaaf2fc8ad73919c7fcaf7df7d5.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Rémy Alves et Fils IBAN: FR1359895343961129109337118 BIC: JXPYFRM8JCI Banque: Humbert Dias et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1359895343961129109337118B1C",
+            "bic": "JXPYFRM8JC1",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5817cb46098d2189a968791a2a6df464.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fournier IBAN: FR0O324240338105955184269450 BIC: LHXIFRLQ Banque: Tanguy et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00324240338105955184269450B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5d68a650b87226c1585c7036327da1b6.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Verdier Martel et Fils IBAN: FR7774573144158331170303763 BIC: DKGSFR76UT3 Banque: Bodin Gautier S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7774573144158331170303763B1C",
+            "bic": "DKGSFR76UT3",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5eaae210c3c7d9ad7ec5e88cf1317f56.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gosselin IBAN: FR1744723229031028795083044 BIC: VLRWFRCP Banque: Nicolas Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1744723229031028795083044B1C",
+            "bic": "VLRWFRCPB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "5f6bede5cf91d1a0a89027fb365b1cb8.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bourgeois IBAN: FR5350238503719905169918724 BIC: DBPQFROW Banque: Martel Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5350238503719905169918724B1C",
+            "bic": "DBPQFR0WB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "60586ced299d9886e68ae57acd4ab544.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Courtois IBAN: FR7649102562588967924082226 BIC: BXULFRPO3L2 Banque: Bigot Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7649102562588967924082226B1C",
+            "bic": "BXULFRP03L2",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "613adff84cd3b7942d0bb9c3fd67a855.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Joseph Coulon SARL IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Blin S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "66d95dbee542810dbf8ea191e1306154.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Coulon Duval SARL IBAN: FR2939885472812356798363146 BIC: VJSUFRGJ Banque: Gautier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2939885472812356798363146B1C",
+            "bic": "VJSUFRGJB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "672a2c7e5f2f49bab527d5ed464113aa.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Masse IBAN: FR3060945449014954277070705 BIC: URGNFRDFRQU Banque: Besnard S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3060945449014954277070705B1C",
+            "bic": "URGNFRDFRQU",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "68924a7a0cea812758a1c703f89591eb.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Louis IBAN: FR6392831995298006155810835 BIC: FRMWFROS Banque: Besson Rémy S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6392831995298006155810835B1C",
+            "bic": "FRMWFR0SB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6a416698f1b851d898924af31544cffd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Ledoux IBAN: FR1126546968157903923555809 BIC: CUHEFR5MCNT Banque: Morin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1126546968157903923555809B1C",
+            "bic": "CUHEFR5MCNT",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6a8158ff432ec4b15438a23a78a8a095.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Leroux SARL IBAN: FR2388358681225957244617679 BIC: SWQYFR7Q Banque: Rocher Breton S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2388358681225957244617679B1C",
+            "bic": "SWQYFR7QB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6aa79378cc34ecef864548571c328579.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Robert Camus SA IBAN: FR9553496782741176741241513 BIC: KFQKFRR3 Banque: Munoz et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9553496782741176741241513B1C",
+            "bic": "KFQKFRR3B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6b22a72e0dfa49bf75537b3c7b0e001f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Menard IBAN: FR123 BIC: ABC Banque: Seguin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6b49f938794a89dcf562c1c74ae334fe.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gros IBAN: FR4489536902611398986818097 BIC: KIGSFRSPVPX Banque: Pineau Gomes et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4489536902611398986818097B1C",
+            "bic": "GSFRSPVPXB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6bdd8f7e43593561c332f22c5f35f465.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Masse IBAN: FR4467827411767412415131528 BIC: IOUXFR6EUC1 Banque: Munoz S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4467827411767412415131528B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6c2f3e11770138ee167cf16c828c8a1a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Poirier SARL IBAN: None BIC: None Banque: Martel Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6d196dcd7a677f62371187b00552703d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Masse Maillet S.A. IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Barbier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6d7f4d8c9963ab29be457ba8adf498f1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bonnin S.A.R.L. IBAN: FR3776655868512765289286646 BIC: WTDCFRGFBOG Banque: Bouvet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3776655868512765289286646B1C",
+            "bic": "WTDCFRGFB0G",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6fb729bb531dfe7f63b7b120f5562ac4.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lucas IBAN: FR5985067625153814474430963 BIC: UQBOFR5DWA3 Banque: Léger Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5985067625153814474430963B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "6ff9b55020123600005c87fabf31df1c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Marques et Fils IBAN: FR2301716445561857906477159 BIC: AHBAFRIG Banque: Lagarde Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2301716445561857906477159B1C",
+            "bic": "AHBAFR1GB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "71c37dbaca2efe2821cb2ea9e7c0951c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Vincent IBAN: FR8762607870104159149750198 BIC: WGQEFR95 Banque: Hubert Parent et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8762607870104159149750198B1C",
+            "bic": "WGQEFR95B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "723b5cd411bfdfc003bddea1ba0571e7.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Jacquot S.A.R.L. IBAN: FR2575662056341115950342811 BIC: TAYJFRM9 Banque: Diaz David S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2575662056341115950342811B1C",
+            "bic": "TAYJFRM9B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "73037902ff1456c5d974bd7d68a1e648.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Tanguy IBAN: FR8318097887543943535375137 BIC: LCLRFR6EX40 Banque: Humbert Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8318097887543943535375137B1C",
+            "bic": "LCLRFR6EX40",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "738a6674be6b4f3396fc04a4fcf81cb9.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Poulain IBAN: FRO609546540842456075409150 BIC: HFCRFRGIN51 Banque: Barre Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR0609546540842456075409150B1C",
+            "bic": "HFCRFRG1N51",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "741e8e29eb62738791e76f5062807ffb.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Humbert Brunet SARL IBAN: FR1866093141818615155423401 BIC: HMDZFRHL7T5 Banque: Evrard SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1866093141818615155423401B1C",
+            "bic": "HMDZFRHL7T5",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "764e4a8513b1315861c530a8e46e5b55.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fournier S.A. IBAN: FR9393218401184582603408487 BIC: SPWKFR7W Banque: Lagarde Perrin et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9393218401184582603408487B1C",
+            "bic": "SPWKFR7WB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "771f59cd74768cf1ab731184acec004f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bernard IBAN: FR6430587210552472863330212 BIC: XAWNFRXDGE4 Banque: Martinez Caron SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6430587210552472863330212B1C",
+            "bic": "XAWNFRXDGE4",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "776671512fc29e620144ea4c605e5b16.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Mace et Fils IBAN: FR5764983735439627365271727 BIC: FGSPFRLS Banque: Ruiz S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5764983735439627365271727B1C",
+            "bic": "FGSPFRLSB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "77997bf57496bd569963222770f4a803.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Moreno S.A.R.L. IBAN: FR4611121259020357134324064 BIC: IESKFROO Banque: Maillard Bourgeois S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4611121259020357134324064B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "78a4d1cc7392ed353d722f2aaf78e877.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dos Santos S.A.S. IBAN: FR4676754813866675485819324 BIC: NROPFRQH Banque: Gilles Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4676754813866675485819324B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7909c092daf12daa1d9a762c43182673.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dijoux SA IBAN: FR5033170876014672384979162 BIC: FEXVFRPK Banque: Ollivier Voisin SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5033170876014672384979162B1C",
+            "bic": "FEXVFRPKB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7b5dcd930d01f430d6dde60234950b12.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Leclerc IBAN: FR2420293908788443448123083 BIC: BUEIFRIRDPN Banque: Martin et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2420293908788443448123083B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7b73cff2a16514eb47adfd8eac1d0d2d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Payet S.AsS. IBAN: FR7686652683415599910157676 BIC: YPWEFRL6FJA Banque: Parent Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7686652683415599910157676B1C",
+            "bic": "YPWEFRL6FJA",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7b805c6aaebac691d189facedec41b17.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Cousin Jacques S.A. IBAN: FR2986333021260650191792025 BIC: CHCAFROJ Banque: Lelièvre Bernier S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2986333021260650191792025B1C",
+            "bic": "CHCAFR0JB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7dc72ca482cd0123ea680d4e3a3eae8d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Blanchet IBAN: FR6912259572446176792988425 BIC: STMCFRCBKOG Banque: Didier et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6912259572446176792988425B1C",
+            "bic": "STMCFRCBK0G",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7e0fde38ed4deec911a7e59280aa6e19.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Jacquot S.A. IBAN: FR1376515881579376392836929 BIC: ZJKKFRHF006 Banque: Bruneau Costa et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1376515881579376392836929B1C",
+            "bic": "ZJKKFRHF006",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "7ec48440d5c00f090ae868f64f19740e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bousquet Leroy S.A.S. IBAN: FR3232998199605932971509688 BIC: FOLXFRPL Banque: Mendès Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3232998199605932971509688B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "805fecf38a627f800548ac612781d440.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Le Gall IBAN: FR3581776655868512765289286 BIC: JVWVFR1SGFG Banque: Delahaye SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3581776655868512765289286B1C",
+            "bic": "JVWVFR1SGFG",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "82a5c7e8c6b2eacb9df3a048b3bf98dd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Delattre IBAN: FR2422710433187510979215835 BIC: GINFRTX Banque: Adam Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2422710433187510979215835B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "841bc912e146bfbaad439994d7ee3cd0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Henry IBAN: FR123 BIC: None Banque: Bourdon Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "84b33a3e8af06d51751156005c5ab18c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Maillet IBAN: FR8630600025895529638639609 BIC: EUMXFRLZU7K Banque: Grondin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8630600025895529638639609B1C",
+            "bic": "EUMXFRLZU7K",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "84eccd5c4aaebd667de556904ba6c853.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Roussel IBAN: FR7717309850344651241893898 BIC: MTBRFRH4QBC Banque: De Oliveira Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7717309850344651241893898B1C",
+            "bic": "MTBRFRH4QBC",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "865a698c198b9405afe8288e2bef9bf9.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Martin IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Faivre Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "865c36727a14cbd929d4d0222d376bcd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fernandez Guillon SA IBAN: FR3213020569815287339785598 BIC: ZCONFRYE Banque: Rodriguez S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3213020569815287339785598B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "897695ead40248dd86dc76180fccc91d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bigot IBAN: FR5056766708061294398529894 BIC: YMEMFRA3 Banque: Vincent Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5056766708061294398529894B1C",
+            "bic": "YMEMFRA3B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8b9c53cf46956e1ef7ee3831a6c74f42.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dos Santos IBAN: FR9436687887883619689313503 BIC: LRPEFRHD Banque: Alves Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9436687887883619689313503B1C",
+            "bic": "LRPEFRHDB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8bfef03019e9085d11caa47407f343cc.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lambert IBAN: None BIC: ABC Banque: Lagarde Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8cee01009bc1988cddecf8a53d8d308e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Marchal Collin S.A.R.L. IBAN: FR9798363146249127113072407 BIC: LIDRFRFWINJ Banque: Gaudin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9798363146249127113072407B1C",
+            "bic": "DRFRFW1NJB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8df84c95e56d521403cd09c4d1b8241e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Traore Renaud SARL IBAN: FR123 BIC: INVALIDBICCODE123 Banque: Alexandre et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8f2c7e21beb3d8ece0ded712eb248952.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Delmas Blanchard SARL IBAN: FR5770396531361487824556964 BIC: GBSQFRVH13W Banque: Masson Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5770396531361487824556964B1C",
+            "bic": "GBSQFRVH13W",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "8fcdf11deeeff15b59d863ebcbac06da.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Paris IBAN: FR4909079772781050922216107 BIC: KDRIFRMB Banque: Maillet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4909079772781050922216107B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "912700f9a8977ce184e0a3ddf8796959.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hamel IBAN: FR2757702992959660487368269 BIC: DMGGFRHS Banque: Leroux Gosselin et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2757702992959660487368269B1C",
+            "bic": "DMGGFRHSB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "91a799af71040a856edda9b37def29df.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Ollivier Joly S.A.R.L. IBAN: FR5895596905150267551254278 BIC: YAOZFR31 Banque: Reynaud Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5895596905150267551254278B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "94b65be8cdab54dd71407586718caa98.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Baudry Brun S.A.S. IBAN: FR4831995298006155810835832 BIC: WHJZFRKXVON Banque: Richard Da Silva SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4831995298006155810835832B1C",
+            "bic": "WHJZFRKXV0N",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "94c9f813abec6e0b1a1526d7b72f5764.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Jacob IBAN: FR5526244670462268171516025 BIC: SQMVFR3A Banque: Guibert Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5526244670462268171516025B1C",
+            "bic": "SQMVFR3AB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9503a841d1430146036ba1739f07f0fc.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lenoir Peron S.A. IBAN: FR3500081867024403304166241 BIC: CQXWFROB Banque: Bernier S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3500081867024403304166241B1C",
+            "bic": "CQXWFR0BB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "97385478d4caf69501ef5326c773c113.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lelièvre IBAN: FR7365704120092820667849843 BIC: FICQFRYINZD Banque: Michaud Gonzalez et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7365704120092820667849843B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "97e5072c85eb1acd3377db98a9b17262.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Charpentier S.A. IBAN: FR1927113322889857254596063 BIC: TTCEFR5G Banque: Meunier SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1927113322889857254596063B1C",
+            "bic": "TTCEFR5GB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9a4a40b71671f783b3e4bbc2f5852423.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Clément IBAN: FR6299097005140546835652156 BIC: QZYEFRBY Banque: Coste Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6299097005140546835652156B1C",
+            "bic": "QZYEFRBYB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9ba9c6d55994c203ef7bc3b707498912.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Paul IBAN: FR3995529638639609626265826 BIC: DWZEFR6H Banque: Ledoux Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3995529638639609626265826B1C",
+            "bic": "DWZEFR6HB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9baa6c91515a53492c33010093c640c7.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Teixeira IBAN: FR4115910300215632135800401 BIC: JCIKFRYR Banque: Dos Santos Guillon S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4115910300215632135800401B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9c50288f555fcac98b7cee1d9c9d5c32.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Breton IBAN: FR6733126610941017590251762 BIC: GIPOFRSO Banque: Traore Renard S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6733126610941017590251762B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9c68374e829b5a542ca686ad342d1214.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Picard IBAN: FR1887286604164485959224839 BIC: QTIPFR3NVIK Banque: Dubois Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1887286604164485959224839B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "9ea3bdcda262b69a76df9e071c7a8643.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Leclerc IBAN: INVALIDIBAN123456 BIC: ABC Banque: Gérard Lopes S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a04002e3da0a8cb11d0688648a11e4fd.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Colin IBAN: FR3605756398365203758309451 BIC: IQATFRRCRA4Z Banque: Grenier et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3605756398365203758309451B1C",
+            "bic": "QATFRRCRA4Z",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a1fb54fdb84fa85836f497e5619f834d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Breton Chartier et Fils IBAN: FR7150272751648072791033682 BIC: GLGGFRAXXBT Banque: Gaudin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7150272751648072791033682B1C",
+            "bic": "GLGGFRAXXBT",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a2fdb03ed973d801887791da7eb9037a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Garcia S.A. IBAN: FR4848171752421495511274747 BIC: DSPBFRXS Banque: Lejeune Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4848171752421495511274747B1C",
+            "bic": "DSPBFRXSB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a40bde9fa58d17cbf8abe0bb3008973a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Garnier Allain S.A. IBAN: FR9413424912896599949732033 BIC: ZTEEFRK4 Banque: Breton SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9413424912896599949732033B1C",
+            "bic": "ZTEEFRK4B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a44540d1ffe31c975e7cb7e8b2b11cb0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Cohen Grondin et Fils IBAN: FR1365271727223972404226931 BIC: CNHOFRZG Banque: Petitjean Hamel SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1365271727223972404226931B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a5337cdb073813ae6a4c68efe716d613.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Didier et Fils IBAN: FR6527284982474140703491074 BIC: NLVAFRDQ Banque: Marty Jacquet S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6527284982474140703491074B1C",
+            "bic": "NLVAFRDQB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a6eb71212092cf11d6a2dc995214ba11.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Barthelemy Julien et Fils IBAN: FR4315627796304483608545667 BIC: MIBIFR5OVCT Banque: Lejeune Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4315627796304483608545667B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a7e19c5855bd45ebb4f9879877a81a97.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Seguin S.A.R.L. IBAN: FR6563955172084964985601256 BIC: LHCGFRXX Banque: Valette Bouvier SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6563955172084964985601256B1C",
+            "bic": "LHCGFRXXB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a81d7a3000d1bb8ce74e180948efe475.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Peltier Auger SARL IBAN: None BIC: None Banque: Besson Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a828018cd30b90406b62ee085972d892.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Julien et Fils IBAN: FR3505379538164938318491966 BIC: KGGBFR55CRO Banque: Denis S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3505379538164938318491966B1C",
+            "bic": "KGGBFR55CR0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "a91ec8481a084e1e85c14a3eeeaf1dd1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Perrot Albert S.A.R.L. IBAN: FR4327023244123361328507251 BIC: RVMWFRN4Y3P Banque: Chevallier S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4327023244123361328507251B1C",
+            "bic": "RVMWFRN4Y3P",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ab0aede2ecdd52a46d25be38090b2f81.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Sauvage S.A. IBAN: FR0O290637579145211823793126 BIC: QXSYFROD5Q0 Banque: Traore Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00290637579145211823793126B1C",
+            "bic": "QXSYFR0D5Q0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ab2dc0d80eeecc411af8548ce47c4bac.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Garcia IBAN: FR2827275164807279103368296 BIC: LGGVFRAX Banque: Durand Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2827275164807279103368296B1C",
+            "bic": "LGGVFRAXB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ac1d9ebfd67cb5271823fa0073143fbc.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Camus S.A. IBAN: FR0O471009438822114577584745 BIC: ALJWFRV74HR Banque: Caron S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00471009438822114577584745B1C",
+            "bic": "ALJWFRV74HR",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "acdc004b61be85190c0a2567865f35b0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Poirier IBAN: FR2574175955872096289365435 BIC: CQAYGFRQN3QC Banque: Blondel et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2574175955872096289365435B1C",
+            "bic": "CQAYGFRQN3Q",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "adab2ba2ed49b0f80a6daa2a62cef2f0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Georges IBAN: None BIC: INVALIDBICCODE123 Banque: Lemaître Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b04ab209a0cac393fca8425678d4958d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Meyer et Fils IBAN: FR2543765456284177225605313 BIC: BEMNFRVCKM4 Banque: Lemaire Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2543765456284177225605313B1C",
+            "bic": "BEMNFRVCKM4",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b0ab0d68c455b078a493608dbaa99f89.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Besnard Poulain S.AsS. IBAN: FR3995516874090380214629613 BIC: OVCLFR3383G Banque: Arnaud et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3995516874090380214629613B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b0afdc86a7fde6f5772adce6e35cdb76.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Couturier IBAN: FR1472240299015579980284139 BIC: RAQQGFRIN Banque: Noël Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1472240299015579980284139B1C",
+            "bic": "RAQQGFR1NB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b1ab04275d86904b0672308d5228681c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Allard Gautier SA IBAN: FR7239043830341990970051405 BIC: MQGKFRZWIGV Banque: Traore Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7239043830341990970051405B1C",
+            "bic": "MQGKFRZW1GV",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b26b22fd744ebb084cb96b82280db3fc.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Breton Payet SARL IBAN: FR9110397739732781952371006 BIC: MCZNFRQ8H8B Banque: Leduc Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9110397739732781952371006B1C",
+            "bic": "MCZNFRQ8H8B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b2a2a7fdc1b560b3d176aff0a1152aee.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fleury Ramos SARL IBAN: FR6595764038166496902824983 BIC: EVKZFRDF Banque: Gosselin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6595764038166496902824983B1C",
+            "bic": "EVKZFRDFB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b3305fcafd869fff87a5ee74524dfb60.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Roux Potier SARL IBAN: FR3169067447163928234143637 BIC: WXQTFRLM Banque: Rolland Mathieu S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3169067447163928234143637B1C",
+            "bic": "WXQTFRLMB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b3a3da3d91c8b52c685d6c0382c6ab91.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Mercier IBAN: FR7219642152265576769523668 BIC: RRPRFR8OYF0 Banque: Boutin Fernandez S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7219642152265576769523668B1C",
+            "bic": "RRPRFR80YF0",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b42465ebf7cef7cc1cb88bce97ea7f1a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Colas Marchand S.ASS. IBAN: FR1536929445511668297327021 BIC: IYRWFRA4GIC1 Banque: Blot S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1536929445511668297327021B1C",
+            "bic": "YRWFRA4G1C1",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b4d1f6fdb1115df9547a7a2ca05a3e8d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Chrétien IBAN: FR5693059660186487699842673 BIC: AIZVFRRF Banque: Pires Allard SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5693059660186487699842673B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b51dfbaae6068e436b2b9856e7b2eca1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Perez Blanchard SA IBAN: FR6346147683420165423567782 BIC: LWSMFRAIMEJ Banque: Chartier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6346147683420165423567782B1C",
+            "bic": "LWSMFRA1MEJ",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b6612c8b8ff614ed49b170df7bec23a4.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Allain S.A. IBAN: FR2267649215182606888718981 BIC: VDFTFRLA Banque: Bouvier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2267649215182606888718981B1C",
+            "bic": "VDFTFRLAB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b669197ec3136ea3bb45e81f6c9e187d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Barre Weiss S.A. IBAN: FR123 BIC: None Banque: Barbe Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b79fbc120d3819538c5343720aed3537.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bonnin IBAN: FR9536371892392312604326093 BIC: BMNQFRTO Banque: Marques Launay S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9536371892392312604326093B1C",
+            "bic": "BMNQFRT0B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b7a37f44989a7ef53c19aad42b27b12e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lefort IBAN: FR0O395518426945005342408916 BIC: UUTRFRN2OUR Banque: Blin Lombard S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00395518426945005342408916B1C",
+            "bic": "UUTRFRN20UR",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b8e7124e07f46ed58c6f28a78cb5e2c6.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Colas IBAN: FR123 BIC: None Banque: Letellier S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "b90f3d222d251ad772bc0e97a40b6a3b.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Jean IBAN: FR5796661347323549401289743 BIC: KVCFFRLV Banque: Blanchard Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5796661347323549401289743B1C",
+            "bic": "KVCFFRLVB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bbb67d65f4ee9fff3c2d520fafc75d2a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lacombe Colin SA IBAN: FR1964969357824347769587413 BIC: YYJNFR2U Banque: Dupré Lamy SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1964969357824347769587413B1C",
+            "bic": "YYJNFR2UB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "be7e7d9b6db298b7b7ff9ea82b91fea1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lebrun S.A.R.L. IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Germain Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bf12b9e1d5d600668f7c7ea0e170617a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lacombe S.A. IBAN: FR3081964825311060920981960 BIC: OUUYFRWL Banque: Guibert Louis SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3081964825311060920981960B1C",
+            "bic": "UUYFRWLB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "bf3509dddadf99b8122d8c34e85d6200.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Ledoux IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Thomas Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c11ae7ab89a408ca5070d159f43a7002.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Regnier Moulin et Fils IBAN: FR3464041209117911244211753 BIC: DPZAFROESEN Banque: Mallet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3464041209117911244211753B1C",
+            "bic": "DPZAFR0ESEN",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c1518610aece3b828b84fc749d88077a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Rémy IBAN: FR7674949022840359544294774 BIC: XZWEFRJS Banque: Boucher Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7674949022840359544294774B1C",
+            "bic": "XZWEFRJSB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c223ad3dc057f84e55497e8890527524.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hoareau IBAN: FRO629833477433268319013020 BIC: YNSRFREVL75 Banque: Guillaume Masse S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR0629833477433268319013020B1C",
+            "bic": "YNSRFREVL75",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c2f12227584279d24ffa00f9fe469144.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Baron IBAN: FR123 BIC: ABC Banque: Navarro Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c790352f471d94f6c43e7386994cad9a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Laurent Millet S.ASS. IBAN: FR5755657490250429019358895 BIC: MSBVFRJY Banque: Garnier S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5755657490250429019358895B1C",
+            "bic": "MSBVFRJYB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "c7c53d39bc24875f85eee659431a0175.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fouquet S.A.R.L. IBAN: FR123 BIC: ABC Banque: Pruvost Bousquet S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ca2d298f45d682637a019ce5ebea5d0d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Dupuy IBAN: FR6942121461476834201654235 BIC: PPRWFRK1WYA Banque: Garnier Ramos et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6942121461476834201654235B1C",
+            "bic": "PPRWFRK1WYA",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ca42d7dfa298f098e92ee2863cbb3512.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bigot IBAN: FR9376863423461994237676945 BIC: TMNGFRWX Banque: Lebreton S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9376863423461994237676945B1C",
+            "bic": "TMNGFRWXB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cc121522d67918438fb54184bf6784ae.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gros SARL IBAN: FR0O796498560125625313552510 BIC: WAWKFRN3UO9 Banque: Collin SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR00796498560125625313552510B1C",
+            "bic": "WAWKFRN3U09",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cc6fb64443e463feb1dd8d0c79c1f8e2.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Brunel IBAN: FR123 BIC: None Banque: Teixeira Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cd9b2244b929dcd1f5dac742d9d053be.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gillet IBAN: FR2757289413475098898645652 BIC: BXXGFR17 Banque: Bruneau Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2757289413475098898645652B1C",
+            "bic": "BXXGFR17B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cded7acc83ecdcc233552b46b519628f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Schneider Le Roux et Fils IBAN: None BIC: ABC Banque: Vallet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ce8e384f67f95b134b57ddc2869160a7.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gaudin S.A. IBAN: FRO809679042271133228898572 BIC: JLTNFRCYPNE Banque: Duhamel Techer S.A.R.L. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR0809679042271133228898572B1C",
+            "bic": "JLTNFRCYPNE",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "cfd847ba68c0b50ed0c909d356cdf923.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lenoir IBAN: FR5425311060920981960275233 BIC: GRHXFRYQDRF Banque: Techer Simon et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5425311060920981960275233B1C",
+            "bic": "GRHXFRYQDRF",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d003ce4f4793077efa5793aca95567e8.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Chauvin S.A.R.L. IBAN: FR5136515597371470827235909 BIC: BZLZFRI4NDN Banque: Thierry et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5136515597371470827235909B1C",
+            "bic": "BZLZFR14NDN",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d09b3212c50b6f72db7b6970671da3d3.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Blondel IBAN: INVALIDIBAN123456 BIC: ABC Banque: Guibert Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d0d4c4df781b1074a3504a09ee597821.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Laporte IBAN: FR7797861031310094318143966 BIC: DHXWFRRSNKN Banque: Diaz Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7797861031310094318143966B1C",
+            "bic": "DHXWFRRSNKN",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d228d4689c0dca3f90513ac967293eb2.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Picard Gros et Fils IBAN: FR8083774419754661766204719 BIC: ASJBFR2CWI3 Banque: Baron Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8083774419754661766204719B1C",
+            "bic": "ASJBFR2CW13",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d24a77d66a68389f6953a6c690399d68.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Guillou S.A.R.L. IBAN: FR3118133595616420595565749 BIC: FLBJFRJB Banque: Raynaud S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3118133595616420595565749B1C",
+            "bic": "FLBJFRJBB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d47412760fd04f34abbbfd0316cec131.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fabre IBAN: FR5564248096244063062447951 BIC: HAWKFROE Banque: Petitjean Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5564248096244063062447951B1C",
+            "bic": "HAWKFR0EB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d4949dc5ce2b8fb30036fe7a40b05f90.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Pierre S.A.R.L. IBAN: None BIC: None Banque: Pichon SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d4d5a24f9a0443d86bf7b7e9e598e9cb.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gros S.A.R.L. IBAN: FR7604145456350200053474916 BIC: IPLKFRTH Banque: Laroche SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7604145456350200053474916B1C",
+            "bic": "PLKFRTHB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d522b5a986155f022f55ab173c05b741.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fabre Maurice S.A.S. IBAN: None BIC: INVALIDBICCODE123 Banque: Paris Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d5c96021de0d7b1de42a87415c76c68e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Delahaye IBAN: FR4671070449641049670667033 BIC: FVNRFRDTC8W Banque: Raynaud SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4671070449641049670667033B1C",
+            "bic": "FVNRFRDTC8W",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d78bcf6712c9bb4cb29ff9ad42e43b21.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Duval IBAN: FR6679817890463378613715766 BIC: LZHQFRSR Banque: Le Gall Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6679817890463378613715766B1C",
+            "bic": "LZHQFRSRB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "d9914a880a4bd60351ecb278860ca3fb.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Traore IBAN: FR5564722981209957657289413 BIC: PKBSFR7761S Banque: Jacob Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5564722981209957657289413B1C",
+            "bic": "PKBSFR7761S",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "da70ab028e7c6f655226e44d236ef5fa.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Pottier Guillou S.A.R.L. IBAN: FR4995083044058093511871813 BIC: KSLVFROE Banque: Carre Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4995083044058093511871813B1C",
+            "bic": "KSLVFR0EB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "db7f25b8554b6378413544fdc3a79a5b.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Le Goff IBAN: None BIC: None Banque: Leclercq Merle SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dc2341c6df9c446c6fb44751f87302ab.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Potier Diaz S.A.R.L. IBAN: FR4666144942965923426834414 BIC: RFMZFR1GI72 Banque: Gaudin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4666144942965923426834414B1C",
+            "bic": "RFMZFR1G172",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dd2be62f9089574f1d89ede5e43fcc22.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gomez SA IBAN: FR4532432983954296184462671 BIC: VNWEFR8NERM Banque: Thibault Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4532432983954296184462671B1C",
+            "bic": "VNWEFR8NERM",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ddfb6761934a30fed7612caa70040da1.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Didier SA IBAN: FR1175242149551127474721970 BIC: JMNTFRI2XG6U Banque: Perez Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1175242149551127474721970B1C",
+            "bic": "JMNTFR12XG6",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "dff392612e9987b9a5fa25b6f6becbee.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gautier IBAN: FR4805265016731882617024376 BIC: JLNFFR8RG22 Banque: Joly Monnier et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4805265016731882617024376B1C",
+            "bic": "JLNFFR8RG22",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e090718d1be4c3bf30899078764a4f6c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Alexandre IBAN: FR5790819740056435023850371 BIC: LENTFRF9 Banque: Dumont Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5790819740056435023850371B1C",
+            "bic": "LENTFRF9B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e1759519b95add7d569b79e4efafd5b4.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fournier Raynaud SARL IBAN: INVALIDIBAN123456 BIC: INVALIDBICCODE123 Banque: Robin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e24261473f61d3f6320a9f8d1be1cfa6.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Peron Andre S.A. IBAN: None BIC: ABC Banque: Bonnet Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e32e0ef844550cd21b839c05e70d5011.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Morel IBAN: FR3943260931066843356708604 BIC: ILILFROP Banque: Rousseau Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3943260931066843356708604B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e555d82c9fd7ebfe655133dd2aabd558.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Nicolas S.AsS. IBAN: FR9164876998426732044138459 BIC: BTILFRRQAHT Banque: Aubry Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9164876998426732044138459B1C",
+            "bic": "LFRRQAHTB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "e894ec2582c8a4db3165df06dc5e549a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Jean IBAN: FR1121358004010414596422971 BIC: KEYSFRO2 Banque: Barbe S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1121358004010414596422971B1C",
+            "bic": "KEYSFR02B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ea2dea181d26480a5d1c5246199324a0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Brunel Millet S.ASS. IBAN: FR7163904090742608805017164 BIC: KYLMFRFQU5D Banque: Léger Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7163904090742608805017164B1C",
+            "bic": "KYLMFRFQU5D",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "eb44741688a24645c9d13882f0e2ed21.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Bonneau IBAN: FR8669357824347769587413146 BIC: KHVNFRHL3UH Banque: Grenier Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR8669357824347769587413146B1C",
+            "bic": "KHVNFRHL3UH",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ec029e6ba694a812e7c0395b7e8e6941.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Leclercq IBAN: FR7856033190368900301027240 BIC: LTUHFRSIZ4H Banque: Garnier SARL Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR7856033190368900301027240B1C",
+            "bic": "LTUHFRS1Z4H",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ec40d4fb3c168cd4ea7df8aae347c9ad.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fischer IBAN: FR4127796304483608545667664 BIC: IPXHFRVC Banque: Pons Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4127796304483608545667664B1C",
+            "bic": "PXHFRVCB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "eeb58d9acca2e5f0f041232c4ce6158d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Martinez Millet S.A. IBAN: FR4331244731584776863423461 BIC: FZGXFR5121R Banque: Loiseau Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4331244731584776863423461B1C",
+            "bic": "FZGXFR5121R",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f05e4e32f42c1ea2053aa9ec9dd7edfa.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hoareau IBAN: FR123 BIC: ABC Banque: Jourdan Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f2ab5213c32f9478149bd492e695956d.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Vallet Robert et Fils IBAN: FRO568538909728321528506762 BIC: DKVHFR8HST4 Banque: Aubry Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR0568538909728321528506762B1C",
+            "bic": "DKVHFR8HST4",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f50703a00206bfa751968897dbbefd55.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Goncalves IBAN: FR1145723084810018418620303 BIC: MELUFRSOYH5 Banque: Masson Hubert SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1145723084810018418620303B1C",
+            "bic": "MELUFRS0YH5",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f5b61ee7e209cb2a50be7215f80ec713.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Chevalier Moulin SA IBAN: FR1309622728476570412009282 BIC: MNVOFR9Q Banque: Lacombe Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1309622728476570412009282B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f5f04016fad5ee9651b6a170daeac50c.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Hernandez Techer SARL IBAN: FR3607931102918133170876014 BIC: PFHRFRQ2H1J Banque: Gonzalez S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3607931102918133170876014B1C",
+            "bic": "PFHRFRQ2H1J",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f6c4434d7dfe5f9d4296e3fd99951423.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Fournier Martin SA IBAN: FR1853474916247554110825559 BIC: HUIGFRYFGIH Banque: Coste et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1853474916247554110825559B1C",
+            "bic": "GFRYFG1HB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f7f80231f1a3c5be08a068a5baf40ab4.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Boulanger S.A.S. IBAN: None BIC: INVALIDBICCODE123 Banque: Dupuy S.A.S. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f8f00ccc2730f0e5713bd28261e9ac7f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Gosselin Delaunay S.A. IBAN: FR123 BIC: ABC Banque: Bourdon Dupré S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f903c2011340944f7055199422559774.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Toussaint IBAN: None BIC: None Banque: Marie Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN manquant ou non détecté",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f921aeaaacf358029e06ff2f685396b5.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Arnaud De Sousa SA IBAN: FR5221648712060212886652683 BIC: DKKSFRGCEW2 Banque: Lombard Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR5221648712060212886652683B1C",
+            "bic": "DKKSFRGCEW2",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "f9a9d2337621c13e0227dbaaa2e5e71f.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Boulay IBAN: FR1522036849951542144773244 BIC: HVIEFRGN Banque: Leroy Joseph SA Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR1522036849951542144773244B1C",
+            "bic": null,
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC manquant ou non détecté"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fa6f69daa6d0d08e22a1defb3a6d3637.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Marchand SARL IBAN: FR4029671883977457314415833 BIC: CPBGFRAN Banque: Collin Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4029671883977457314415833B1C",
+            "bic": "CPBGFRANB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fa79e1ffb6e868f2701873dd0c23c4f8.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Guillou IBAN: FR9474090380214629613671577 BIC: DCFXFRGZIMZ Banque: François Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR9474090380214629613671577B1C",
+            "bic": "DCFXFRGZ1MZ",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fae3f2226e11e9f7dacbf4dbb02e87e4.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Lefèvre SARL IBAN: FR4015914975019803828723244 BIC: ZPTWFRMH Banque: Martin S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR4015914975019803828723244B1C",
+            "bic": "ZPTWFRMHB",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fbdcae0d74c8c73868eb9de71e179ae0.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Guillot SA IBAN: FR6172407875418156326868507 BIC: LDBUFRY1MSM Banque: Schmitt Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6172407875418156326868507B1C",
+            "bic": "LDBUFRY1MSM",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "fda5eb5109ba1f152254e89e5a3a132a.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Duhamel IBAN: FR6378266128758575676670806 BIC: YETJFRP6 Banque: Rodriguez Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR6378266128758575676670806B1C",
+            "bic": "YETJFRP6B",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "feee4b3885cce6c13a116955d4357834.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Henry IBAN: FR2186203036625436172131451 BIC: DLCBFRIJL17V Banque: Potier Lamy S.A. Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2186203036625436172131451B1C",
+            "bic": "DLCBFR1JL17",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ff31693cb5abe387f6c7ae216f0a24ec.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Ferrand IBAN: FR3445147541022526771196421 BIC: EFYMFRWU514 Banque: Marion Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR3445147541022526771196421B1C",
+            "bic": "EFYMFRWU514",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    },
+    {
+        "nom_fichier": "ff3a59ccae9f7f14c6e76782232c524e.pdf",
+        "categorie": "rib",
+        "contenu": "Type de document: rib Entreprise: Thomas IBAN: FR2353134026650237416787256 BIC: EDDZFRBIJW6 Banque: Gosselin et Fils Bank",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": "FR2353134026650237416787256B1C",
+            "bic": "EDDZFRB1JW6",
+            "date": null
+        },
+        "anomalies": [
+            "IBAN différent",
+            "BIC différent"
+        ],
+        "is_valid": false
+    }
+]

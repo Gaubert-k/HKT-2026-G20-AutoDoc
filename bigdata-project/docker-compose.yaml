@@ -1,0 +1,114 @@
+services:
+  namenode:
+    image: apache/hadoop:3
+    container_name: namenode
+    hostname: namenode
+    user: root
+    entrypoint: ["/entrypoint.sh"]
+    # AJOUT DES ULIMITS ICI
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    healthcheck:
+      test: ["CMD-SHELL", "hdfs dfsadmin -safemode get 2>/dev/null | grep -q 'OFF'"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+    volumes:
+      - ./Script/namenode-entrypoint.sh:/entrypoint.sh
+      - ./hadoop:/opt/hadoop/etc/hadoop
+      - namenode_data:/data/hdfs
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    networks: [bigdata]
+
+  datanode1:
+    image: apache/hadoop:3
+    container_name: datanode1
+    hostname: datanode1
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command:
+      - bash
+      - -c
+      - "mkdir -p /data/hdfs/data && hdfs datanode"
+    volumes:
+      - ./hadoop:/opt/hadoop/etc/hadoop
+      - datanode1_data:/data/hdfs
+    networks: [bigdata]
+
+  datanode2:
+    image: apache/hadoop:3
+    container_name: datanode2
+    hostname: datanode2
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command:
+      - bash
+      - -c
+      - "mkdir -p /data/hdfs/data && hdfs datanode"
+    volumes:
+      - ./hadoop:/opt/hadoop/etc/hadoop
+      - datanode2_data:/data/hdfs
+    networks: [bigdata]
+
+  resourcemanager:
+    image: apache/hadoop:3
+    container_name: resourcemanager
+    hostname: resourcemanager
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn resourcemanager"]
+    volumes:
+      - ./hadoop:/opt/hadoop/etc/hadoop
+    ports:
+      - "8088:8088"
+    networks: [bigdata]
+
+  nodemanager1:
+    image: apache/hadoop:3
+    container_name: nodemanager1
+    hostname: nodemanager1
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn nodemanager"]
+    volumes:
+      - ./hadoop:/opt/hadoop/etc/hadoop
+    networks: [bigdata]
+
+  nodemanager2:
+    image: apache/hadoop:3
+    container_name: nodemanager2
+    hostname: nodemanager2
+    user: root
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    command: ["bash", "-c", "yarn nodemanager"]
+    volumes:
+      - ./hadoop:/opt/hadoop/etc/hadoop
+    networks: [bigdata]
+
+volumes:
+  namenode_data:
+  datanode1_data:
+  datanode2_data:
+
+networks:
+  bigdata:
+    driver: bridge

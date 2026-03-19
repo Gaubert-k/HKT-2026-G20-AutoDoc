@@ -1,0 +1,3502 @@
+[
+    {
+        "nom_fichier": "018bfecc8dc173cffeb79d637bf79898.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chrétien S.A. SIRET: 397769577782910 Date création: 2018-03-16 Adresse: None Dirigeant: Théophile Lemonnier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-03-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "019be1c5822efc34193b5955a653555a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bouvier SIRET: 717 911 002 00797 Date création: 2017-04-23 Adresse: rue Thibaut Bourdon80542 Saint MargaretVille Dirigeant: Anastasie Cousin-Weber",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-04-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "01fa00260afc4698ba544591266b0694.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Merle SIRET: 652 132 838 00622 Date création: 2019-05-31 Adresse: 21, rue Voisin44419 Joly Dirigeant: Marianne Giraud",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-05-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "020308e647b2190bd921d63b5d70956c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Colin SIRET: 261755368920651 Date création: 2017-02-06 Adresse: None Dirigeant: Pierre Delahaye",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-02-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "02484008aaec599a34a0686194d1f93e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Legros Laurent S.A.S. SIRET: 569 070 568 00773 Date création: 2021-08-08 Adresse: 2, boulevard Roy36247 Adam Dirigeant: Denis Le Gall",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-08-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "033b3b680fe76323d69238d299506bbe.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Barthelemy SIRET: 327 881 470 00865 Date création: 2023-08-25 Adresse: 32, chemin de Menard66537 Colas Dirigeant: Robert Garnier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-08-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "03754d9e3280d5b71fccbc6ed9d0a275.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ledoux Dos Santos S.AsS. SIRET: 794 975 672 00534 Date création: 2024-01-17 Adresse: 62, boulevard Chartier/79519 Reynec Dirigeant: Amélie Leconte",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "046f85dfc7f12eec75a302ed7336c9b4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Nicolas et Fils SIRET: 448 869 461 00542 Date création: 2022-01-22 Adresse: 56, rue Marin01199 Sainte Édithnec Dirigeant: Martin Picard de la Besson",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-01-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "05db442d86e7a13aad0f39b25fd98ec1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Pichon SA SIRET: 961 108 040 00380 Date création: 2022-09-12 Adresse: avenue de Rey76906 Dubois-sur-De Sousa Dirigeant: Susan Gilbert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-09-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0698fd67502e68ce6e516d731039402b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rodriguez SIRET: 690 409 834 00403 Date création: 2022-10-23 Adresse: 92, boulevard de Maury28209 Petitdan Dirigeant: Claudine Collet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-10-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0717e1043629b00554efa7163c37be60.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dupont SIRET: 947 873 006 00383 Date création: 2018-10-30 Adresse: 51, rue Claudine Lagarde82350 Saint Paulette Dirigeant: Paul-Arthur Joseph",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-10-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "093c0654899b70090a876efe362ccabf.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Potier SIRET: 12345678901234 Date création: 2019-01-26 Adresse: None Dirigeant: Benoît Hamon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-01-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "097b37b9e492a3698b5c94336bc6c47a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Vallée SIRET: 997 308 069 00654 Date création: 2021-07-31 Adresse: 27, boulevard Madeleine Perrot57814 Lefebvre-les-Bains Dirigeant: Étienne Lelièvre Le Navarro",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0992335395b7788c8968b1cf268e4d0d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Carpentier S.A.R.L. SIRET: 373 149 509 00490 Date création: 2021-05-01 Adresse: boulevard de Colas21357 Sainte Louisenec Dirigeant: Jacques Roger",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-05-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "09e3dde3393d2b837381750b0733de49.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Aubert SIRET: 083 535 443 00465 Date création: 2018-07-19 Adresse: chemin Valentine Perrot97661 DelormeVille Dirigeant: Clémence Chauvin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-07-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0a065349e68d7f4e8c2b3d9f5bb09466.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Clerc SIRET: 12345678901234 Date création: 2024-11-17 Adresse: None Dirigeant: Alain Coste-Baudry",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-11-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0a9eec5687738edd3e3fe36b4d0e83aa.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Maillard SIRET: 987 635 141 00086 Date création: 2024-10-16 Adresse: 753, chemin Laurence Buisson58787 ArnaudVille Dirigeant: Éléonore du Benoit",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-10-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0b0432e33d6b2af450e17b41e0006eec.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Muller SIRET: 023 212 988 00242 Date création: 2019-09-07 Adresse: 7, avenue de Langlois21838 Moulin Dirigeant: Dorothée Seguin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-09-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0d7771881d1a60da661b73128328e9c8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Boulay SIRET: 794 523 217 00857 Date création: 2020-08-14 Adresse: 700, rue Picard83588 Jacquotnec Dirigeant: Véronique Bailly Le Blot",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-08-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0d9dc83f912e9e427660a6a679930605.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bazin SIRET: 539 840 280 00488 Date création: 2017-05-25 Adresse: rue Véronique Joly92669 Lesage Dirigeant: Thibault Le Normand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "0f3c694556f4e1edec47575c7f9ad7eb.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Peltier SIRET: 896 112 232 00211 Date création: 2019-06-21 Adresse: 75, rue de Lambert97288 Roche-sur-Regnier Dirigeant: Denis Millet de la Vincent",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-06-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1240c7b6bcc4531ecb155876068a8d10.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michel SIRET: 892 613 712 00009 Date création: 2021-01-14 Adresse: 29, rue Antoine Faure58950 De Sousa-la-Forêt Dirigeant: Adèle Boulanger de Bègue",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-01-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1361318e63428510225d013faa0f493d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dupuis Leduc et Fils SIRET: 563 620 509 00981 Date création: 2017-06-18 Adresse: rue de Blanchard37550 Lefort Dirigeant: Maryse-Amélie Martinez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-06-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "13702757c5734caceca9262143d5c2aa.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Blin SIRET: 964 715 890 00619 Date création: 2016-07-04 Adresse: 602, rue Agathe Goncalves07379 Humbert Dirigeant: Anaïs Charpentier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-07-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "13ba558324f80f85f5a8cc9d28beb8e8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Turpin S.A.S. SIRET: 567 766 571 00796 Date création: 2021-08-07 Adresse: 3, rue Rémy Imbert10467 Sainte ZoéBourg Dirigeant: Gabriel-Benoît Lemaire",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-08-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "15400e63a0627dc713e78ba2a677bafe.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lesage SIRET: 492 515 838 00943 Date création: 2024-07-15 Adresse: 74, avenue Tessier78290 Lombardnec Dirigeant: Alphonse Blanchet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-07-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "16ae8e93e97d4e29792c39b227adb4a1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bonnin Lévy S.A.R.L. SIRET: None Date création: 2017-11-11 Adresse: None Dirigeant: Isaac Chrétien",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-11-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "17093eebd1fe843150a67812c8392c3e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rey SIRET: 657 546 024 00552 Date création: 2020-09-20 Adresse: 5, boulevard de Morvan82180 Dumas Dirigeant: Charles Guérin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-09-20"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "18cfec6b848ccbcef7443e7bc83b0429.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dumas Ramos et Fils SIRET: 738 987 759 00268 Date création: 2017-09-01 Adresse: 46, avenue Dominique Pascal04483 Verdier Dirigeant: Honoré Gallet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-09-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "18e9fdbea63027b9c9516984609f6e87.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Coste Joseph SA SIRET: 347 851 966 00189 Date création: 2017-09-17 Adresse: 36, avenue de Lacombe72873 Bourgeois Dirigeant: Laurent Charpentier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-09-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "19a56ad8a069cd1b9334e36fe0394d30.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gautier Roger S.A. SIRET: 155 963 630 00761 Date création: 2020-11-14 Adresse: 19, boulevard Alix Bonnin15424 Brianddan Dirigeant: Guillaume Rodrigues-Étienne",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-11-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1b4f9c1b91ae4c75b14339e1141f8f4b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delahaye SIRET: 203 103 031 00167 Date création: 2018-09-02 Adresse: 531, rue Christelle Briand03219 Brunet Dirigeant: Véronique Georges",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1b63f310cf4aec93ceb0d092c242517f.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Pereira S.A. SIRET: 377 100 409 00749 Date création: 2025-02-01 Adresse: 884, chemin Josette Gilbert43479 Gomes Dirigeant: Jules Chartier-Alexandre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-02-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1b9273f0dc180a91e2c5e592aa475ec2.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Garnier et Fils SIRET: 731052452964922 Date création: 2020-04-16 Adresse: None Dirigeant: Émile Bruneau",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-04-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1c684b7b817b421c854c81ead83ad142.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Renard SIRET: 597 246 651 00876 Date création: 2019-09-23 Adresse: 8, rue Bourgeois20720 Rousselnec Dirigeant: Madeleine Huet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-09-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1d9bf834a92106cd4fc07dabd687f46f.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Meunier S.A.R.L. SIRET: 207 167 818 00476 Date création: 2023-01-07 Adresse: 61, chemin Bourgeois/76964 Rivière-sur-Mer Dirigeant: Zoé Lopes",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-01-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1eda11b1210f13631a4719ee64034662.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Evrard S.A. SIRET: 342 801 388 00915 Date création: 2024-04-13 Adresse: 227, chemin Gillet54319 Dumasnec Dirigeant: Hugues Denis",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-04-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1f16990e2c3324fd202edde953c2f4e6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ferreira SIRET: 194 168 001 00239 Date création: 2016-06-05 Adresse: 77, boulevard de Pages62410 Chauvet-sur-Alves Dirigeant: Madeleine Fernandez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-06-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "1f6116884b9995c9bbaae4b655e99d9a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Marques S.A. SIRET: 333 491 140 00849 Date création: 2016-07-15 Adresse: avenue Hélène Buisson53373 Sainte Jacqueline Dirigeant: Hugues Hoareau",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-07-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "203e829a3bccb9793064b90447e82125.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Mendès SIRET: 677 622 821 00630 Date création: 2023-12-28 Adresse: 481, avenue Arthur Letellier20672 Lemaire Dirigeant: Odette Masson de Lemaître",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-12-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "222459bd9b330d4c1567b3cb9092fb27.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Martel SARL SIRET: 278 814 769 00289 Date création: 2018-09-24 Adresse: 93, chemin Hélène Rousseau70178 Saint Danielle Dirigeant: Olivie Gauthier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-24"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "22334c806210af14403e97d74e6abe31.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dubois SIRET: 12345678901234 Date création: 2018-04-01 Adresse: None Dirigeant: Augustin Rivière",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-04-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "226dc77a74f3490130b0e10ff648de28.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bernard SIRET: 851 067 942 00157 Date création: 2023-11-26 Adresse: 39, boulevard Bousquet58879 Martineaudan Dirigeant: Isaac Blanc",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-11-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "229ca88e2895b167fb313ef299a555b5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lemoine Bourgeois SA SIRET: 237 281 795 00235 Date création: 2019-04-24 Adresse: 27, rue de Chevalier37187 Denis-la-Forêt Dirigeant: Jean Martinez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-04-24"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "264ca714045f10a18f10816dca7104ba.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Pottier S.AS. SIRET: 634339445002632 Date création: 2023-02-16 Adresse: None Dirigeant: Jacques Riou",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-02-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "2671e38b97a30c19c6c194b2bbe51cf6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Perez SARL SIRET: 416 516 235 00775 Date création: 2018-02-10 Adresse: 884, rue Brunel16891 Boulanger Dirigeant: Nath-Inès Briand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-02-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "29086bcecdb7965dc84b57deaf23061a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Weber SIRET: 771 333 440 00986 Date création: 2018-06-02 Adresse: 434, rue Anouk Rodrigues04397 Huet Dirigeant: Stéphanie Menard Le Guillon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-06-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "29759a3389049271a443d0abc6c0ad98.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Marty Ribeiro SARL SIRET: 926 831 587 00858 Date création: 2019-06-26 Adresse: 3, avenue de Bouchet11194 Sainte Gilles Dirigeant: Frédérique Cohen",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-06-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "2c6f97a202a346a7d1ec3a08674b0cd0.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gaudin SIRET: 659 171 359 00733 Date création: 2021-12-23 Adresse: 75, avenue Bousquet97619 Benoit-la-Forêt Dirigeant: André-Henri Baudry",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-12-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "2ce86260f319a8b759292a0580b7f422.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Royer SIRET: 896 908 357 00818 Date création: 2024-01-28 Adresse: 74, chemin Véronique Andre81308 Da Costa-la-Forêt Dirigeant: Gilbert Torres",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "2ec825e108007c77e6972de9015cfdc1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Vaillant Lemaître SA SIRET: 611 594 086 00773 Date création: 2018-10-25 Adresse: 55, avenue Antoine Meunier19902 De Oliveira-sur-Rousseau Dirigeant: Guy Fabre de la Rousset",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-10-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "2ee5788593f18f0f6921b3e38d9cec1a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delattre Garnier S.A. SIRET: 715 041 653 00984 Date création: 2018-01-05 Adresse: 2, avenue Cécile Techer34708 Sainte Benjamin Dirigeant: Stéphanie Germain de la Lecomte",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-01-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "31df9348118099b7d3f748a53f22528c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hoareau Duhamel et Fils SIRET: 485424064971749 Date création: 2020-10-03 Adresse: None Dirigeant: Timothée Lemaître",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-10-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "32871c5640b2a506cf89b429843b58d2.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lambert SIRET: 543494443261483 Date création: 2025-01-16 Adresse: None Dirigeant: Vincent Joubert du Joly",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-01-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "32ddb6a5bbfad6cddcfe7618e255c1e1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Brunet Rousset et Fils SIRET: 770 793 347 00566 Date création: 2022-11-15 Adresse: 2, avenue de Legros63854 Godard-sur-Foucher Dirigeant: Luce Da Silva-Coulon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-11-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "3308e0ae9d6e7b6abf089dc6ef03a1c9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Masson SIRET: 275 480 150 00661 Date création: 2024-08-09 Adresse: 57, avenue de Jean70517 Gilbert Dirigeant: Arthur du Potier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-08-09"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "34c4e380d543d19ecfeccc54416d2c99.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lemaire SIRET: 756 770 020 00490 Date création: 2021-05-13 Adresse: 52, avenue de Coulon97224 Parent-sur-Marin Dirigeant: Sylvie Ollivier-Guilbert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-05-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "358f0c0c275efd5271e0c68e30f97c31.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Camus SA SIRET: 357 852 946 00882 Date création: 2022-05-22 Adresse: 91, chemin Aubry07404 Maréchal-sur-Jean Dirigeant: Bernadette Wagner de Allain",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-05-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "35c408fc2502cbe09a3759d7f70df286.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Courtois SIRET: 8367216211591 Date création: 2020-10-26 Adresse: None Dirigeant: Capucine Rousseau de la Prévost",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-10-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "36cfe2f655470b57a27a9ab58ebcbcb6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gaudin SIRET: 968263276869572 Date création: 2021-02-01 Adresse: None Dirigeant: Marcel-Raymond Wagner",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-02-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "3735cf17842411e83b3f7c76ed2f2772.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michaud SIRET: 128 671 633 00203 Date création: 2018-06-02 Adresse: 37, boulevard de Ruiz75307 Augerdan Dirigeant: Eugène-Adrien Meunier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-06-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "38a828690a1b45324a559f79cff5ff42.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dupré SA SIRET: None Date création: 2020-03-29 Adresse: None Dirigeant: Étienne Blanchard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-03-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "3c8e16e25f881d1a760fe997e00173f8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bernier SA SIRET: 759 230 451 00792 Date création: 2022-09-09 Adresse: 42, rue Alphonse Guillaume20497 Jacquet-les-Bains Dirigeant: Henri Marin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-09-09"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "3d5f783852ec8a4d9e054f1ec32287e1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chauvin Morel SA SIRET: 070 176 565 00649 Date création: 2020-06-19 Adresse: 85, avenue Daniel Perez70772 Delannoy Dirigeant: Christine Georges",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-06-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "3e9418d3ad83519e652d2b491a4a456c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bailly SIRET: 380 054 528 00308 Date création: 2019-03-07 Adresse: avenue Gabriel Maurice29223 Hubertdan Dirigeant: Jean-Joseph Lecoq",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "400e39ed3c21b3d5da74880aef7c7d70.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Arnaud SIRET: 12345678901234 Date création: 2022-01-29 Adresse: None Dirigeant: Océane Martel-Allain",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-01-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "405e60dede6b2f437e5b8f30df968a3e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Charpentier SA SIRET: 566 863 346 00086 Date création: 2018-02-05 Adresse: 631, chemin Gillet73854 Sainte Charles Dirigeant: Élisabeth-Nath Briand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-02-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "416b8aa9281f4ccde777731c63019657.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ribeiro SA SIRET: 398 402 891 00806 Date création: 2022-12-05 Adresse: 446, boulevard de Prévost87450 Chrétien Dirigeant: Laetitia Moulin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-12-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "4187f0908a169ba8ef16d908f62e1371.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guyon Gilles SA SIRET: None Date création: 2022-05-15 Adresse: None Dirigeant: Caroline-Claudine Mallet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-05-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "42fcae6ea5182017814f6aabc4b21fac.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Riou SIRET: 121 820 971 00384 Date création: 2016-08-30 Adresse: 7, rue Nicolas Klein84636 Sainte Bertrandboeuf Dirigeant: Adrienne de la Millet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-08-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "4418d8f1ba668e681312627240cfd138.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lefebvre Simon S.A.S. SIRET: 931 734 206 00820 Date création: 2023-01-11 Adresse: 22, rue Hélène Lemaire02835 Gaydan Dirigeant: Célina Hubert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-01-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "45d381843cd95f39b93bc35c40fdcad9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Neveu SIRET: 710 725 631 00877 Date création: 2023-05-28 Adresse: boulevard Lopez07440 Georges Dirigeant: Amélie Thomas",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-05-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "4661ac2e9d9df5e8e98c3ee5215b7aa8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Petit SIRET: 793 349 606 00020 Date création: 2017-12-12 Adresse: 99, rue Claire Alexandre62625 Pages-sur-Raymond Dirigeant: Hortense Delannoy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-12-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "483bb43b19e79125e3ed30533f701d12.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Samson SA SIRET: 026 952 499 00866 Date création: 2025-01-17 Adresse: 84, boulevard Raymond Allard43928 MorvanVille Dirigeant: Martin Lemaire",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2025-01-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "493a15622650bef0343a52d04401573d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Thomas Berthelot S.A.R.L. SIRET: 12345678901234 Date création: 2021-07-21 Adresse: None Dirigeant: Alphonse Rodriguez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "498e577f9d9b6b52c9936ae7b0c27d05.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dijoux SIRET: 628 843 187 00426 Date création: 2021-12-31 Adresse: boulevard Allain33347 Pages Dirigeant: Claude Masson",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-12-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "49be7ac8b2c626a5959d3c5f40da5807.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Laine Petitjean SARL SIRET: 12345678901234 Date création: 2024-07-15 Adresse: None Dirigeant: Rémy Lévêque",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-07-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "49f509311d2ab471e06ec8fe3c5f87cd.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Moulin SIRET: 237947763097353 Date création: 2016-10-14 Adresse: None Dirigeant: Georges Chauvin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-10-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "49fefe5fc222c6eef3e46a867a72427c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Germain SIRET: 755 366 689 00015 Date création: 2016-08-06 Adresse: 75, rue Anaïs Andre68495 Ollivier Dirigeant: Jacques Colas",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-08-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "4d0f9d4ffd9354e91499c2f04ef3eec1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: François S.A.R.L. SIRET: 339 685 273 00858 Date création: 2017-05-23 Adresse: rue de Martins17193 Allain Dirigeant: Emmanuelle Huet-Guillou",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "50d76d4a6e31bdfb71f74f9910082e25.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ledoux SIRET: 712 552 132 00649 Date création: 2023-09-05 Adresse: avenue Leblanc36617 Clément Dirigeant: Julien-Marc Alves",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-09-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "556480e828d11c68dab3a1623a7bbb86.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hernandez SIRET: 220 310 304 00112 Date création: 2019-10-08 Adresse: 73, boulevard de Aubert12408 Carondan Dirigeant: Aimée Ferreira",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-10-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "55fd72a72c8b348af1ed46365b3ba545.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Fernandes Chrétien S.ASS. SIRET: 326 667 854 00532 Date création: 2016-09-17 Adresse: 9, rue Maillot40511 Gay Dirigeant: Louis Thierry",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-09-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "57bfca3101f51914fa770be6b7652813.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Boulanger Langlois SA SIRET: 190 361 337 00420 Date création: 2017-11-06 Adresse: 60, rue Franck Reynaud30448 Sainte Dorothée Dirigeant: Auguste Diallo-Brunel",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-11-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "58ce8de09484f40d453707ea8b01b347.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Benoit SIRET: 878 208 297 00795 Date création: 2024-02-25 Adresse: 196, rue de Marchal59251 Fernandes Dirigeant: Martin Bouchet Le Andre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-02-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "59ce65b01d7a1a866d72a7f1774a3db1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bourgeois Riou S.A. SIRET: 203 880 653 00753 Date création: 2017-05-14 Adresse: 67, boulevard de Daniel78406 Boulanger-les-Bains Dirigeant: Michel Dupont",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "59fbd3ad17623b2b66ce3805c12ff4a9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Laporte SIRET: 183 219 286 00816 Date création: 2021-09-11 Adresse: 64, boulevard Delorme45943 Richard Dirigeant: Raymond Carre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-09-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "5e2d755377ed80fc685914f261eaf3b8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lucas SIRET: 326 303 971 00377 Date création: 2020-12-07 Adresse: 9, chemin Odette Laurent29967 Le Goff Dirigeant: François Gimenez-Vincent",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-12-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "5e3864e523cc5407badb9c112a66fad4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Didier Bazin S.A.R.L. SIRET: 682494975663977 Date création: 2018-09-19 Adresse: None Dirigeant: Lorraine Rodrigues de Joseph",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "5f361ea3e1116fb28f54fb22f814e82b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bailly Renault S.ASS. SIRET: 674 233 622 00101 Date création: 2023-10-30 Adresse: 61, avenue Jacques Georges56532 Bourdonnec Dirigeant: Olivier Lefebvre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-10-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "5f61fc81b50f890dfe01857413ff1d8d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Boulay SIRET: 657 967 840 00825 Date création: 2018-09-18 Adresse: chemin Camus63336 Martinez Dirigeant: André Mercier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "5faa59c7010c2d3b08a5d7e8e5265338.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Albert SIRET: 761 707 587 00207 Date création: 2024-08-03 Adresse: 61, rue Jacquet23954 Bouvet Dirigeant: Laetitia de la Guillon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-08-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "611356fda43ae7f975caebfbfcc03126.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lefort SIRET: 272281953408876 Date création: 2019-11-17 Adresse: None Dirigeant: Luce Fischer",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-11-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "61f9576cae162a33e6f8aeb16824b2fc.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bailly Renault S.ASS. SIRET: 347 156 622 00578 Date création: 2024-03-19 Adresse: 396, rue Paulette Weber54974 Sainte Jeannine-les-Bains Dirigeant: Diane Boucher-Gillet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-03-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "620b015ed92d64f12f3c08a5e2f4e413.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Traore et Fils SIRET: 945 491 801 00599 Date création: 2024-01-29 Adresse: 20, chemin Thomas Coste92565 Ferrand-la-Forêt Dirigeant: Éléonore Lecomte",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "632f68bc00f86ffffea250f02e4177c4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Marchal SIRET: 607053119824892 Date création: 2019-02-16 Adresse: None Dirigeant: Adélaïde Menard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-02-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "63f726142808ed8a2a0d72a17978747e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Simon Lévy S.A.R.L. SIRET: 2642968777775 Date création: 2021-12-12 Adresse: None Dirigeant: Thérèse Lévêque",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-12-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "646a71f1b4fa0d30dba463b7dde3806b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Paris SIRET: 487 060 568 00788 Date création: 2018-04-10 Adresse: 18, rue de Rousseau35530 Ponsboeuf Dirigeant: Louis Leclercq",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-04-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "667db3547fd571ec5b74fab6fbfd8902.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guilbert SA SIRET: 891 077 117 00192 Date création: 2024-10-31 Adresse: 4, rue Nathalie Klein90552 DidierBourg Dirigeant: Tristan Marchal",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-10-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "682bf3eb5a3c8fda970cb5a9b5e15ee5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bertrand Lopez S.A. SIRET: 456 797 232 00653 Date création: 2021-07-03 Adresse: 94, rue Lelièvre39717 Klein Dirigeant: Adrienne Paul",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6ab6567167fce4983dcdc37b320c8efb.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Weiss SIRET: 086 403 557 00977 Date création: 2020-04-30 Adresse: 4, rue de Raynaud48633 Vidal Dirigeant: Adèle François",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-04-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6b1bd8b2f5669029945728e47b6eabc5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bertin Texier S.A.R.L. SIRET: 243 992 013 00876 Date création: 2017-10-11 Adresse: 418, rue Véronique Launay32808 Charrier Dirigeant: Monique Coste-Le Gall",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-10-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6b21e314ac11e5945a60dcb74da5236c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delmas Rousset S.AsS. SIRET: 361 498 728 00001 Date création: 2019-03-10 Adresse: 31, boulevard Michel Barbe93901 Olivier Dirigeant: Yves Rossi",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6b7aeb0bb1d17d5584550f86c51cc922.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ruiz SIRET: 540 900 347 00605 Date création: 2022-05-17 Adresse: 77, avenue Adam38192 Léger Dirigeant: Édouard du Lefort",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-05-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6d6ff8857292a8be7a03123a0adcc021.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Peltier et Fils SIRET: 908 466 840 00190 Date création: 2021-07-18 Adresse: boulevard Juliette Caron89513 Weiss-sur-Mer Dirigeant: Simone Rocher-Barre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6dd9297877678853141b87cd92586712.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delmas S.A.S. SIRET: 043 397 181 00231 Date création: 2021-08-29 Adresse: 8, chemin Nguyen23524 Sainte Alex Dirigeant: Benjamin-Bertrand Perrin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-08-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "6e8f6bff2babcac338efcc6bc16da7c9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Potier SIRET: 269 524 997 00039 Date création: 2017-11-05 Adresse: 477, avenue Claudine Bodin33655 Gimenez Dirigeant: Agnès Salmon-David",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-11-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "70fe813a5aa79e4be31a62febce210e6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rodriguez S.A.R.L. SIRET: 487 271 785 00114 Date création: 2020-04-21 Adresse: 21, rue Isaac Millet49884 Vasseur Dirigeant: Xavier-Noël Leconte",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-04-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "710070820d8602d4f8656a07c9c9a07a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Duhamel S.A.S. SIRET: 391 919 545 00510 Date création: 2024-04-15 Adresse: 51, chemin de Lesage84652 Bourgeois Dirigeant: Noémi Deschamps",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-04-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "717056db5e98876f5ad53260a67d1b66.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Clerc SIRET: 576 665 673 00934 Date création: 2017-05-31 Adresse: avenue Moreno20298 Adamboeuf Dirigeant: Victoire Le Grenier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "71c25f425993998257f4e6aa014fe4ef.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gomes Gay S.A.R.L. SIRET: 118733855992423 Date création: 2016-08-24 Adresse: None Dirigeant: Jeanne Garnier Le Denis",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-08-24"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "720f3f8ad8e8d4a3c02fec59fc9122b4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Blanc Pinto S.A. SIRET: 669 300 899 00236 Date création: 2020-08-27 Adresse: boulevard Aurélie Brunel33252 Sainte JeanBourg Dirigeant: Rémy Gay",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-08-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "75fd35a970c1d27100a22b8b9a173079.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guillot SIRET: 468 105 481 00997 Date création: 2022-03-28 Adresse: rue de Pons38686 Sainte Yves Dirigeant: Stéphane Moreno-Delannoy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-03-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "76daf9498e97c4f55cd2f5b711a7d5fd.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Leroy SIRET: 132 234 238 00955 Date création: 2018-06-04 Adresse: 2, avenue Boulay55143 Nicolas Dirigeant: Vincent Blanchet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-06-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "77247174b421f2aa132f5cfcd9ccf1e8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guillou Lefèvre S.A.R.L. SIRET: 796 954 501 00337 Date création: 2016-09-07 Adresse: 15, chemin de Gillet13538 Hamon Dirigeant: Marine Lefèvre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-09-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7a3050ac00a748ba5b32678ac877f0d5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guyon SIRET: 303 379 333 00634 Date création: 2021-11-03 Adresse: 12, rue David Pelletier04668 Saint Stéphanedan Dirigeant: Thomas Le Bertrand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-11-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7a52734c6c2c182fa2c184eb9a57423b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Maillot et Fils SIRET: 078 593 118 00868 Date création: 2016-06-01 Adresse: 39, boulevard de Boucher45531 Pagesdan Dirigeant: Gérard Dos Santos",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-06-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7aafdfd5fa7041ca3eeb07d59eb9c451.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guillou Vasseur S.ASS. SIRET: 597 246 651 00876 Date création: 2024-03-29 Adresse: 24, avenue de Dumont22304 Seguin Dirigeant: Capucine Legros",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-03-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7c003e8317c9ad2bcd12f733816cdf50.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Vallet François S.A. SIRET: 938 430 899 00337 Date création: 2020-07-05 Adresse: rue Dominique Breton55964 ParisBourg Dirigeant: Suzanne du Étienne",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-07-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7c9280d1e2a7b5cbe54e1827cfd407e6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ollivier SIRET: 739 769 156 00418 Date création: 2017-11-29 Adresse: 932, boulevard de David17609 Sainte Victoiredan Dirigeant: Maurice Ferreira",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-11-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7cb8d0c38f82879989a14ecc72b19dac.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Masson S.A. SIRET: 720 634 591 00237 Date création: 2020-06-12 Adresse: 85, rue Raymond Giraud87707 Carre Dirigeant: Augustin du Tessier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-06-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7d25c62e27ec67aa2d01a91fda0300e3.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lacombe SARL SIRET: None Date création: 2023-12-29 Adresse: None Dirigeant: Sébastien Dos Santos",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-12-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7d2b04ab0f013340bb030fba3e73c91e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chrétien Godard S.A.S. SIRET: 788 614 055 00309 Date création: 2024-02-12 Adresse: rue Anouk Couturier29119 Lenoir Dirigeant: Capucine-Jeanne Ledoux",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-02-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7f75af05291650c741c4a50b18d82d33.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Wagner S.ASS. SIRET: 667 850 721 00545 Date création: 2017-05-21 Adresse: 36, rue Anaïs Thierry05776 Bruneau Dirigeant: Thomas Delannoy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "7f92ea2ef462888ddce0635a2c46127e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Andre SIRET: 820 700 151 00351 Date création: 2023-02-16 Adresse: 7, rue de Huet15684 Mathieu-la-Forêt Dirigeant: Bernadette Gomez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-02-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "809d9f0c07e94d16802ba72948eb818e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chevallier SIRET: 658 074 125 00290 Date création: 2016-08-18 Adresse: 9, rue Maurice69690 Saint Odette Dirigeant: Camille Moreau",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-08-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "81423364f7095a4114a6f82543058c54.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guérin Lombard et Fils SIRET: 12345678901234 Date création: 2020-10-15 Adresse: None Dirigeant: Julien de la Humbert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-10-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "83264760e171030999bc33dad5c48c90.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gonzalez Leconte SARL SIRET: 140 119 397 00051 Date création: 2016-09-12 Adresse: 69, rue Dominique Charrier97488 Bodin Dirigeant: Antoinette-Capucine Delorme",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-09-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "837593d670e6450120af5a166d426f39.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michaud SIRET: 841664277908941 Date création: 2017-06-06 Adresse: None Dirigeant: Lorraine Le Grenier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-06-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "83ac920194975fb34daad089a0a14a28.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delahaye SIRET: 911918803815477 Date création: 2022-09-16 Adresse: None Dirigeant: Thomas-Victor Hebert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-09-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "84519a6a6f38a1029c59a2dc7d664f9b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gros SIRET: 994 657 963 00975 Date création: 2020-12-11 Adresse: 2, avenue Colette Grondin80237 Saint Nathalie Dirigeant: Arthur Didier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-12-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "84bedd8700439486c32435c56748acdd.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michel Marion SA SIRET: 905 510 764 00483 Date création: 2020-12-15 Adresse: 89, avenue de Peltier24103 Durand Dirigeant: Amélie Guyon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-12-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "84e3fca79d89eeeb47f57445fb261070.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lemaître et Fils SIRET: 698 864 972 00675 Date création: 2023-05-31 Adresse: 36, boulevard Rodriguez62828 DumontBourg Dirigeant: Michel du David",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-05-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "886566ba6484bfeb2bdf5a3818bcf689.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chrétien SIRET: 119 524 361 00936 Date création: 2021-06-13 Adresse: 20, avenue Hardy53770 Peron Dirigeant: Denise Schmitt",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-06-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8a799b92806fc5a639a52761396bc90e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Aubert Da Costa SARL SIRET: 762 639 342 00950 Date création: 2019-06-06 Adresse: 12, chemin Noël Maurice57354 Guillon Dirigeant: Aurélie Dubois",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-06-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8b1a6b7e450ea822534a4750ec0db4fb.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Clément et Fils SIRET: 12345678901234 Date création: 2021-01-26 Adresse: None Dirigeant: Virginie Dubois-Lamy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-01-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8bc2e14e3b708483071ec3e8e0c4b868.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Alexandre Pineau SA SIRET: 3458935373590 Date création: 2020-07-13 Adresse: None Dirigeant: Claire Regnier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-07-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8c46c168991d02190c9c2ef6d2e7f5ea.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Delattre S.A.R.L. SIRET: 833 898 885 00193 Date création: 2017-07-02 Adresse: 8, chemin Marie Étienne18936 Godardboeuf Dirigeant: Henri Leroy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-07-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8d3e97be29d04bc368520b765e771b1f.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Buisson SIRET: 305 050 577 00520 Date création: 2020-03-07 Adresse: 715, rue Nath Collin37721 Mendès Dirigeant: Raymond Masse",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-03-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "8fa052830133feea0c294d59f156fc16.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Tanguy S.A.R.L. SIRET: 528 993 165 00406 Date création: 2021-07-30 Adresse: 87, boulevard Jacquet19864 Sainte Thierry Dirigeant: Chantal Le Munoz",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "902164d78a034e1e2d06a4bd431eb074.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Reynaud SIRET: 806 958 146 00078 Date création: 2018-03-11 Adresse: 77, rue Hervé92296 Barredan Dirigeant: Philippe Vasseur-Coste",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-03-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9279d88d3aff7da34c0d79379af13f2d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bailly Duhamel S.A.R.L. SIRET: 183 258 235 00575 Date création: 2023-06-02 Adresse: avenue Legendre37768 Martin Dirigeant: Olivier Maillard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-06-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "941cb722efeae73c1778749751b35149.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guillet SA SIRET: 614 057 867 00648 Date création: 2023-02-19 Adresse: boulevard Jacqueline Parent13352 Gilles-les-Bains Dirigeant: Roland Cordier du Perez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-02-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "95098844ecee6d05ffaf73525fc27191.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Weiss SARL SIRET: 018 961 649 00417 Date création: 2019-03-28 Adresse: 1, rue Chevallier97461 Jourdan Dirigeant: Charles Léger",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9553ea3156b03089f95522b865db15a9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Barbier Paris et Fils SIRET: 676 291 602 00792 Date création: 2021-03-02 Adresse: 77, rue de Tessier10873 Sainte Anoukdan Dirigeant: Gilbert Guillaume",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-03-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "973dbdefc85cd63bcec0f9c93cb6ab8d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bertin Texier S.A.R.L. SIRET: 663 370 500 00071 Date création: 2018-09-16 Adresse: 192, rue Weiss91493 MunozBourg Dirigeant: Élisabeth du Gaillard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9b2975c595f44872ffd8cdb88a6c291c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Payet SIRET: 092 428 754 00714 Date création: 2024-03-03 Adresse: boulevard Aurore Blanchard33219 Bertrand Dirigeant: Paul Guyot",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-03-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9bf630328b4ac9c09c385e3d438cbc49.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lopez SIRET: 353857088588412 Date création: 2021-11-16 Adresse: None Dirigeant: François Peron",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-11-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9c6006f81e33330347ed2b42b310d895.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Martel SIRET: 256 621 285 00012 Date création: 2017-05-16 Adresse: 53, avenue Hugues Texier73417 Renaud-sur-Gaudin Dirigeant: Laure Renaud",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-05-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9de8f30a7f2114e545f36dae53463dd4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rodrigues SARL SIRET: 715 890 422 00879 Date création: 2024-01-17 Adresse: 50, avenue Luce Hamon07396 Laporte Dirigeant: Pierre Leclercq",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9e53136b3752a820658b0618eca4053b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Barre SIRET: 331 537 795 00253 Date création: 2021-11-03 Adresse: 66, rue De Sousa06607 Bernard Dirigeant: Gabriel Turpin-Ferrand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-11-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "9ea30f69ff6b6e752dfaa0ad10a4b2d5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Paris SIRET: 9042349645548 Date création: 2017-10-25 Adresse: None Dirigeant: Édith-Nathalie Guillet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-10-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a0415abbaabeca5e6ee6b756d23a5afd.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Nguyen SIRET: 745 644 948 00168 Date création: 2019-01-04 Adresse: 92, avenue de Vincent24252 Saint Jules Dirigeant: Noël Bertin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-01-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a0d2b88e78cc7601f70bfb932ffc2986.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Blanchet SA SIRET: 661 794 545 00656 Date création: 2017-08-07 Adresse: avenue de Colin97633 LambertBourg Dirigeant: Lucy Bouvier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-08-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a0fe2990c6bede102ae6754b37f5cd77.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hebert Petit S.A. SIRET: 956 201 750 00489 Date création: 2016-07-15 Adresse: 23, chemin de Wagner28339 ÉtienneVille Dirigeant: Paul-Thibaut Lacroix",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-07-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a265264ee1419452b16c5ca308ddc2c3.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Renard SIRET: 091 241 869 00212 Date création: 2019-01-27 Adresse: 5, avenue Pelletier22321 Saint Capucine Dirigeant: Timothée Barbe",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-01-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a5ce7b02ab7013c2005cf6a234e25734.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chevalier Lamy et Fils SIRET: 132 234 238 00955 Date création: 2018-02-07 Adresse: avenue Augustin Pierre14133 AllainVille Dirigeant: Célina Fleury",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-02-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a680140fb2b04b400706e1a087c9d8a2.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hernandez SIRET: None Date création: 2019-02-21 Adresse: None Dirigeant: Aurore Merle",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-02-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a6c2dc45f94a65d440d65e5765925ef1.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lesage SIRET: 954 317 350 00039 Date création: 2017-02-18 Adresse: 81, avenue Delorme16187 Saint Alexandria Dirigeant: Anouk Rodriguez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-02-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "a7d279b3f5f5afde68264a7a00f820c4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Perrin S.A.R.L. SIRET: None Date création: 2019-12-27 Adresse: None Dirigeant: Caroline Denis",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-12-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "aad75d7d05ed8b1cb5fe5cc52109103c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Perrier et Fils SIRET: 709 006 332 00395 Date création: 2022-07-31 Adresse: 1, rue Alexandre Marques24796 Saint Étienne-les-Bains Dirigeant: Alphonse Legros",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-07-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "abb087e99fac9b66845750e3f7eedb21.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Vallet Robert et Fils SIRET: 405267113737762 Date création: 2023-06-09 Adresse: None Dirigeant: Marie Moulin-Rousset",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-06-09"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "abd16732b91fabba88a45deac4c8456b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Mercier S.A. SIRET: 497 189 241 00522 Date création: 2017-10-26 Adresse: 62, chemin Martineau61169 Moreau Dirigeant: Sophie Weber de la Gaudin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-10-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "af594fb8e1e5d4a8ef107507e6fb4178.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Grenier SIRET: 12345678901234 Date création: 2024-05-31 Adresse: None Dirigeant: David Lacroix de la Bouvet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-05-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b0b081ed8db8da214e53aab14843c915.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michel SIRET: 765 636 006 00098 Date création: 2020-06-21 Adresse: 85, avenue Daniel Perez70772 Delannoy Dirigeant: Christine Georges",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-06-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b101662d04b123609446cf75f7be6842.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Didier et Fils SIRET: 536 668 452 00454 Date création: 2016-08-08 Adresse: 75, rue Anaïs Andre68495 Ollivier Dirigeant: Jacques Colas",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-08-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b13aa48e075c70a6940c642b6cea609b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Alves SA SIRET: 353 544 430 00690 Date création: 2018-07-21 Adresse: chemin Valentine Perrot97661 DelormeVille Dirigeant: Clémence Chauvin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-07-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b167bbd7893271a295c50a25324e4de9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Dupuis SIRET: 364 424 937 00811 Date création: 2018-02-18 Adresse: 4, avenue Claire Vaillant55532 Saint Hugues Dirigeant: Daniel-Alexandre Poirier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-02-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b19b6259789062c73fcfebbb1fe96156.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gosselin SIRET: 164 709 008 00829 Date création: 2019-08-20 Adresse: 23, avenue Leroy02445 Bazin Dirigeant: Frédéric Pereira",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-08-20"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b1ca7541d99df42a4d1c79156d953bf3.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Valette S.A.R.L. SIRET: 656 124 815 00605 Date création: 2022-03-12 Adresse: 157, rue Lombard56910 Bernard Dirigeant: Émilie Techer",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-03-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b3728a999e8d212fefc7c0a40b2535ca.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Fabre SIRET: 903430055858376 Date création: 2018-06-28 Adresse: None Dirigeant: Gabrielle Maury Le Lopes",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-06-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b4cba21120a2fe4e044fc3444642a196.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Jacques SIRET: 271 693 855 00006 Date création: 2024-01-28 Adresse: 5, avenue de Perrot89962 Michaud Dirigeant: Diane Legros de la Colin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-01-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b542e80c3c86a9b6f057c1bbe696f8d9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Andre SARL SIRET: 800 545 220 00264 Date création: 2023-07-12 Adresse: 91, avenue Poirier43903 Lecoq Dirigeant: Roger Da Costa",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-07-12"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b8ed9a2b7fe7db21c9ad619c1ff72189.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lebon Dupuis SA SIRET: 303 477 863 00193 Date création: 2023-05-22 Adresse: 34, chemin Lopes84663 Weiss Dirigeant: Patrick Lefebvre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-05-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b90356a396309e0a6af5acc5b58a72a6.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Diallo SIRET: 410 856 280 00251 Date création: 2021-01-14 Adresse: boulevard de Langlois66448 Simon Dirigeant: Richard Allain",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-01-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "b9be4aec46adbfb0f785b8995e80c88e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Michel SIRET: 412 182 099 00579 Date création: 2019-05-19 Adresse: chemin Lucas Rey37775 Mullerdan Dirigeant: Julien Paul",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-05-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bacd44235f14c3daf064d47264b58566.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Colin SIRET: 716 781 125 00019 Date création: 2022-12-04 Adresse: 212, rue Yves Bourgeois/76964 Rivière-sur-Mer Dirigeant: Zoé Lopes",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-12-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bacd6dd6b07d02c83d29cfa033969ff7.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bousquet SIRET: 743 553 794 00335 Date création: 2021-10-17 Adresse: 80, rue Maillet22523 Grenierdan Dirigeant: Audrey Delahaye",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-10-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bca1c9a58873277dbf4617cc809e381a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Olivier S.A.S. SIRET: 412 094 815 00567 Date création: 2017-02-06 Adresse: 901, rue Paris97636 Munoz Dirigeant: Simone-Aurélie Joubert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-02-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bec6ad552c6111d176a4cdd605411ef7.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Renard SARL SIRET: 833 321 169 00611 Date création: 2022-09-22 Adresse: 27, rue de Joubert81842 Robinboeuf Dirigeant: Sébastien Gosselin-Brunel",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-09-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bf200f0bba14c6f7e50d473e0fd78bac.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Marchand SIRET: 973 179 120 00652 Date création: 2024-11-10 Adresse: 957, rue Tristan Mendès47638 Augerdan Dirigeant: Juliette Blin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-11-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bf4bacc4bd2bd1d3fa77a854280ff3d8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Roy SIRET: 220 912 414 00350 Date création: 2017-07-10 Adresse: 82, rue Martin Delannoy05791 Fabredan Dirigeant: Timothée Barbe",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-07-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "bf9a1a4f329e8b2d077cd57e1bb8d067.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bonnet SIRET: 647 969 542 00073 Date création: 2016-09-05 Adresse: 15, chemin de Gillet13538 Hamon Dirigeant: Marine Lefèvre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-09-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c1db78dc5f89ddd1aeff715485c4fac3.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Leblanc SIRET: 337 389 878 00295 Date création: 2017-08-30 Adresse: 46, avenue Dominique Pascal04483 Verdier Dirigeant: Honoré Gallet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-08-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c3525f632e96227814cbdd2de5b3a2d8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Peron Jean et Fils SIRET: 737 460 527 00739 Date création: 2017-02-04 Adresse: 34, boulevard Michaud43532 Lévêquenec Dirigeant: Arnaude Evrard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-02-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c6e61cbaf08cfc17a95ab017d5510e21.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Tanguy SA SIRET: 715 695 623 00853 Date création: 2016-05-08 Adresse: 83, rue Bernier03876 Bazin Dirigeant: Élise Robin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-05-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c6f656579350a991dd9df975ddac3b72.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lemonnier SIRET: 7433598795518 Date création: 2021-07-13 Adresse: None Dirigeant: Marthe de la Lagarde",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-07-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c6ff732906cbbc036bf4f1bf6667a55d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Faure SIRET: 893 571 265 00410 Date création: 2017-10-09 Adresse: 47, rue Alexandrie Labbé67512 Vaillant-sur-Paul Dirigeant: Julie Mary",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-10-09"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c70ad36ab599fc3a909a786a08b0051e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lebon Bonnin SA SIRET: None Date création: 2022-11-27 Adresse: None Dirigeant: Victoire Andre-Paul",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-11-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c830fc5180064b787276096d5025d25e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Renault SIRET: 213 760 374 00420 Date création: 2024-10-17 Adresse: chemin Michelle Faivre53469 Fernandes Dirigeant: Paulette de la Dos Santos",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-10-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c83a23c18ac86af000e55e1261965cee.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Millet SARL SIRET: 393 866 132 00714 Date création: 2019-11-05 Adresse: 12, chemin Alexandre Perrier27569 François Dirigeant: Victor-Thierry Tessier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-11-05"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c88f2a9c50289eb1e07b280565b0369a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Texier SIRET: 555 535 665 00544 Date création: 2017-03-07 Adresse: 1, avenue Monique Joly04716 Sainte Martine-sur-Mer Dirigeant: Stéphanie Maurice",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-03-07"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "c8e831a5ddc14042da91c9bd6883083e.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Allain SIRET: None Date création: 2023-08-03 Adresse: None Dirigeant: Thomas Mace",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-08-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "cc581c5282a38a05675fc2f9f4ac64fa.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Colin Pierre SA SIRET: 334 234 259 00037 Date création: 2019-03-14 Adresse: rue Gillet83906 Sainte Marc-la-Forêt Dirigeant: Isabelle Lemaître",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "cd5acd67c71aa802807b4f45008f1a29.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Seguin S.A.R.L. SIRET: 2920439964177 Date création: 2019-01-28 Adresse: None Dirigeant: Hélène de la Sanchez",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-01-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "cfa75d5a5b7dde0e96433c1fd8b272ef.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Pottier SIRET: 219 285 541 00989 Date création: 2022-05-15 Adresse: 152, boulevard Carre47897 Bouchetboeuf Dirigeant: Bernard Carpentier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-05-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d0e57c69b5e84a27b9751d37e29c3706.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Poirier Petit et Fils SIRET: 524267716340650 Date création: 2024-12-11 Adresse: None Dirigeant: Vincent Marchand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-12-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d1480cefda58b33a07c1cb0c731ca32a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guyot S.AS. SIRET: 846 684 553 00841 Date création: 2018-09-13 Adresse: 88, chemin de Delahaye51894 Hernandez Dirigeant: Alfred Tanguy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d289d0b09a353bdaf42ee3cb260c5500.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Fleury Courtois S.A.R.L. SIRET: 518 376 066 00396 Date création: 2020-07-21 Adresse: chemin Lacroix20549 Gosselin Dirigeant: Alexandria Paris",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-07-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d324d47b8c0d1131283db488b6e430d4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Millet S.A.R.L. SIRET: 182 754 804 00595 Date création: 2018-03-04 Adresse: 59, avenue de Jean70517 Gilbert Dirigeant: Arthur du Potier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-03-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d37826111735301bef60a1ccadcba74c.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Fournier SIRET: 587 771 213 00564 Date création: 2022-02-26 Adresse: 32, boulevard de Maillard72779 Lecomte-sur-Guillon Dirigeant: Rémy Gosselin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-02-26"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d3b7aab7a6bc365efa7b2bbc1e209687.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Barthelemy SIRET: 196 399 075 00510 Date création: 2023-06-27 Adresse: 8, chemin de Coste24210 Saint JeannineBourg Dirigeant: Élise-Charlotte Diaz",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-06-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d4445a3a08e768efb1a72679f2d5384b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lopez S.A. SIRET: 968 549 824 00397 Date création: 2018-09-18 Adresse: 654, boulevard Coste84794 Boyer Dirigeant: Philippe Vaillant-Vincent",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-09-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d5b5e59066a68ff76ae9cf8329e402e7.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Léger SIRET: 156899935722511 Date création: 2018-05-04 Adresse: None Dirigeant: Isaac Andre",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-05-04"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d715f4080b76643beb087465da1f8341.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Étienne SARL SIRET: 12345678901234 Date création: 2020-11-08 Adresse: None Dirigeant: Frédéric Paris",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-11-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d75b86a65ade759311271e91244be2b7.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lucas SIRET: 636 694 119 00414 Date création: 2017-03-17 Adresse: 67, boulevard de Lacombe95929 Saint Philippe Dirigeant: Monique Le Delaunay",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-03-17"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d898245eecb414f1515b55fa4c2f0f59.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lelièvre SA SIRET: 014 011 936 00326 Date création: 2019-08-11 Adresse: 20, chemin Delorme44460 Charrier Dirigeant: Isabelle Bodin de Perrin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-08-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d8cc2289c925da028b24b718bfe5ab77.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Olivier Rossi S.A.R.L. SIRET: 289 611 220 00475 Date création: 2022-07-27 Adresse: 13, boulevard de Roche68401 Millet Dirigeant: André Lombard-Guyot",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-07-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d90be4de58635afae04573229cb23fb7.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Wagner SIRET: 375 047 933 00284 Date création: 2016-04-30 Adresse: 51, boulevard de Teixeira21665 Delmas Dirigeant: Diane-Anouk Pruvost",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-04-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d9710be643662172af2f279505eeb058.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ruiz SIRET: None Date création: 2024-10-02 Adresse: None Dirigeant: Guillaume Munoz",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-10-02"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d9b39b221dde5ec774a1bd3f5977f2d0.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Marin Lagarde et Fils SIRET: 024 471 468 00033 Date création: 2020-05-13 Adresse: avenue Daniel Joseph95470 Leduc-sur-Moreno Dirigeant: Josette Techer",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-05-13"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "d9bbdf120127bddd1baf96bf33a55cc9.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Philippe Jacquet S.A. SIRET: 425 832 300 00288 Date création: 2019-03-16 Adresse: rue Gillet83906 Sainte Marc-la-Forêt Dirigeant: Isabelle Lemaître",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "dba11f11073b50ac41d13091b17c5049.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Andre SIRET: 938 597 770 00511 Date création: 2016-11-14 Adresse: 55, boulevard Valentine Roger53355 Maurice Dirigeant: Suzanne Jacob",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-11-14"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "dcefe08b84141e0dfd1d7cbfbbcb8fdf.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bouvier SIRET: 112 382 965 00732 Date création: 2021-08-22 Adresse: 34, boulevard de Millet36303 Sainte Alexandrie-les-Bains Dirigeant: Michelle Masse",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-08-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "dd49a216a158c2092a9552aca606ed18.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lemoine SIRET: 237 281 795 00904 Date création: 2019-10-28 Adresse: 3, chemin Lejeune56741 Nicolas-sur-Bousquet Dirigeant: Augustin Cousin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-10-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "dd525c212b8730d93557869974fc5881.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Cousin SIRET: 408 215 457 00735 Date création: 2024-06-20 Adresse: 79, chemin Jacquet27287 BernardBourg Dirigeant: Marine Mercier-Bertrand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-06-20"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "de1fb594eaf3bbbe91cf5ccc12ed10a4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hoarau Huet et Fils SIRET: 911 415 206 00398 Date création: 2021-10-03 Adresse: 99, chemin Alphonse Grenier60702 Sainte Alexandria Dirigeant: Nath-Margot Baudry",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-10-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "dea948f60eb338b4b4f8eb27a906f369.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Lejeune SA SIRET: 692 364 581 00151 Date création: 2024-07-09 Adresse: 7, rue Patrick Martel05932 Lefort Dirigeant: Xavier Imbert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-07-09"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "df2b0890ab89bcfea3ca9ab4235e1657.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Roussel SIRET: 604 177 659 00405 Date création: 2018-12-06 Adresse: 6, boulevard Nathalie Lévy94434 LemonnierVille Dirigeant: Tristan Clerc",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-12-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "df9421c207411a855850856c56de4859.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Meunier Gautier S.A. SIRET: 476 490 784 00271 Date création: 2022-08-01 Adresse: 467, rue Agnès Ollivier91476 Lefebvre Dirigeant: Alexandria Rousset de Blot",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-08-01"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e08a1b2dae8d7a4827e4a9af14ec21bc.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Blin S.A. SIRET: 896 465 283 00324 Date création: 2020-08-18 Adresse: 85, rue Prévost90643 Blanchard-la-Forêt Dirigeant: Hugues Bertrand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-08-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e0b2741d12ea5254cc1322de3bec4ff3.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Perrin SIRET: 209 520 048 00528 Date création: 2021-08-24 Adresse: 74, rue Renaud30870 Coste-sur-Gomez Dirigeant: Dominique Chrétien",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-08-24"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e287167442988eb185f40f65029c14f4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Cohen SIRET: 492 515 838 00554 Date création: 2022-10-21 Adresse: 296, chemin Laetitia Lemoine55745 MorinVille Dirigeant: Marianne du Labbé",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-10-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e374bf7a98e8c4c79796700516e94afb.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Besson Adam S.A.sS. SIRET: 373 634 666 00284 Date création: 2017-08-23 Adresse: avenue Diane Benard29697 Sainte Denise Dirigeant: Maggie Launay du Bigot",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-08-23"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e5d230b22c99b32a1ef66eaa9fa8548d.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Léger SIRET: 054 851 019 00932 Date création: 2016-04-16 Adresse: 99, rue de Marty38391 Maillet-sur-Joly Dirigeant: Jeanne Duval",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-04-16"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e6504345b0121c928dc4b56dad255224.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Potier Raynaud S.A.R.L. SIRET: 377557783302232 Date création: 2023-12-30 Adresse: None Dirigeant: Matthieu Monnier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-12-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "e9a5bec92e72166eb8219a8425f089da.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Perret SIRET: 494 856 255 00364 Date création: 2024-07-25 Adresse: 40, rue Rolland23136 Bertin-les-Bains Dirigeant: Renée Ferreira",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-07-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "eb56178a4538e40e837873ba47af00e4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Ferrand Guillaume S.A.S. SIRET: 220 681 555 00854 Date création: 2022-12-03 Adresse: rue Gautier45431 Garcia Dirigeant: Margaux Richard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-12-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "eb5c5dfe6b44b1574ee16dfe4fb87f1f.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Renault Meunier S.A. SIRET: 124 620 956 00324 Date création: 2019-04-18 Adresse: 5, rue Timothée Blanchard52431 Mallet Dirigeant: André Renaud",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-04-18"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "eb6d9d3612a61a5b7d278ef8a14ea065.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rey SA SIRET: 143 639 102 00787 Date création: 2018-07-19 Adresse: 33, rue Lucy Morel30842 Hebert-sur-Rousset Dirigeant: Christiane Lopes",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-07-19"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "ec5ecaf4ed7b6aa2e08e4814ad88321a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chartier S.A. SIRET: 715 399 150 00682 Date création: 2022-08-15 Adresse: 463, rue Stéphane Fernandez15191 Traore Dirigeant: Élisabeth-Céline Baudry",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2022-08-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "ee0eeefce1f587639f61da052b52127b.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Raynaud S.A.R.L. SIRET: 553 795 022 00845 Date création: 2016-04-10 Adresse: 96, avenue de Ledoux50651 Saint ÉliseVille Dirigeant: Chantal Benard",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-04-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f221bd4fbb30bf5635a158b051f33217.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Munoz SIRET: 756 770 020 00490 Date création: 2018-12-29 Adresse: 74, rue Hélène Parent62775 Pottierdan Dirigeant: Constance Guillou",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-12-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f2aad7225dc1039b6e94ce04a6173b79.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Chauveau Loiseau S.A.R.L. SIRET: 9335689561300 Date création: 2017-06-22 Adresse: None Dirigeant: Joséphine Bertin-Weber",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2017-06-22"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f2fbf2b9c188283e883b9a52eefc61f8.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Bonnin Guyon SA SIRET: 815009818679201 Date création: 2019-04-03 Adresse: None Dirigeant: Nathalie Ribeiro",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-04-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f39e79b6459ee28525be2ab6b41890ba.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Guibert Renard SA SIRET: 722874894162857 Date création: 2020-07-29 Adresse: None Dirigeant: Augustin Denis",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-07-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f4b68a1339ce59782c33dd87dafd6699.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Legros SIRET: 851 961 060 00601 Date création: 2019-03-06 Adresse: 323, chemin Françoise Marin06942 Mary Dirigeant: Paul Vaillant du Hubert",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2019-03-06"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f6f5ed991ad612f4f30f17067a41a1a4.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Boucher Gillet S.A.R.L. SIRET: 661 498 287 00977 Date création: 2021-05-28 Adresse: 88, chemin Dufour91580 Meyer Dirigeant: Adrien de Charrier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-05-28"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f7438ae7f505b1471d113cf5266d3a9a.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Diaz SIRET: 033 373 630 00749 Date création: 2021-05-31 Adresse: 525, rue de Lucas97120 Hebert Dirigeant: Marthe de la Guillon",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-05-31"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f7aff11cf2fad178abf73bce87e8a091.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Gros SIRET: 571 509 975 00819 Date création: 2020-02-27 Adresse: 2, rue Nathalie Gilbert97141 Chevalier-sur-Lopez Dirigeant: Julien Didier",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2020-02-27"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f85529f830f3623bd239194da5e01cb5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Pires S.AS. SIRET: 289 107 716 00341 Date création: 2018-01-03 Adresse: 9, rue Lombard16991 Étienne Dirigeant: William Neveu",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-01-03"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "f86cf18d57c94dff8d1bcec77eff68df.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Rocher Colas SA SIRET: 032 484 131 00506 Date création: 2024-08-08 Adresse: 6, rue Bodin97351 Lebreton-les-Bains Dirigeant: François-Philippe Bertrand",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-08-08"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "fa5bd90124306e31d80b32e7d7de3720.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Berthelot SIRET: 832 582 381 00816 Date création: 2023-11-21 Adresse: boulevard Stéphane Guibert21100 Sainte Richard Dirigeant: Jeannine Bazin du Marty",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2023-11-21"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "faacbaa975e399881244cd05b4f86467.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Benoit S.A.S. SIRET: 083 342 808 00975 Date création: 2024-04-11 Adresse: 227, chemin Gillet54319 Dumasnec Dirigeant: Hugues Denis",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-04-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "fc59eba59758d0cc1f081758ca6aa54f.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Hoareau SA SIRET: 150 937 712 00357 Date création: 2016-05-15 Adresse: 1, rue Barbe01484 Dijoux-sur-Samson Dirigeant: Patrick-Noël Boulay",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2016-05-15"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "fd11921bd057fb5f343b89571e33bba2.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Voisin Mahe S.AS. SIRET: None Date création: 2018-04-30 Adresse: None Dirigeant: Agathe Chauvet",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2018-04-30"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "feaf8c6df6a90aa9b227967dc6eee3cf.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Schneider Bousquet SA SIRET: 12345678901234 Date création: 2021-05-29 Adresse: None Dirigeant: Margaux Robin",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-05-29"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "ff7f0ba3304516f3a5b38a0342b2f6ac.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Mace S.A. SIRET: 468 750 633 00066 Date création: 2021-11-25 Adresse: 4, avenue de Sanchez31301 Boulanger Dirigeant: Arthur Toussaint de Leroy",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2021-11-25"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "ffd2ecbb5928f375d9c5805dc18069a5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Grégoire Chevallier et Fils SIRET: 897 317 913 00167 Date création: 2024-11-11 Adresse: 672, chemin de Laine88594 Reynaud-la-Forêt Dirigeant: Noémi-Alex Guillaume",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-11-11"
+        },
+        "anomalies": [],
+        "is_valid": true
+    },
+    {
+        "nom_fichier": "ffda4df4482cd26a4c325dd2e7a1a8e5.pdf",
+        "categorie": "kbis",
+        "contenu": "Type de document: kbis Entreprise: Schneider SIRET: 468 971 528 00582 Date création: 2024-03-10 Adresse: 10, chemin de Marin51525 Bernierboeuf Dirigeant: Victoire Le Gall",
+        "extracted_data": {
+            "siret": null,
+            "tva": null,
+            "iban": null,
+            "bic": null,
+            "date": "2024-03-10"
+        },
+        "anomalies": [],
+        "is_valid": true
+    }
+]

@@ -1,0 +1,26 @@
+services:
+  backend:
+    build: ./backend
+    container_name: autdoc-backend
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - HDFS_URL=http://namenode:9870/webhdfs/v1
+    networks: [autdoc]
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        - VITE_API_URL=http://localhost:5000
+    container_name: autdoc-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks: [autdoc]
+
+networks:
+  autdoc:
+    driver: bridge

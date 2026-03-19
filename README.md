@@ -1,16 +1,35 @@
-# React + Vite
+# HKT - AutoDoc avec Hadoop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce workspace contient :
+- `Website/` : le front/back **actuel**
+- `HKT-2026-G20-AutoDoc-fullstack_old/` : ancien fullstack (archive)
+- `bigdata-project/` : Hadoop (HDFS/YARN)
+- `HKT-2026-G20-AutoDoc-ia-*` : projets IA à conserver
 
-Currently, two official plugins are available:
+## Lancement complet (recommandé)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+cd /home/guillaume/HKT
+docker-compose up -d
+```
 
-## React Compiler
+Services :
+- Frontend : http://localhost:3000
+- Backend : http://localhost:5000
+- HDFS UI : http://localhost:9870
+- YARN : http://localhost:8088
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Lancement Website seul
 
-## Expanding the ESLint configuration
+```bash
+cd /home/guillaume/HKT/Website
+docker-compose up -d
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Flux data visé
+
+- Upload backend vers `bronze`
+- Script IA OCR : `bronze -> silver`
+- Script IA scoring fiabilité : `silver -> gold`
+
+Les projets IA ne sont pas modifiés ici ; l'orchestration Docker est alignée pour consommer/produire sur les chemins HDFS standards de l'app.

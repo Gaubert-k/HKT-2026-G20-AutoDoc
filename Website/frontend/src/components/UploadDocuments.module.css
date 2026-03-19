@@ -1,0 +1,266 @@
+
+.uploadContainer {
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.uploadZone {
+  border: 2px dashed #888;
+  border-radius: 10px;
+  padding: 40px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+  background-color: #f9f9f9;
+}
+
+.uploadZone.dragOver {
+  background-color: #eef6ff;
+  border-color: #1e90ff;
+  transform: scale(1.03);
+}
+
+.fileInput {
+  display: none; 
+}
+
+.filePreview {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fileItem {
+  padding: 10px;
+ 
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.removeBtn {
+  background: none;
+  border: none;
+  color: red;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.removeBtn:hover {
+  transform: scale(1.2);
+}
+
+/* -------------------- */
+/* CLOUD ICON ANIMATION */
+/* -------------------- */
+.cloudIcon {
+  font-size: 60px;
+  margin-bottom: 15px;
+  animation: floatCloud 2s ease-in-out infinite;
+}
+
+@keyframes floatCloud {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+/* -------------------- */
+/* POPUP NOTIFICATIONS */
+/* -------------------- */
+.popup {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  font-weight: 600;
+  z-index: 9999;
+  animation: fadeInOut 3s ease forwards;
+  text-align: center;
+}
+
+@keyframes fadeInOut {
+  0% { opacity: 0; transform: translateY(-20px); }
+  10% { opacity: 1; transform: translateY(0); }
+  90% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-20px); }
+}
+
+/* -------------------- */
+/* DARK MODE */
+/* -------------------- */
+:global(body.dark) .uploadContainer {
+  background-color: #1f1f1f8a;
+  color: #d7dce4;
+  border: 2px dashed #285e8a;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 30px auto;
+}
+
+:global(body.dark) .uploadZone {
+  background-color: #141414;
+  border: 2px dashed #87288a;
+  border-radius: 10px;
+  padding: 30px;
+  color: #6f7070;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.3s, background-color 0.3s;
+}
+
+:global(body.dark) .uploadZone:hover {
+  background-color: #2b2b2b;
+}
+
+:global(body.dark) .fileItem {
+  color: #949794;
+}
+
+:global(body.dark) .removeBtn {
+  color: #ff6b6b;
+}
+
+:global(body.dark) .removeBtn:hover {
+  color: #ff4b4b;
+}
+
+:global(body.dark) .uploadBtn {
+  background-color: #ff00ff9a;
+  color: #ffffffa9;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+}
+
+:global(body.dark) .uploadBtn:hover {
+  background-color: #ff00ff62;
+}
+
+:global(body.dark) .uploadButton {
+  padding: 8px 16px;
+  background-color: #79797950;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+:global(body.dark) .uploadButton:hover {
+  background-color: #0f6dcbbe;
+}
+
+:global(body.dark) .popup {
+  background-color: #87288a;
+  color: #ffffffa9;
+}
+
+/* -------------------- */
+/* LIGHT MODE */
+/* -------------------- */
+:global(body.light) .uploadContainer {
+  background-color: #ff7b004f;
+  color: #222;
+  border: 2px dashed #ffa500;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 30px auto;
+}
+
+:global(body.light) .uploadZone {
+  background-color: #e7ceb071; 
+  border: 2px dashed #ff9800;  
+  border-radius: 10px;
+  padding: 30px;
+  color: #555;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.3s, background-color 0.3s, box-shadow 0.3s, transform 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Hover / DragOver effect */
+:global(body.light) .uploadZone:hover,
+:global(body.light) .uploadZone.dragOver {
+  background-color: #ff7b0025; 
+  border-color: #ff7b00;       
+  box-shadow: 0 0 20px rgba(255,123,0,0.4);
+  transform: scale(1.03);
+}
+
+/* Animation pulsation douce */
+@keyframes pulseOrange {
+  0% { box-shadow: 0 0 0px rgba(255,123,0,0.3); }
+  50% { box-shadow: 0 0 15px rgba(255,123,0,0.5); }
+  100% { box-shadow: 0 0 0px rgba(255,123,0,0.3); }
+}
+
+
+:global(body.light) .uploadZone.dragOver {
+  animation: pulseOrange 1.5s ease-in-out infinite;
+}
+:global(body.light) .uploadZone:hover {
+  background-color: #e2862fe5;
+}
+:global(body.light) .fileItem {
+  color: #333;
+}
+:global(body.light) .removeBtn {
+  color: #ff4b4b;
+}
+:global(body.light) .removeBtn:hover {
+  color: #ff1a1a;
+}
+
+:global(body.light) .uploadBtn {
+  background-color: #ff9800;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+}
+
+:global(body.light) .uploadBtn:hover {
+  background-color: #e68900;
+}
+
+:global(body.light) .uploadButton {
+  padding: 8px 16px;
+  background-color: #008cff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+:global(body.light) .uploadButton:hover {
+  background-color: #0f6dcbbe;
+}
+
+:global(body.light) .popup {
+  background-color: #ff9800;
+  color: #fff;
+}

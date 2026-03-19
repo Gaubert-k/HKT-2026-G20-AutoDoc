@@ -1,0 +1,136 @@
+
+
+body.dark {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e1f;
+  color: #8d8d8d;
+}
+body.light {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f0f0;
+  color: #292929;
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.app-header h1.dark {
+  color: #d7dce4;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+
+.app-header .subtitle.switch.dark {
+  color: #222222;
+  font-size: 1.2rem;
+}
+
+
+body.dark .subtitle {
+  color: #718093;  
+}
+body.light .subtitle {
+  color: #fc810e;     
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 900px;
+  gap: 30px;
+  
+}
+
+
+/* Button Dark Light */
+.toggleSwitch {
+  width: 60px;
+  height: 30px;
+  border-radius: 30px;
+  background-color: #ddd;
+  position: relative;
+  cursor: pointer;
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  padding: 1px;
+  transition: background-color 0.3s;
+  margin: 15px auto 0 auto;
+}
+
+/* Modul cercle glisant */
+.switch {
+  width: 28px;
+  height: 28px;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s, background-color 0.3s;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+
+.switch.dark {
+  transform: translateX(30px);
+  background-color: #222;
+}
+
+
+.icon {
+  position: absolute;
+  font-size: 16px;
+  transition: opacity 0.3s;
+}
+
+.icon.sun {
+  left: 4px;
+  color: #ffcd3c;
+  opacity: 0; 
+}
+
+.icon.moon {
+  right: 4px;
+  color: #f5f5f5;
+  opacity: 1; 
+}
+
+
+.switch.light .icon.sun {
+  opacity: 1;
+}
+
+.switch.light .icon.moon {
+  opacity: 0;
+}
+
+.toggleSwitch:hover .switch {
+  transform: scale(1.1);
+}
+
+
+body.light .toggleSwitch {
+  background-color: #ccc;
+}
+body.dark .toggleSwitch {
+  background-color: #555;
+}

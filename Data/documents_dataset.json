@@ -1,0 +1,6602 @@
+[
+    {
+        "document_type": "facture",
+        "company": "Maury S.A.R.L.",
+        "siret": "104 332 184 00811",
+        "tva": "FR104 332 184",
+        "date_emission": "1972-02-29",
+        "montant_ht": 3233.19,
+        "montant_ttc": 3879.83,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Vasseur",
+        "siret": "133 890 830 00036",
+        "tva": "FR133 890 830",
+        "date_emission": "2000-07-27",
+        "montant_ht": 222.55,
+        "montant_ttc": 267.06,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Henry",
+        "siret": "402 654 230 00752",
+        "tva": "FR402 654 230",
+        "date_emission": "1976-04-24",
+        "montant_ht": 1447.64,
+        "montant_ttc": 1737.17,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Hoareau SA",
+        "siret": "155 940 786 00488",
+        "tva": "FR155 940 786",
+        "date_emission": "2007-07-27",
+        "montant_ht": 1193.73,
+        "montant_ttc": 1432.48,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rey SA",
+        "siret": "959 310 343 00378",
+        "tva": "FR959 310 343",
+        "date_emission": "1995-11-14",
+        "montant_ht": 3708.71,
+        "montant_ttc": 4450.45,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Joubert Chauveau S.A.",
+        "siret": "752 553 412 00350",
+        "tva": "FR752 553 412",
+        "date_emission": "1981-02-13",
+        "montant_ht": 3415.83,
+        "montant_ttc": 4099.0,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Maréchal",
+        "siret": "648 350 304 00594",
+        "tva": "FR648 350 304",
+        "date_emission": "1988-03-21",
+        "montant_ht": 4471.68,
+        "montant_ttc": 5366.02,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Joly",
+        "siret": "395 376 726 00083",
+        "tva": "FR395 376 726",
+        "date_emission": "1986-10-13",
+        "montant_ht": 526.0,
+        "montant_ttc": 631.2,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dos Santos Grégoire S.A.R.L.",
+        "siret": "884 969 650 00958",
+        "tva": "FR884 969 650",
+        "date_emission": "1976-03-09",
+        "montant_ht": 2167.42,
+        "montant_ttc": 2600.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Godard",
+        "siret": "012 269 163 00965",
+        "tva": "FR012 269 163",
+        "date_emission": "2001-11-07",
+        "montant_ht": 246.01,
+        "montant_ttc": 295.21,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gay",
+        "siret": "480 184 514 00671",
+        "tva": "FR480 184 514",
+        "date_emission": "1980-10-06",
+        "montant_ht": 1171.33,
+        "montant_ttc": 1405.6,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Brunet Besson S.A.",
+        "siret": "048 281 489 00582",
+        "tva": "FR048 281 489",
+        "date_emission": "2006-09-15",
+        "montant_ht": 2576.24,
+        "montant_ttc": 3091.49,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dupuis",
+        "siret": "809 570 153 00993",
+        "tva": "FR809 570 153",
+        "date_emission": "1973-12-10",
+        "montant_ht": 230.03,
+        "montant_ttc": 276.04,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dias",
+        "siret": "911 718 229 00303",
+        "tva": "FR911 718 229",
+        "date_emission": "1981-03-28",
+        "montant_ht": 1074.3,
+        "montant_ttc": 1289.16,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Navarro",
+        "siret": "896 383 460 00335",
+        "tva": "FR896 383 460",
+        "date_emission": "2005-03-22",
+        "montant_ht": 3284.43,
+        "montant_ttc": 3941.32,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pruvost Vasseur SA",
+        "siret": "133 150 987 00575",
+        "tva": "FR133 150 987",
+        "date_emission": "1974-10-31",
+        "montant_ht": 2770.21,
+        "montant_ttc": 3324.25,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Laroche",
+        "siret": "031 051 832 00900",
+        "tva": "FR031 051 832",
+        "date_emission": "2003-01-13",
+        "montant_ht": 1180.16,
+        "montant_ttc": 1416.19,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gauthier Pereira et Fils",
+        "siret": "829 973 767 00272",
+        "tva": "FR829 973 767",
+        "date_emission": "1999-05-02",
+        "montant_ht": 2987.4,
+        "montant_ttc": 3584.88,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Menard S.A.",
+        "siret": "667 010 656 00458",
+        "tva": "FR667 010 656",
+        "date_emission": "1982-12-11",
+        "montant_ht": 4066.21,
+        "montant_ttc": 4879.45,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dias",
+        "siret": "726 247 315 00682",
+        "tva": "FR726 247 315",
+        "date_emission": "1976-08-30",
+        "montant_ht": 131.84,
+        "montant_ttc": 158.21,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Maréchal Lopez S.A.",
+        "siret": "801 326 778 00066",
+        "tva": "FR801 326 778",
+        "date_emission": "1995-10-16",
+        "montant_ht": 4048.51,
+        "montant_ttc": 4858.21,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Collet Carpentier SA",
+        "siret": "647 468 727 00001",
+        "tva": "FR647 468 727",
+        "date_emission": "2009-05-31",
+        "montant_ht": 3520.88,
+        "montant_ttc": 4225.06,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Boyer Grégoire SA",
+        "siret": "805 009 784 00945",
+        "tva": "FR805 009 784",
+        "date_emission": "1982-08-24",
+        "montant_ht": 1767.23,
+        "montant_ttc": 2120.68,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Legendre SA",
+        "siret": "913 619 391 00083",
+        "tva": "FR913 619 391",
+        "date_emission": "1998-07-12",
+        "montant_ht": 861.85,
+        "montant_ttc": 1034.22,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Delaunay",
+        "siret": "998 543 532 00845",
+        "tva": "FR998 543 532",
+        "date_emission": "1978-11-27",
+        "montant_ht": 4790.34,
+        "montant_ttc": 5748.41,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Legrand S.A.S.",
+        "siret": "475 107 991 00857",
+        "tva": "FR475 107 991",
+        "date_emission": "1984-07-03",
+        "montant_ht": 1749.31,
+        "montant_ttc": 2099.17,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Devaux",
+        "siret": "425 135 423 00647",
+        "tva": "FR425 135 423",
+        "date_emission": "2017-11-16",
+        "montant_ht": 554.45,
+        "montant_ttc": 665.34,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gautier et Fils",
+        "siret": "980 841 241 00386",
+        "tva": "FR980 841 241",
+        "date_emission": "2007-08-25",
+        "montant_ht": 573.91,
+        "montant_ttc": 688.69,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Deschamps",
+        "siret": "449 353 481 00194",
+        "tva": "FR449 353 481",
+        "date_emission": "1973-06-16",
+        "montant_ht": 4252.72,
+        "montant_ttc": 5103.26,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Courtois",
+        "siret": "640 052 429 00118",
+        "tva": "FR640 052 429",
+        "date_emission": "2018-01-08",
+        "montant_ht": 3058.26,
+        "montant_ttc": 3669.91,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Perret Rodriguez SA",
+        "siret": "801 128 059 00541",
+        "tva": "FR801 128 059",
+        "date_emission": "1990-12-23",
+        "montant_ht": 4054.93,
+        "montant_ttc": 4865.92,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gomez Goncalves S.A.",
+        "siret": "053 315 867 00464",
+        "tva": "FR053 315 867",
+        "date_emission": "1998-01-21",
+        "montant_ht": 3675.69,
+        "montant_ttc": 4410.83,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lelièvre S.A.",
+        "siret": "256 342 163 00035",
+        "tva": "FR256 342 163",
+        "date_emission": "1983-08-01",
+        "montant_ht": 2727.52,
+        "montant_ttc": 3273.02,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Muller",
+        "siret": "543 303 655 00582",
+        "tva": "FR543 303 655",
+        "date_emission": "2022-08-17",
+        "montant_ht": 4868.27,
+        "montant_ttc": 5841.92,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Blin Aubry SA",
+        "siret": "586 850 141 00357",
+        "tva": "FR586 850 141",
+        "date_emission": "1977-05-18",
+        "montant_ht": 1954.82,
+        "montant_ttc": 2345.78,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Adam Bertrand et Fils",
+        "siret": "655 698 165 00769",
+        "tva": "FR655 698 165",
+        "date_emission": "1999-09-04",
+        "montant_ht": 2805.0,
+        "montant_ttc": 3366.0,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dupré",
+        "siret": "883 561 599 00001",
+        "tva": "FR883 561 599",
+        "date_emission": "1978-06-25",
+        "montant_ht": 4164.08,
+        "montant_ttc": 4996.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Olivier De Oliveira et Fils",
+        "siret": "484 656 483 00928",
+        "tva": "FR484 656 483",
+        "date_emission": "1995-10-20",
+        "montant_ht": 3130.75,
+        "montant_ttc": 3756.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lacroix",
+        "siret": "299 468 041 00866",
+        "tva": "FR299 468 041",
+        "date_emission": "1999-04-03",
+        "montant_ht": 4322.36,
+        "montant_ttc": 5186.83,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Delmas Clément SARL",
+        "siret": "957 773 872 00743",
+        "tva": "FR957 773 872",
+        "date_emission": "2005-01-28",
+        "montant_ht": 2929.03,
+        "montant_ttc": 3514.84,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lambert S.A.",
+        "siret": "951 343 326 00843",
+        "tva": "FR951 343 326",
+        "date_emission": "2002-05-02",
+        "montant_ht": 3552.4,
+        "montant_ttc": 4262.88,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Caron Bègue et Fils",
+        "siret": "176 936 763 00786",
+        "tva": "FR176 936 763",
+        "date_emission": "1970-05-18",
+        "montant_ht": 324.54,
+        "montant_ttc": 389.45,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rivière Pineau S.A.",
+        "siret": "163 287 089 00961",
+        "tva": "FR163 287 089",
+        "date_emission": "2024-07-15",
+        "montant_ht": 1216.7,
+        "montant_ttc": 1460.04,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leroux",
+        "siret": "889 579 868 00593",
+        "tva": "FR889 579 868",
+        "date_emission": "2020-08-09",
+        "montant_ht": 1518.0,
+        "montant_ttc": 1821.6,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Garnier",
+        "siret": "743 487 340 00601",
+        "tva": "FR743 487 340",
+        "date_emission": "2018-07-23",
+        "montant_ht": 490.98,
+        "montant_ttc": 589.18,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Jacob Lemonnier S.A.",
+        "siret": "345 581 227 00369",
+        "tva": "FR345 581 227",
+        "date_emission": "2018-01-27",
+        "montant_ht": 1240.68,
+        "montant_ttc": 1488.82,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "De Oliveira Perrier S.A.S.",
+        "siret": "166 587 600 00270",
+        "tva": "FR166 587 600",
+        "date_emission": "2017-05-01",
+        "montant_ht": 594.91,
+        "montant_ttc": 713.89,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Coulon Vasseur SARL",
+        "siret": "967 054 669 00023",
+        "tva": "FR967 054 669",
+        "date_emission": "1999-08-29",
+        "montant_ht": 1462.07,
+        "montant_ttc": 1754.48,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Carlier S.A.S.",
+        "siret": "065 627 291 00621",
+        "tva": "FR065 627 291",
+        "date_emission": "2008-05-29",
+        "montant_ht": 3214.85,
+        "montant_ttc": 3857.82,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Millet",
+        "siret": "016 272 049 00848",
+        "tva": "FR016 272 049",
+        "date_emission": "1984-05-27",
+        "montant_ht": 1887.68,
+        "montant_ttc": 2265.22,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bouvet S.A.S.",
+        "siret": "556 464 170 00589",
+        "tva": "FR556 464 170",
+        "date_emission": "1973-07-18",
+        "montant_ht": 1913.89,
+        "montant_ttc": 2296.67,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dupuis Marchand S.A.R.L.",
+        "siret": "310 033 097 00448",
+        "tva": "FR310 033 097",
+        "date_emission": "2015-07-23",
+        "montant_ht": 1126.58,
+        "montant_ttc": 1351.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Merle S.A.",
+        "siret": "937 452 993 00143",
+        "tva": "FR937 452 993",
+        "date_emission": "1991-03-02",
+        "montant_ht": 1408.19,
+        "montant_ttc": 1689.83,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Henry Grenier SARL",
+        "siret": "904 966 314 00133",
+        "tva": "FR904 966 314",
+        "date_emission": "2016-07-25",
+        "montant_ht": 4689.61,
+        "montant_ttc": 5627.53,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Richard",
+        "siret": "190 586 511 00767",
+        "tva": "FR190 586 511",
+        "date_emission": "1998-08-02",
+        "montant_ht": 3275.37,
+        "montant_ttc": 3930.44,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Chauvet",
+        "siret": "165 726 282 00628",
+        "tva": "FR165 726 282",
+        "date_emission": "2024-12-30",
+        "montant_ht": 3084.74,
+        "montant_ttc": 3701.69,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebreton",
+        "siret": "776 945 313 00687",
+        "tva": "FR776 945 313",
+        "date_emission": "1986-08-06",
+        "montant_ht": 938.58,
+        "montant_ttc": 1126.3,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Coulon Lecomte SARL",
+        "siret": "799 650 759 00969",
+        "tva": "FR799 650 759",
+        "date_emission": "2024-04-17",
+        "montant_ht": 3672.72,
+        "montant_ttc": 4407.26,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Guillot et Fils",
+        "siret": "549 480 838 00339",
+        "tva": "FR549 480 838",
+        "date_emission": "1997-08-28",
+        "montant_ht": 900.67,
+        "montant_ttc": 1080.8,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebon Jacquot S.A.",
+        "siret": "837 770 148 00620",
+        "tva": "FR837 770 148",
+        "date_emission": "1990-11-02",
+        "montant_ht": 1959.33,
+        "montant_ttc": 2351.2,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Benard",
+        "siret": "957 885 684 00846",
+        "tva": "FR957 885 684",
+        "date_emission": "2017-10-30",
+        "montant_ht": 4948.66,
+        "montant_ttc": 5938.39,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Olivier Fabre et Fils",
+        "siret": "444 313 514 00580",
+        "tva": "FR444 313 514",
+        "date_emission": "2002-12-13",
+        "montant_ht": 3236.0,
+        "montant_ttc": 3883.2,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Colin",
+        "siret": "989 413 430 00350",
+        "tva": "FR989 413 430",
+        "date_emission": "1990-07-27",
+        "montant_ht": 2829.05,
+        "montant_ttc": 3394.86,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Henry",
+        "siret": "824 008 429 00014",
+        "tva": "FR824 008 429",
+        "date_emission": "1970-11-01",
+        "montant_ht": 3454.61,
+        "montant_ttc": 4145.53,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Noël",
+        "siret": "477 752 042 00739",
+        "tva": "FR477 752 042",
+        "date_emission": "2025-12-11",
+        "montant_ht": 4229.97,
+        "montant_ttc": 5075.96,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Clément",
+        "siret": "671 902 294 00089",
+        "tva": "FR671 902 294",
+        "date_emission": "1986-11-21",
+        "montant_ht": 3902.4,
+        "montant_ttc": 4682.88,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pichon",
+        "siret": "869 993 865 00151",
+        "tva": "FR869 993 865",
+        "date_emission": "1990-03-27",
+        "montant_ht": 1222.34,
+        "montant_ttc": 1466.81,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Aubry Peltier SA",
+        "siret": "649 909 132 00759",
+        "tva": "FR649 909 132",
+        "date_emission": "1980-09-08",
+        "montant_ht": 257.29,
+        "montant_ttc": 308.75,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Klein",
+        "siret": "281 206 797 00306",
+        "tva": "FR281 206 797",
+        "date_emission": "1972-03-22",
+        "montant_ht": 1645.72,
+        "montant_ttc": 1974.86,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Noël",
+        "siret": "447 134 933 00293",
+        "tva": "FR447 134 933",
+        "date_emission": "2007-01-22",
+        "montant_ht": 1411.93,
+        "montant_ttc": 1694.32,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Navarro",
+        "siret": "242 102 499 00280",
+        "tva": "FR242 102 499",
+        "date_emission": "1978-06-18",
+        "montant_ht": 1133.82,
+        "montant_ttc": 1360.58,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lesage et Fils",
+        "siret": "464 887 710 00596",
+        "tva": "FR464 887 710",
+        "date_emission": "1991-12-08",
+        "montant_ht": 4720.26,
+        "montant_ttc": 5664.31,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ledoux S.A.",
+        "siret": "401 399 043 00777",
+        "tva": "FR401 399 043",
+        "date_emission": "2002-01-07",
+        "montant_ht": 4394.2,
+        "montant_ttc": 5273.04,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lejeune",
+        "siret": "742 967 177 00665",
+        "tva": "FR742 967 177",
+        "date_emission": "1992-09-06",
+        "montant_ht": 1641.92,
+        "montant_ttc": 1970.3,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "De Sousa SA",
+        "siret": "125 674 689 00414",
+        "tva": "FR125 674 689",
+        "date_emission": "1991-05-28",
+        "montant_ht": 3311.65,
+        "montant_ttc": 3973.98,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Roche S.A.S.",
+        "siret": "516 808 763 00325",
+        "tva": "FR516 808 763",
+        "date_emission": "1994-08-15",
+        "montant_ht": 2038.6,
+        "montant_ttc": 2446.32,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rocher",
+        "siret": "770 348 241 00793",
+        "tva": "FR770 348 241",
+        "date_emission": "2002-12-26",
+        "montant_ht": 4581.28,
+        "montant_ttc": 5497.54,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Morin",
+        "siret": "093 248 086 00154",
+        "tva": "FR093 248 086",
+        "date_emission": "1985-04-16",
+        "montant_ht": 2348.37,
+        "montant_ttc": 2818.04,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Georges",
+        "siret": "712 748 466 00141",
+        "tva": "FR712 748 466",
+        "date_emission": "1986-08-02",
+        "montant_ht": 1397.91,
+        "montant_ttc": 1677.49,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leleu",
+        "siret": "826 398 216 00588",
+        "tva": "FR826 398 216",
+        "date_emission": "2023-10-05",
+        "montant_ht": 1308.47,
+        "montant_ttc": 1570.16,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gérard",
+        "siret": "584 044 994 00534",
+        "tva": "FR584 044 994",
+        "date_emission": "2000-05-21",
+        "montant_ht": 2850.7,
+        "montant_ttc": 3420.84,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rocher Dupuis S.A.S.",
+        "siret": "755 886 751 00683",
+        "tva": "FR755 886 751",
+        "date_emission": "1996-01-23",
+        "montant_ht": 1387.43,
+        "montant_ttc": 1664.92,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Marchand S.A.S.",
+        "siret": "605 766 278 00291",
+        "tva": "FR605 766 278",
+        "date_emission": "2010-03-01",
+        "montant_ht": 2964.47,
+        "montant_ttc": 3557.36,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Sanchez Lelièvre SARL",
+        "siret": "171 870 264 00420",
+        "tva": "FR171 870 264",
+        "date_emission": "1993-01-14",
+        "montant_ht": 4499.33,
+        "montant_ttc": 5399.2,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Maurice SA",
+        "siret": "615 865 789 00791",
+        "tva": "FR615 865 789",
+        "date_emission": "1985-12-23",
+        "montant_ht": 2057.06,
+        "montant_ttc": 2468.47,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leroy",
+        "siret": "431 611 722 00809",
+        "tva": "FR431 611 722",
+        "date_emission": "1973-02-17",
+        "montant_ht": 1174.67,
+        "montant_ttc": 1409.6,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Moreno",
+        "siret": "045 562 386 00412",
+        "tva": "FR045 562 386",
+        "date_emission": "2016-05-25",
+        "montant_ht": 4987.93,
+        "montant_ttc": 5985.52,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Grondin Pinto et Fils",
+        "siret": "221 969 371 00238",
+        "tva": "FR221 969 371",
+        "date_emission": "1987-04-14",
+        "montant_ht": 2596.68,
+        "montant_ttc": 3116.02,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Coste",
+        "siret": "407 482 173 00587",
+        "tva": "FR407 482 173",
+        "date_emission": "1990-05-11",
+        "montant_ht": 545.46,
+        "montant_ttc": 654.55,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Weber Masse SARL",
+        "siret": "647 436 716 00813",
+        "tva": "FR647 436 716",
+        "date_emission": "2009-02-12",
+        "montant_ht": 330.87,
+        "montant_ttc": 397.04,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Renault",
+        "siret": "406 409 094 00371",
+        "tva": "FR406 409 094",
+        "date_emission": "2022-10-16",
+        "montant_ht": 637.28,
+        "montant_ttc": 764.74,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ruiz S.A.R.L.",
+        "siret": "953 394 210 00298",
+        "tva": "FR953 394 210",
+        "date_emission": "1972-04-09",
+        "montant_ht": 3174.49,
+        "montant_ttc": 3809.39,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gimenez Poulain S.A.S.",
+        "siret": "521 456 236 00749",
+        "tva": "FR521 456 236",
+        "date_emission": "2004-02-24",
+        "montant_ht": 3981.19,
+        "montant_ttc": 4777.43,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Faivre Jean et Fils",
+        "siret": "247 451 719 00345",
+        "tva": "FR247 451 719",
+        "date_emission": "2019-04-14",
+        "montant_ht": 2168.58,
+        "montant_ttc": 2602.3,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "De Sousa SARL",
+        "siret": "685 160 483 00861",
+        "tva": "FR685 160 483",
+        "date_emission": "2015-10-15",
+        "montant_ht": 411.29,
+        "montant_ttc": 493.55,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bourdon",
+        "siret": "496 513 706 00952",
+        "tva": "FR496 513 706",
+        "date_emission": "1985-01-24",
+        "montant_ht": 1969.93,
+        "montant_ttc": 2363.92,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Teixeira",
+        "siret": "174 612 002 00827",
+        "tva": "FR174 612 002",
+        "date_emission": "1977-11-26",
+        "montant_ht": 4980.99,
+        "montant_ttc": 5977.19,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Legros Bègue SA",
+        "siret": "382 675 866 00125",
+        "tva": "FR382 675 866",
+        "date_emission": "2003-04-20",
+        "montant_ht": 2692.66,
+        "montant_ttc": 3231.19,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Perrin",
+        "siret": "640 537 734 00785",
+        "tva": "FR640 537 734",
+        "date_emission": "2016-08-29",
+        "montant_ht": 4858.28,
+        "montant_ttc": 5829.94,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dupré S.A.",
+        "siret": "850 643 172 00479",
+        "tva": "FR850 643 172",
+        "date_emission": "2013-09-01",
+        "montant_ht": 4317.82,
+        "montant_ttc": 5181.38,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Salmon S.A.S.",
+        "siret": "900 532 938 00819",
+        "tva": "FR900 532 938",
+        "date_emission": "1984-02-05",
+        "montant_ht": 156.26,
+        "montant_ttc": 187.51,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gimenez Deschamps S.A.",
+        "siret": "335 290 425 00750",
+        "tva": "FR335 290 425",
+        "date_emission": "1977-06-25",
+        "montant_ht": 3631.54,
+        "montant_ttc": 4357.85,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Aubry Roux S.A.",
+        "siret": "020 539 508 00844",
+        "tva": "FR020 539 508",
+        "date_emission": "2020-06-22",
+        "montant_ht": 3440.38,
+        "montant_ttc": 4128.46,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Sauvage S.A.S.",
+        "siret": "811 775 899 00537",
+        "tva": "FR811 775 899",
+        "date_emission": "1985-01-28",
+        "montant_ht": 2731.15,
+        "montant_ttc": 3277.38,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Torres",
+        "siret": "084 700 764 00784",
+        "tva": "FR084 700 764",
+        "date_emission": "1977-05-07",
+        "montant_ht": 1407.44,
+        "montant_ttc": 1688.93,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ferrand",
+        "siret": "711 592 121 00620",
+        "tva": "FR711 592 121",
+        "date_emission": "2013-01-30",
+        "montant_ht": 3240.71,
+        "montant_ttc": 3888.85,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Perrin",
+        "siret": "856 984 786 00744",
+        "tva": "FR856 984 786",
+        "date_emission": "2023-12-21",
+        "montant_ht": 646.61,
+        "montant_ttc": 775.93,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Alexandre",
+        "siret": "183 673 656 00892",
+        "tva": "FR183 673 656",
+        "date_emission": "1998-04-23",
+        "montant_ht": 2230.35,
+        "montant_ttc": 2676.42,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Robin SA",
+        "siret": "156 545 279 00937",
+        "tva": "FR156 545 279",
+        "date_emission": "1976-05-06",
+        "montant_ht": 2323.25,
+        "montant_ttc": 2787.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leconte",
+        "siret": "152 809 885 00550",
+        "tva": "FR152 809 885",
+        "date_emission": "1978-04-27",
+        "montant_ht": 4773.7,
+        "montant_ttc": 5728.44,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Meyer Descamps S.A.R.L.",
+        "siret": "560 494 510 00525",
+        "tva": "FR560 494 510",
+        "date_emission": "1985-04-05",
+        "montant_ht": 4391.68,
+        "montant_ttc": 5270.02,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Raynaud et Fils",
+        "siret": "585 149 362 00139",
+        "tva": "FR585 149 362",
+        "date_emission": "2017-03-11",
+        "montant_ht": 1390.61,
+        "montant_ttc": 1668.73,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Moreno Descamps S.A.R.L.",
+        "siret": "024 455 024 00349",
+        "tva": "FR024 455 024",
+        "date_emission": "1974-09-26",
+        "montant_ht": 2552.87,
+        "montant_ttc": 3063.44,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lemaître Langlois et Fils",
+        "siret": "018 366 757 00187",
+        "tva": "FR018 366 757",
+        "date_emission": "1992-01-28",
+        "montant_ht": 975.39,
+        "montant_ttc": 1170.47,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Maillard S.A.R.L.",
+        "siret": "991 022 906 00994",
+        "tva": "FR991 022 906",
+        "date_emission": "2015-01-17",
+        "montant_ht": 4571.88,
+        "montant_ttc": 5486.26,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Perret",
+        "siret": "797 643 814 00545",
+        "tva": "FR797 643 814",
+        "date_emission": "1977-07-19",
+        "montant_ht": 4365.54,
+        "montant_ttc": 5238.65,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Robert S.A.",
+        "siret": "978 403 699 00363",
+        "tva": "FR978 403 699",
+        "date_emission": "1990-07-06",
+        "montant_ht": 1562.38,
+        "montant_ttc": 1874.86,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dumont Gillet S.A.S.",
+        "siret": "244 510 764 00271",
+        "tva": "FR244 510 764",
+        "date_emission": "2017-11-19",
+        "montant_ht": 3230.85,
+        "montant_ttc": 3877.02,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Garnier",
+        "siret": "885 160 606 00293",
+        "tva": "FR885 160 606",
+        "date_emission": "1991-04-22",
+        "montant_ht": 3083.95,
+        "montant_ttc": 3700.74,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Picard",
+        "siret": "696 641 604 00736",
+        "tva": "FR696 641 604",
+        "date_emission": "2024-07-12",
+        "montant_ht": 848.91,
+        "montant_ttc": 1018.69,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Hardy",
+        "siret": "751 613 696 00796",
+        "tva": "FR751 613 696",
+        "date_emission": "1975-05-09",
+        "montant_ht": 3836.3,
+        "montant_ttc": 4603.56,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Diallo Lévêque SARL",
+        "siret": "453 521 817 00503",
+        "tva": "FR453 521 817",
+        "date_emission": "2019-07-02",
+        "montant_ht": 2742.96,
+        "montant_ttc": 3291.55,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Samson Thierry et Fils",
+        "siret": "231 243 296 00820",
+        "tva": "FR231 243 296",
+        "date_emission": "1975-02-16",
+        "montant_ht": 3915.27,
+        "montant_ttc": 4698.32,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Fernandes",
+        "siret": "779 979 954 00228",
+        "tva": "FR779 979 954",
+        "date_emission": "1999-12-05",
+        "montant_ht": 2698.73,
+        "montant_ttc": 3238.48,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ruiz S.A.R.L.",
+        "siret": "774 490 585 00080",
+        "tva": "FR774 490 585",
+        "date_emission": "2000-10-02",
+        "montant_ht": 102.8,
+        "montant_ttc": 123.36,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pinto",
+        "siret": "054 119 987 00045",
+        "tva": "FR054 119 987",
+        "date_emission": "2009-06-29",
+        "montant_ht": 1688.36,
+        "montant_ttc": 2026.03,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bonnet Lebreton SA",
+        "siret": "079 359 782 00707",
+        "tva": "FR079 359 782",
+        "date_emission": "2025-03-09",
+        "montant_ht": 195.44,
+        "montant_ttc": 234.53,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Marchal Guichard SARL",
+        "siret": "182 037 788 00433",
+        "tva": "FR182 037 788",
+        "date_emission": "1996-05-13",
+        "montant_ht": 4652.58,
+        "montant_ttc": 5583.1,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Jacquet",
+        "siret": "590 515 185 00528",
+        "tva": "FR590 515 185",
+        "date_emission": "1987-02-24",
+        "montant_ht": 4405.74,
+        "montant_ttc": 5286.89,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dumont",
+        "siret": "925 192 544 00920",
+        "tva": "FR925 192 544",
+        "date_emission": "2010-06-29",
+        "montant_ht": 4175.16,
+        "montant_ttc": 5010.19,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Grégoire",
+        "siret": "148 652 811 00909",
+        "tva": "FR148 652 811",
+        "date_emission": "1994-08-16",
+        "montant_ht": 1606.82,
+        "montant_ttc": 1928.18,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Meyer Garnier SARL",
+        "siret": "542 357 330 00027",
+        "tva": "FR542 357 330",
+        "date_emission": "2023-08-19",
+        "montant_ht": 383.83,
+        "montant_ttc": 460.6,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Brunet",
+        "siret": "888 059 292 00126",
+        "tva": "FR888 059 292",
+        "date_emission": "1981-01-15",
+        "montant_ht": 4402.25,
+        "montant_ttc": 5282.7,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Chrétien",
+        "siret": "927 065 375 00234",
+        "tva": "FR927 065 375",
+        "date_emission": "2020-12-08",
+        "montant_ht": 4740.05,
+        "montant_ttc": 5688.06,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pinto",
+        "siret": "383 473 592 00574",
+        "tva": "FR383 473 592",
+        "date_emission": "2022-05-12",
+        "montant_ht": 519.7,
+        "montant_ttc": 623.64,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Roux",
+        "siret": "688 623 925 00361",
+        "tva": "FR688 623 925",
+        "date_emission": "2013-08-19",
+        "montant_ht": 2481.35,
+        "montant_ttc": 2977.62,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebreton",
+        "siret": "581 814 126 00610",
+        "tva": "FR581 814 126",
+        "date_emission": "2004-12-07",
+        "montant_ht": 439.14,
+        "montant_ttc": 526.97,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gaudin",
+        "siret": "613 750 603 00185",
+        "tva": "FR613 750 603",
+        "date_emission": "1995-06-13",
+        "montant_ht": 3826.95,
+        "montant_ttc": 4592.34,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dos Santos Morel SARL",
+        "siret": "615 305 158 00300",
+        "tva": "FR615 305 158",
+        "date_emission": "2002-02-24",
+        "montant_ht": 3852.59,
+        "montant_ttc": 4623.11,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gérard Lévy et Fils",
+        "siret": "277 901 047 00898",
+        "tva": "FR277 901 047",
+        "date_emission": "2011-06-08",
+        "montant_ht": 729.12,
+        "montant_ttc": 874.94,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Riou",
+        "siret": "614 341 030 00672",
+        "tva": "FR614 341 030",
+        "date_emission": "2024-01-10",
+        "montant_ht": 2428.88,
+        "montant_ttc": 2914.66,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Wagner Meunier SARL",
+        "siret": "711 798 082 00790",
+        "tva": "FR711 798 082",
+        "date_emission": "1999-03-18",
+        "montant_ht": 2794.04,
+        "montant_ttc": 3352.85,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Mercier",
+        "siret": "953 962 180 00006",
+        "tva": "FR953 962 180",
+        "date_emission": "2005-10-19",
+        "montant_ht": 1398.78,
+        "montant_ttc": 1678.54,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Fleury",
+        "siret": "888 067 063 00691",
+        "tva": "FR888 067 063",
+        "date_emission": "2020-11-08",
+        "montant_ht": 4374.92,
+        "montant_ttc": 5249.9,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Benard S.A.S.",
+        "siret": "515 319 523 00020",
+        "tva": "FR515 319 523",
+        "date_emission": "1993-01-14",
+        "montant_ht": 2173.38,
+        "montant_ttc": 2608.06,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Renaud",
+        "siret": "277 221 701 00828",
+        "tva": "FR277 221 701",
+        "date_emission": "1972-12-24",
+        "montant_ht": 1137.81,
+        "montant_ttc": 1365.37,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Chrétien et Fils",
+        "siret": "054 868 740 00256",
+        "tva": "FR054 868 740",
+        "date_emission": "1983-01-02",
+        "montant_ht": 2742.55,
+        "montant_ttc": 3291.06,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Collin",
+        "siret": "505 415 661 00360",
+        "tva": "FR505 415 661",
+        "date_emission": "1993-01-26",
+        "montant_ht": 3676.66,
+        "montant_ttc": 4411.99,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Marion",
+        "siret": "775 841 612 00234",
+        "tva": "FR775 841 612",
+        "date_emission": "2025-12-17",
+        "montant_ht": 1085.64,
+        "montant_ttc": 1302.77,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Marion",
+        "siret": "845 115 443 00234",
+        "tva": "FR845 115 443",
+        "date_emission": "2018-11-02",
+        "montant_ht": 1627.41,
+        "montant_ttc": 1952.89,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Riou",
+        "siret": "275 705 960 00548",
+        "tva": "FR275 705 960",
+        "date_emission": "2023-11-11",
+        "montant_ht": 4976.23,
+        "montant_ttc": 5971.48,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Fontaine",
+        "siret": "165 820 291 00079",
+        "tva": "FR165 820 291",
+        "date_emission": "1978-08-04",
+        "montant_ht": 3284.4,
+        "montant_ttc": 3941.28,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lemaître",
+        "siret": "355 690 926 00082",
+        "tva": "FR355 690 926",
+        "date_emission": "1995-04-26",
+        "montant_ht": 2246.69,
+        "montant_ttc": 2696.03,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Noël Michel et Fils",
+        "siret": "192 856 540 00567",
+        "tva": "FR192 856 540",
+        "date_emission": "1982-08-30",
+        "montant_ht": 2636.12,
+        "montant_ttc": 3163.34,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lemonnier",
+        "siret": "868 144 734 00639",
+        "tva": "FR868 144 734",
+        "date_emission": "2003-06-05",
+        "montant_ht": 692.92,
+        "montant_ttc": 831.5,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lacombe",
+        "siret": "121 727 150 00256",
+        "tva": "FR121 727 150",
+        "date_emission": "1974-06-03",
+        "montant_ht": 1201.02,
+        "montant_ttc": 1441.22,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bourgeois S.A.",
+        "siret": "844 225 839 00704",
+        "tva": "FR844 225 839",
+        "date_emission": "1986-02-10",
+        "montant_ht": 1756.62,
+        "montant_ttc": 2107.94,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "François SARL",
+        "siret": "058 957 820 00630",
+        "tva": "FR058 957 820",
+        "date_emission": "1997-02-04",
+        "montant_ht": 2982.71,
+        "montant_ttc": 3579.25,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebreton S.A.R.L.",
+        "siret": "786 691 253 00912",
+        "tva": "FR786 691 253",
+        "date_emission": "2016-04-13",
+        "montant_ht": 1227.56,
+        "montant_ttc": 1473.07,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Denis S.A.S.",
+        "siret": "528 922 685 00664",
+        "tva": "FR528 922 685",
+        "date_emission": "1980-05-31",
+        "montant_ht": 1179.07,
+        "montant_ttc": 1414.88,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pierre",
+        "siret": "225 358 415 00381",
+        "tva": "FR225 358 415",
+        "date_emission": "2013-03-20",
+        "montant_ht": 447.87,
+        "montant_ttc": 537.44,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Picard Delmas S.A.S.",
+        "siret": "424 981 827 00704",
+        "tva": "FR424 981 827",
+        "date_emission": "2019-01-15",
+        "montant_ht": 3192.4,
+        "montant_ttc": 3830.88,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gosselin Masse S.A.R.L.",
+        "siret": "590 010 948 00776",
+        "tva": "FR590 010 948",
+        "date_emission": "2012-01-24",
+        "montant_ht": 1221.81,
+        "montant_ttc": 1466.17,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "De Sousa",
+        "siret": "078 447 364 00817",
+        "tva": "FR078 447 364",
+        "date_emission": "1974-12-19",
+        "montant_ht": 4536.56,
+        "montant_ttc": 5443.87,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bouvier Wagner SARL",
+        "siret": "027 677 350 00889",
+        "tva": "FR027 677 350",
+        "date_emission": "2019-12-18",
+        "montant_ht": 4312.21,
+        "montant_ttc": 5174.65,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rivière",
+        "siret": "625 881 537 00447",
+        "tva": "FR625 881 537",
+        "date_emission": "1988-03-15",
+        "montant_ht": 447.2,
+        "montant_ttc": 536.64,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leroux Millet S.A.S.",
+        "siret": "321 046 963 00575",
+        "tva": "FR321 046 963",
+        "date_emission": "2019-01-27",
+        "montant_ht": 1266.22,
+        "montant_ttc": 1519.46,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Robin S.A.R.L.",
+        "siret": "327 877 478 00401",
+        "tva": "FR327 877 478",
+        "date_emission": "2004-05-24",
+        "montant_ht": 3377.99,
+        "montant_ttc": 4053.59,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Renault",
+        "siret": "339 500 472 00586",
+        "tva": "FR339 500 472",
+        "date_emission": "2006-07-10",
+        "montant_ht": 1149.76,
+        "montant_ttc": 1379.71,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Roux",
+        "siret": "162 456 503 00018",
+        "tva": "FR162 456 503",
+        "date_emission": "2008-10-22",
+        "montant_ht": 748.33,
+        "montant_ttc": 898.0,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ferrand",
+        "siret": "358 416 873 00711",
+        "tva": "FR358 416 873",
+        "date_emission": "2016-04-20",
+        "montant_ht": 4684.02,
+        "montant_ttc": 5620.82,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Philippe Marion S.A.S.",
+        "siret": "121 655 856 00783",
+        "tva": "FR121 655 856",
+        "date_emission": "1997-04-25",
+        "montant_ht": 2898.11,
+        "montant_ttc": 3477.73,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Seguin Buisson S.A.",
+        "siret": "000 257 873 00646",
+        "tva": "FR000 257 873",
+        "date_emission": "1992-04-26",
+        "montant_ht": 2416.09,
+        "montant_ttc": 2899.31,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Neveu",
+        "siret": "526 949 581 00783",
+        "tva": "FR526 949 581",
+        "date_emission": "2008-04-22",
+        "montant_ht": 3944.64,
+        "montant_ttc": 4733.57,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Godard S.A.R.L.",
+        "siret": "705 516 946 00385",
+        "tva": "FR705 516 946",
+        "date_emission": "1988-01-26",
+        "montant_ht": 4056.74,
+        "montant_ttc": 4868.09,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Caron",
+        "siret": "993 097 286 00831",
+        "tva": "FR993 097 286",
+        "date_emission": "2025-11-30",
+        "montant_ht": 1033.01,
+        "montant_ttc": 1239.61,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Fernandes",
+        "siret": "309 130 755 00874",
+        "tva": "FR309 130 755",
+        "date_emission": "1998-02-07",
+        "montant_ht": 574.96,
+        "montant_ttc": 689.95,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Guilbert Germain et Fils",
+        "siret": "368 970 281 00888",
+        "tva": "FR368 970 281",
+        "date_emission": "2002-07-21",
+        "montant_ht": 2212.15,
+        "montant_ttc": 2654.58,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bourdon",
+        "siret": "652 785 858 00679",
+        "tva": "FR652 785 858",
+        "date_emission": "2002-12-13",
+        "montant_ht": 2175.54,
+        "montant_ttc": 2610.65,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Prévost",
+        "siret": "348 434 432 00244",
+        "tva": "FR348 434 432",
+        "date_emission": "2002-08-26",
+        "montant_ht": 2388.42,
+        "montant_ttc": 2866.1,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Leleu",
+        "siret": "844 198 663 00446",
+        "tva": "FR844 198 663",
+        "date_emission": "2024-10-02",
+        "montant_ht": 3672.47,
+        "montant_ttc": 4406.96,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Renaud Tanguy SARL",
+        "siret": "404 157 471 00180",
+        "tva": "FR404 157 471",
+        "date_emission": "2008-03-31",
+        "montant_ht": 3399.49,
+        "montant_ttc": 4079.39,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Diaz Rey SA",
+        "siret": "421 993 304 00896",
+        "tva": "FR421 993 304",
+        "date_emission": "1976-10-26",
+        "montant_ht": 4922.41,
+        "montant_ttc": 5906.89,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Martel",
+        "siret": "571 208 263 00525",
+        "tva": "FR571 208 263",
+        "date_emission": "2014-04-09",
+        "montant_ht": 582.25,
+        "montant_ttc": 698.7,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Roger S.A.R.L.",
+        "siret": "454 019 381 00259",
+        "tva": "FR454 019 381",
+        "date_emission": "1981-12-18",
+        "montant_ht": 2072.84,
+        "montant_ttc": 2487.41,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Daniel SARL",
+        "siret": "672 400 496 00044",
+        "tva": "FR672 400 496",
+        "date_emission": "2000-12-01",
+        "montant_ht": 1762.58,
+        "montant_ttc": 2115.1,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rémy S.A.",
+        "siret": "887 287 431 00829",
+        "tva": "FR887 287 431",
+        "date_emission": "2019-10-03",
+        "montant_ht": 4322.2,
+        "montant_ttc": 5186.64,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Launay",
+        "siret": "420 549 321 00586",
+        "tva": "FR420 549 321",
+        "date_emission": "2005-01-24",
+        "montant_ht": 1318.42,
+        "montant_ttc": 1582.1,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bertin S.A.R.L.",
+        "siret": "161 227 533 00411",
+        "tva": "FR161 227 533",
+        "date_emission": "1986-01-10",
+        "montant_ht": 1032.02,
+        "montant_ttc": 1238.42,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bonnet Martineau SA",
+        "siret": "454 990 458 00571",
+        "tva": "FR454 990 458",
+        "date_emission": "2001-09-02",
+        "montant_ht": 2298.21,
+        "montant_ttc": 2757.85,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Vasseur Lucas S.A.R.L.",
+        "siret": "268 414 596 00398",
+        "tva": "FR268 414 596",
+        "date_emission": "1980-06-04",
+        "montant_ht": 2167.22,
+        "montant_ttc": 2600.66,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Laine S.A.R.L.",
+        "siret": "956 878 334 00583",
+        "tva": "FR956 878 334",
+        "date_emission": "2005-12-10",
+        "montant_ht": 1464.87,
+        "montant_ttc": 1757.84,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gaillard Millet S.A.S.",
+        "siret": "519 108 831 00909",
+        "tva": "FR519 108 831",
+        "date_emission": "2000-01-26",
+        "montant_ht": 1324.05,
+        "montant_ttc": 1588.86,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Blanchet Legros S.A.R.L.",
+        "siret": "397 187 071 00147",
+        "tva": "FR397 187 071",
+        "date_emission": "2008-05-17",
+        "montant_ht": 4624.0,
+        "montant_ttc": 5548.8,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lambert S.A.R.L.",
+        "siret": "874 064 033 00077",
+        "tva": "FR874 064 033",
+        "date_emission": "1993-06-12",
+        "montant_ht": 2271.34,
+        "montant_ttc": 2725.61,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lecoq Dufour et Fils",
+        "siret": "180 170 466 00890",
+        "tva": "FR180 170 466",
+        "date_emission": "2019-08-18",
+        "montant_ht": 4320.61,
+        "montant_ttc": 5184.73,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Guibert Lévêque SA",
+        "siret": "656 766 185 00820",
+        "tva": "FR656 766 185",
+        "date_emission": "1982-02-22",
+        "montant_ht": 2796.59,
+        "montant_ttc": 3355.91,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Rossi",
+        "siret": "682 300 470 00684",
+        "tva": "FR682 300 470",
+        "date_emission": "1995-10-23",
+        "montant_ht": 347.88,
+        "montant_ttc": 417.46,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bonneau",
+        "siret": "375 243 102 00296",
+        "tva": "FR375 243 102",
+        "date_emission": "2022-02-17",
+        "montant_ht": 4996.48,
+        "montant_ttc": 5995.78,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Moulin et Fils",
+        "siret": "331 190 793 00025",
+        "tva": "FR331 190 793",
+        "date_emission": "1973-01-04",
+        "montant_ht": 4196.54,
+        "montant_ttc": 5035.85,
+        "status": "valid"
+    },
+    {
+        "document_type": "facture",
+        "company": "Foucher Bruneau SARL",
+        "siret": "738 302 843 00516",
+        "tva": "FR00000000000",
+        "date_emission": "2009-04-19",
+        "montant_ht": 4848.08,
+        "montant_ttc": 5817.7,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Bonnet",
+        "siret": "534 283 643 00763",
+        "tva": "FR00000000000",
+        "date_emission": "2007-11-20",
+        "montant_ht": 4639.2,
+        "montant_ttc": 5567.04,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Grenier",
+        "siret": "268 705 688 00755",
+        "tva": "FR00000000000",
+        "date_emission": "1998-05-01",
+        "montant_ht": 4258.61,
+        "montant_ttc": 5110.33,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Neveu",
+        "siret": "246 287 338 00528",
+        "tva": "FR00000000000",
+        "date_emission": "1979-10-28",
+        "montant_ht": 914.92,
+        "montant_ttc": 1097.9,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Adam Martins SARL",
+        "siret": "086 688 264 00596",
+        "tva": "FR00000000000",
+        "date_emission": "2014-01-03",
+        "montant_ht": 2479.64,
+        "montant_ttc": 2975.57,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Legrand S.A.",
+        "siret": "751 830 464 00101",
+        "tva": "FR00000000000",
+        "date_emission": "2024-10-03",
+        "montant_ht": 1147.36,
+        "montant_ttc": 1376.83,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Aubert Traore SA",
+        "siret": "983 735 408 00970",
+        "tva": "FR00000000000",
+        "date_emission": "2020-10-28",
+        "montant_ht": 2065.1,
+        "montant_ttc": 2478.12,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gillet",
+        "siret": "739 363 851 00968",
+        "tva": "FR00000000000",
+        "date_emission": "2001-09-23",
+        "montant_ht": 387.31,
+        "montant_ttc": 464.77,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Samson",
+        "siret": "544 587 710 00689",
+        "tva": "FR00000000000",
+        "date_emission": "1991-10-17",
+        "montant_ht": 1956.97,
+        "montant_ttc": 2348.36,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lenoir",
+        "siret": "556 093 201 00268",
+        "tva": "FR00000000000",
+        "date_emission": "2009-09-29",
+        "montant_ht": 4928.01,
+        "montant_ttc": 5913.61,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Didier Dias et Fils",
+        "siret": "642 353 692 00741",
+        "tva": "FR00000000000",
+        "date_emission": "2016-08-08",
+        "montant_ht": 1399.49,
+        "montant_ttc": 1679.39,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Gonzalez",
+        "siret": "477 725 220 00438",
+        "tva": "FR00000000000",
+        "date_emission": "2006-11-22",
+        "montant_ht": 3941.95,
+        "montant_ttc": 4730.34,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Mercier Neveu S.A.",
+        "siret": "080 100 621 00822",
+        "tva": "FR00000000000",
+        "date_emission": "1970-08-16",
+        "montant_ht": 2329.54,
+        "montant_ttc": 2795.45,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Robert S.A.S.",
+        "siret": "875 099 772 00274",
+        "tva": "FR00000000000",
+        "date_emission": "2007-07-17",
+        "montant_ht": 2172.74,
+        "montant_ttc": 2607.29,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Colin",
+        "siret": "008 484 081 00529",
+        "tva": "FR00000000000",
+        "date_emission": "1977-04-13",
+        "montant_ht": 4790.86,
+        "montant_ttc": 5749.03,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Chauvin",
+        "siret": "823 398 458 00120",
+        "tva": "FR00000000000",
+        "date_emission": "1975-05-19",
+        "montant_ht": 4977.57,
+        "montant_ttc": 5973.08,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebon S.A.R.L.",
+        "siret": "679 334 102 00473",
+        "tva": "FR00000000000",
+        "date_emission": "1995-09-01",
+        "montant_ht": 2823.26,
+        "montant_ttc": 3387.91,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Evrard SA",
+        "siret": "700 217 656 00706",
+        "tva": "FR00000000000",
+        "date_emission": "1985-08-20",
+        "montant_ht": 3620.2,
+        "montant_ttc": 4344.24,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Colin SARL",
+        "siret": "974 014 896 00274",
+        "tva": "FR00000000000",
+        "date_emission": "1971-01-25",
+        "montant_ht": 858.5,
+        "montant_ttc": 1030.2,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Labbé",
+        "siret": "926 142 936 00265",
+        "tva": "FR00000000000",
+        "date_emission": "2006-10-14",
+        "montant_ht": 1553.87,
+        "montant_ttc": 1864.64,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Sanchez Leblanc S.A.S.",
+        "siret": "621 850 163 00422",
+        "tva": "FR00000000000",
+        "date_emission": "2022-05-01",
+        "montant_ht": 4846.68,
+        "montant_ttc": 5816.02,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lenoir",
+        "siret": "965 047 731 00785",
+        "tva": "FR00000000000",
+        "date_emission": "1995-07-20",
+        "montant_ht": 2937.98,
+        "montant_ttc": 3525.58,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Royer S.A.",
+        "siret": "296 194 319 00558",
+        "tva": "FR00000000000",
+        "date_emission": "1995-11-10",
+        "montant_ht": 2756.76,
+        "montant_ttc": 3308.11,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Alves",
+        "siret": "265 511 048 00919",
+        "tva": "FR00000000000",
+        "date_emission": "2021-10-23",
+        "montant_ht": 3765.08,
+        "montant_ttc": 4518.1,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Henry",
+        "siret": "121 267 884 00348",
+        "tva": "FR00000000000",
+        "date_emission": "1971-10-15",
+        "montant_ht": 380.11,
+        "montant_ttc": 456.13,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pasquier",
+        "siret": "581 995 602 00116",
+        "tva": "FR00000000000",
+        "date_emission": "1996-05-22",
+        "montant_ht": 2962.47,
+        "montant_ttc": 3554.96,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Royer Hernandez SARL",
+        "siret": "183 982 628 00996",
+        "tva": "FR00000000000",
+        "date_emission": "2003-07-23",
+        "montant_ht": 2563.97,
+        "montant_ttc": 3076.76,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Deschamps",
+        "siret": "126 464 718 00181",
+        "tva": "FR00000000000",
+        "date_emission": "1986-10-13",
+        "montant_ht": 4278.33,
+        "montant_ttc": 5134.0,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Delaunay SARL",
+        "siret": "799 371 240 00927",
+        "tva": "FR00000000000",
+        "date_emission": "2012-03-15",
+        "montant_ht": 871.42,
+        "montant_ttc": 1045.7,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Voisin Bouvier S.A.",
+        "siret": "575 692 454 00482",
+        "tva": "FR00000000000",
+        "date_emission": "1997-02-06",
+        "montant_ht": 4807.82,
+        "montant_ttc": 5769.38,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Noël",
+        "siret": "479 356 461 00406",
+        "tva": "FR00000000000",
+        "date_emission": "2008-05-15",
+        "montant_ht": 492.55,
+        "montant_ttc": 591.06,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Jacquot",
+        "siret": "982 807 372 00254",
+        "tva": "FR00000000000",
+        "date_emission": "1974-09-15",
+        "montant_ht": 1010.54,
+        "montant_ttc": 1212.65,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pons S.A.S.",
+        "siret": "724 342 662 00520",
+        "tva": "FR00000000000",
+        "date_emission": "2002-08-12",
+        "montant_ht": 3015.67,
+        "montant_ttc": 3618.8,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Nicolas S.A.",
+        "siret": "688 680 586 00742",
+        "tva": "FR00000000000",
+        "date_emission": "2014-10-01",
+        "montant_ht": 3408.54,
+        "montant_ttc": 4090.25,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Dubois SA",
+        "siret": "529 096 562 00853",
+        "tva": "FR00000000000",
+        "date_emission": "1987-08-10",
+        "montant_ht": 1252.5,
+        "montant_ttc": 1503.0,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Barthelemy",
+        "siret": "888 993 755 00287",
+        "tva": "FR00000000000",
+        "date_emission": "2022-07-23",
+        "montant_ht": 687.44,
+        "montant_ttc": 824.93,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Clément",
+        "siret": "982 507 147 00865",
+        "tva": "FR00000000000",
+        "date_emission": "1977-11-24",
+        "montant_ht": 4462.41,
+        "montant_ttc": 5354.89,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Ollivier",
+        "siret": "254 573 876 00938",
+        "tva": "FR00000000000",
+        "date_emission": "1976-08-23",
+        "montant_ht": 1306.46,
+        "montant_ttc": 1567.75,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Labbé S.A.",
+        "siret": "751 401 050 00560",
+        "tva": "FR00000000000",
+        "date_emission": "2020-05-22",
+        "montant_ht": 3013.14,
+        "montant_ttc": 3615.77,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebon Lombard S.A.",
+        "siret": "828 258 673 00312",
+        "tva": "FR00000000000",
+        "date_emission": "1982-09-07",
+        "montant_ht": 3134.97,
+        "montant_ttc": 3761.96,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Thomas",
+        "siret": "660 937 962 00810",
+        "tva": "FR00000000000",
+        "date_emission": "2017-12-16",
+        "montant_ht": 2154.2,
+        "montant_ttc": 2585.04,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Pierre",
+        "siret": "341 918 258 00276",
+        "tva": "FR00000000000",
+        "date_emission": "2001-02-19",
+        "montant_ht": 2959.99,
+        "montant_ttc": 3551.99,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lévêque SARL",
+        "siret": "478 596 968 00147",
+        "tva": "FR00000000000",
+        "date_emission": "2001-02-27",
+        "montant_ht": 2661.64,
+        "montant_ttc": 3193.97,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Schneider Ferreira S.A.",
+        "siret": "249 912 510 00792",
+        "tva": "FR00000000000",
+        "date_emission": "1995-05-28",
+        "montant_ht": 4680.06,
+        "montant_ttc": 5616.07,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lemoine",
+        "siret": "286 692 967 00883",
+        "tva": "FR00000000000",
+        "date_emission": "2003-02-13",
+        "montant_ht": 1100.87,
+        "montant_ttc": 1321.04,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lebreton",
+        "siret": "828 274 225 00816",
+        "tva": "FR00000000000",
+        "date_emission": "2012-02-25",
+        "montant_ht": 3609.34,
+        "montant_ttc": 4331.21,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Lejeune",
+        "siret": "507 236 883 00066",
+        "tva": "FR00000000000",
+        "date_emission": "2016-08-05",
+        "montant_ht": 1269.56,
+        "montant_ttc": 1523.47,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "David",
+        "siret": "677 219 032 00625",
+        "tva": "FR00000000000",
+        "date_emission": "1988-09-14",
+        "montant_ht": 2039.35,
+        "montant_ttc": 2447.22,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Baudry SA",
+        "siret": "842 797 888 00281",
+        "tva": "FR00000000000",
+        "date_emission": "1988-03-25",
+        "montant_ht": 3391.28,
+        "montant_ttc": 4069.54,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "facture",
+        "company": "Guyon et Fils",
+        "siret": "858 078 363 00992",
+        "tva": "FR00000000000",
+        "date_emission": "2021-02-16",
+        "montant_ht": 1569.99,
+        "montant_ttc": 1883.99,
+        "status": "anomaly"
+    },
+    {
+        "document_type": "devis",
+        "company": "Lacroix Gallet S.A.S.",
+        "siret": "407 451 715 00319",
+        "date": "2016-11-23",
+        "montant_ht": 1016.91,
+        "montant_ttc": 1220.29
+    },
+    {
+        "document_type": "devis",
+        "company": "Rossi",
+        "siret": "962 923 306 00444",
+        "date": "1989-02-16",
+        "montant_ht": 2280.41,
+        "montant_ttc": 2736.49
+    },
+    {
+        "document_type": "devis",
+        "company": "Dufour S.A.R.L.",
+        "siret": "825 449 481 00761",
+        "date": "1974-01-13",
+        "montant_ht": 310.38,
+        "montant_ttc": 372.46
+    },
+    {
+        "document_type": "devis",
+        "company": "Verdier Lefort SARL",
+        "siret": "223 253 675 00357",
+        "date": "2012-09-21",
+        "montant_ht": 1429.03,
+        "montant_ttc": 1714.84
+    },
+    {
+        "document_type": "devis",
+        "company": "Coulon",
+        "siret": "671 168 458 00535",
+        "date": "1992-04-09",
+        "montant_ht": 2995.52,
+        "montant_ttc": 3594.62
+    },
+    {
+        "document_type": "devis",
+        "company": "Lecomte",
+        "siret": "017 518 630 00748",
+        "date": "2003-09-01",
+        "montant_ht": 2988.68,
+        "montant_ttc": 3586.42
+    },
+    {
+        "document_type": "devis",
+        "company": "Normand",
+        "siret": "545 892 978 00341",
+        "date": "2021-11-14",
+        "montant_ht": 312.46,
+        "montant_ttc": 374.95
+    },
+    {
+        "document_type": "devis",
+        "company": "Gilbert S.A.",
+        "siret": "017 012 774 00067",
+        "date": "2016-11-10",
+        "montant_ht": 718.15,
+        "montant_ttc": 861.78
+    },
+    {
+        "document_type": "devis",
+        "company": "Roux Delaunay et Fils",
+        "siret": "424 154 151 00163",
+        "date": "1990-10-16",
+        "montant_ht": 869.08,
+        "montant_ttc": 1042.9
+    },
+    {
+        "document_type": "devis",
+        "company": "Allain Jean S.A.S.",
+        "siret": "361 103 716 00920",
+        "date": "2016-04-10",
+        "montant_ht": 2806.45,
+        "montant_ttc": 3367.74
+    },
+    {
+        "document_type": "devis",
+        "company": "Jacob Blanc et Fils",
+        "siret": "005 162 714 00561",
+        "date": "2024-11-05",
+        "montant_ht": 2654.51,
+        "montant_ttc": 3185.41
+    },
+    {
+        "document_type": "devis",
+        "company": "Laporte S.A.S.",
+        "siret": "155 426 224 00137",
+        "date": "1970-07-30",
+        "montant_ht": 2649.88,
+        "montant_ttc": 3179.86
+    },
+    {
+        "document_type": "devis",
+        "company": "Fernandez Roussel S.A.",
+        "siret": "275 326 973 00789",
+        "date": "2021-03-16",
+        "montant_ht": 1171.63,
+        "montant_ttc": 1405.96
+    },
+    {
+        "document_type": "devis",
+        "company": "Menard S.A.S.",
+        "siret": "965 652 340 00153",
+        "date": "2010-11-24",
+        "montant_ht": 557.47,
+        "montant_ttc": 668.96
+    },
+    {
+        "document_type": "devis",
+        "company": "Letellier Michaud SARL",
+        "siret": "940 438 989 00763",
+        "date": "2013-12-21",
+        "montant_ht": 2517.86,
+        "montant_ttc": 3021.43
+    },
+    {
+        "document_type": "devis",
+        "company": "Alves SARL",
+        "siret": "376 137 915 00066",
+        "date": "1978-12-25",
+        "montant_ht": 2140.27,
+        "montant_ttc": 2568.32
+    },
+    {
+        "document_type": "devis",
+        "company": "Garcia SARL",
+        "siret": "965 827 108 00493",
+        "date": "1984-09-06",
+        "montant_ht": 1873.87,
+        "montant_ttc": 2248.64
+    },
+    {
+        "document_type": "devis",
+        "company": "Riou S.A.S.",
+        "siret": "068 486 661 00058",
+        "date": "2006-08-03",
+        "montant_ht": 2962.98,
+        "montant_ttc": 3555.58
+    },
+    {
+        "document_type": "devis",
+        "company": "Michaud",
+        "siret": "241 418 326 00781",
+        "date": "2009-11-27",
+        "montant_ht": 1996.53,
+        "montant_ttc": 2395.84
+    },
+    {
+        "document_type": "devis",
+        "company": "De Sousa S.A.S.",
+        "siret": "146 303 169 00818",
+        "date": "2011-06-07",
+        "montant_ht": 122.69,
+        "montant_ttc": 147.23
+    },
+    {
+        "document_type": "devis",
+        "company": "Barbe",
+        "siret": "421 020 272 00074",
+        "date": "2005-03-13",
+        "montant_ht": 2469.6,
+        "montant_ttc": 2963.52
+    },
+    {
+        "document_type": "devis",
+        "company": "Maillard",
+        "siret": "425 241 056 00927",
+        "date": "2005-08-25",
+        "montant_ht": 968.2,
+        "montant_ttc": 1161.84
+    },
+    {
+        "document_type": "devis",
+        "company": "Duhamel",
+        "siret": "491 778 502 00089",
+        "date": "1981-05-10",
+        "montant_ht": 2023.83,
+        "montant_ttc": 2428.6
+    },
+    {
+        "document_type": "devis",
+        "company": "Richard S.A.",
+        "siret": "241 913 805 00479",
+        "date": "1973-02-16",
+        "montant_ht": 2822.9,
+        "montant_ttc": 3387.48
+    },
+    {
+        "document_type": "devis",
+        "company": "Menard",
+        "siret": "562 208 637 00602",
+        "date": "1998-04-30",
+        "montant_ht": 489.44,
+        "montant_ttc": 587.33
+    },
+    {
+        "document_type": "devis",
+        "company": "Hubert Blondel SA",
+        "siret": "541 951 802 00928",
+        "date": "1997-04-14",
+        "montant_ht": 434.74,
+        "montant_ttc": 521.69
+    },
+    {
+        "document_type": "devis",
+        "company": "Bourgeois",
+        "siret": "744 518 705 00085",
+        "date": "1989-11-04",
+        "montant_ht": 410.4,
+        "montant_ttc": 492.48
+    },
+    {
+        "document_type": "devis",
+        "company": "Fernandes Robert S.A.R.L.",
+        "siret": "493 759 732 00727",
+        "date": "1971-08-18",
+        "montant_ht": 1704.35,
+        "montant_ttc": 2045.22
+    },
+    {
+        "document_type": "devis",
+        "company": "Laporte Gomez S.A.R.L.",
+        "siret": "850 506 411 00295",
+        "date": "2003-06-26",
+        "montant_ht": 889.81,
+        "montant_ttc": 1067.77
+    },
+    {
+        "document_type": "devis",
+        "company": "Letellier",
+        "siret": "241 038 652 00079",
+        "date": "1975-10-12",
+        "montant_ht": 1854.01,
+        "montant_ttc": 2224.81
+    },
+    {
+        "document_type": "devis",
+        "company": "Dupré",
+        "siret": "182 619 908 00748",
+        "date": "1978-11-23",
+        "montant_ht": 2181.08,
+        "montant_ttc": 2617.3
+    },
+    {
+        "document_type": "devis",
+        "company": "Sanchez Renaud S.A.",
+        "siret": "445 655 749 00304",
+        "date": "2023-01-28",
+        "montant_ht": 690.43,
+        "montant_ttc": 828.52
+    },
+    {
+        "document_type": "devis",
+        "company": "Mathieu",
+        "siret": "912 127 750 00988",
+        "date": "2006-06-21",
+        "montant_ht": 1939.29,
+        "montant_ttc": 2327.15
+    },
+    {
+        "document_type": "devis",
+        "company": "Fischer",
+        "siret": "374 741 122 00450",
+        "date": "2017-06-03",
+        "montant_ht": 865.55,
+        "montant_ttc": 1038.66
+    },
+    {
+        "document_type": "devis",
+        "company": "Labbé SARL",
+        "siret": "035 213 560 00770",
+        "date": "1987-09-15",
+        "montant_ht": 1516.74,
+        "montant_ttc": 1820.09
+    },
+    {
+        "document_type": "devis",
+        "company": "Joly SA",
+        "siret": "067 883 173 00220",
+        "date": "1970-10-25",
+        "montant_ht": 2725.48,
+        "montant_ttc": 3270.58
+    },
+    {
+        "document_type": "devis",
+        "company": "Sanchez",
+        "siret": "323 651 992 00071",
+        "date": "1971-06-26",
+        "montant_ht": 2553.7,
+        "montant_ttc": 3064.44
+    },
+    {
+        "document_type": "devis",
+        "company": "Roy S.A.S.",
+        "siret": "372 151 076 00083",
+        "date": "1999-06-24",
+        "montant_ht": 367.67,
+        "montant_ttc": 441.2
+    },
+    {
+        "document_type": "devis",
+        "company": "Paris Guyot S.A.R.L.",
+        "siret": "670 662 535 00921",
+        "date": "1980-02-12",
+        "montant_ht": 1328.37,
+        "montant_ttc": 1594.04
+    },
+    {
+        "document_type": "devis",
+        "company": "Bonnet",
+        "siret": "999 347 685 00045",
+        "date": "1975-12-21",
+        "montant_ht": 902.37,
+        "montant_ttc": 1082.84
+    },
+    {
+        "document_type": "devis",
+        "company": "Delannoy",
+        "siret": "626 383 806 00355",
+        "date": "1994-06-09",
+        "montant_ht": 110.28,
+        "montant_ttc": 132.34
+    },
+    {
+        "document_type": "devis",
+        "company": "Michel Julien S.A.S.",
+        "siret": "875 985 640 00619",
+        "date": "1984-11-26",
+        "montant_ht": 2336.25,
+        "montant_ttc": 2803.5
+    },
+    {
+        "document_type": "devis",
+        "company": "Hoarau et Fils",
+        "siret": "407 859 321 00033",
+        "date": "1986-05-30",
+        "montant_ht": 1947.63,
+        "montant_ttc": 2337.16
+    },
+    {
+        "document_type": "devis",
+        "company": "Allain Prévost et Fils",
+        "siret": "803 965 227 00348",
+        "date": "2017-06-22",
+        "montant_ht": 859.67,
+        "montant_ttc": 1031.6
+    },
+    {
+        "document_type": "devis",
+        "company": "Allard",
+        "siret": "905 992 939 00454",
+        "date": "1991-01-12",
+        "montant_ht": 2249.57,
+        "montant_ttc": 2699.48
+    },
+    {
+        "document_type": "devis",
+        "company": "Martin",
+        "siret": "701 039 307 00221",
+        "date": "1992-07-29",
+        "montant_ht": 1699.87,
+        "montant_ttc": 2039.84
+    },
+    {
+        "document_type": "devis",
+        "company": "Becker Masson S.A.S.",
+        "siret": "325 250 025 00781",
+        "date": "1994-10-31",
+        "montant_ht": 1340.29,
+        "montant_ttc": 1608.35
+    },
+    {
+        "document_type": "devis",
+        "company": "Foucher Nguyen et Fils",
+        "siret": "569 154 529 00097",
+        "date": "2003-02-26",
+        "montant_ht": 128.04,
+        "montant_ttc": 153.65
+    },
+    {
+        "document_type": "devis",
+        "company": "Le Gall",
+        "siret": "528 953 920 00832",
+        "date": "2019-12-13",
+        "montant_ht": 318.21,
+        "montant_ttc": 381.85
+    },
+    {
+        "document_type": "devis",
+        "company": "Marion Prévost S.A.S.",
+        "siret": "422 096 909 00888",
+        "date": "1985-01-12",
+        "montant_ht": 2661.01,
+        "montant_ttc": 3193.21
+    },
+    {
+        "document_type": "devis",
+        "company": "Brun",
+        "siret": "917 251 357 00815",
+        "date": "2013-04-17",
+        "montant_ht": 2721.39,
+        "montant_ttc": 3265.67
+    },
+    {
+        "document_type": "devis",
+        "company": "Nicolas",
+        "siret": "570 433 151 00117",
+        "date": "2019-01-09",
+        "montant_ht": 1682.21,
+        "montant_ttc": 2018.65
+    },
+    {
+        "document_type": "devis",
+        "company": "Morvan",
+        "siret": "067 626 762 00008",
+        "date": "1995-07-18",
+        "montant_ht": 2520.33,
+        "montant_ttc": 3024.4
+    },
+    {
+        "document_type": "devis",
+        "company": "Julien SARL",
+        "siret": "793 271 040 00123",
+        "date": "1977-02-15",
+        "montant_ht": 1789.28,
+        "montant_ttc": 2147.14
+    },
+    {
+        "document_type": "devis",
+        "company": "Fischer",
+        "siret": "526 218 151 00094",
+        "date": "1972-02-10",
+        "montant_ht": 529.47,
+        "montant_ttc": 635.36
+    },
+    {
+        "document_type": "devis",
+        "company": "Lejeune Grenier S.A.S.",
+        "siret": "296 201 536 00558",
+        "date": "2019-02-19",
+        "montant_ht": 469.59,
+        "montant_ttc": 563.51
+    },
+    {
+        "document_type": "devis",
+        "company": "Brunet",
+        "siret": "844 431 064 00931",
+        "date": "1973-09-16",
+        "montant_ht": 993.95,
+        "montant_ttc": 1192.74
+    },
+    {
+        "document_type": "devis",
+        "company": "Leclerc S.A.",
+        "siret": "061 497 319 00469",
+        "date": "2013-06-06",
+        "montant_ht": 2707.05,
+        "montant_ttc": 3248.46
+    },
+    {
+        "document_type": "devis",
+        "company": "Clerc S.A.S.",
+        "siret": "171 467 749 00379",
+        "date": "1996-05-16",
+        "montant_ht": 2408.75,
+        "montant_ttc": 2890.5
+    },
+    {
+        "document_type": "devis",
+        "company": "Charles",
+        "siret": "565 270 477 00237",
+        "date": "1985-05-25",
+        "montant_ht": 2596.04,
+        "montant_ttc": 3115.25
+    },
+    {
+        "document_type": "devis",
+        "company": "Lenoir Bonnet S.A.R.L.",
+        "siret": "902 115 864 00347",
+        "date": "2025-09-10",
+        "montant_ht": 2706.88,
+        "montant_ttc": 3248.26
+    },
+    {
+        "document_type": "devis",
+        "company": "Delannoy",
+        "siret": "687 937 417 00669",
+        "date": "1972-05-13",
+        "montant_ht": 709.22,
+        "montant_ttc": 851.06
+    },
+    {
+        "document_type": "devis",
+        "company": "Lecomte Olivier S.A.",
+        "siret": "989 921 721 00647",
+        "date": "1972-11-26",
+        "montant_ht": 823.64,
+        "montant_ttc": 988.37
+    },
+    {
+        "document_type": "devis",
+        "company": "Chevallier S.A.S.",
+        "siret": "163 294 515 00545",
+        "date": "1997-01-15",
+        "montant_ht": 398.1,
+        "montant_ttc": 477.72
+    },
+    {
+        "document_type": "devis",
+        "company": "Marie",
+        "siret": "548 709 989 00709",
+        "date": "1998-03-16",
+        "montant_ht": 2362.34,
+        "montant_ttc": 2834.81
+    },
+    {
+        "document_type": "devis",
+        "company": "Regnier",
+        "siret": "299 911 917 00191",
+        "date": "1993-05-26",
+        "montant_ht": 2663.99,
+        "montant_ttc": 3196.79
+    },
+    {
+        "document_type": "devis",
+        "company": "Antoine",
+        "siret": "467 997 029 00526",
+        "date": "1979-10-16",
+        "montant_ht": 1278.49,
+        "montant_ttc": 1534.19
+    },
+    {
+        "document_type": "devis",
+        "company": "Guichard",
+        "siret": "960 653 079 00793",
+        "date": "1971-05-18",
+        "montant_ht": 1899.92,
+        "montant_ttc": 2279.9
+    },
+    {
+        "document_type": "devis",
+        "company": "Becker",
+        "siret": "444 713 242 00436",
+        "date": "2026-03-13",
+        "montant_ht": 548.2,
+        "montant_ttc": 657.84
+    },
+    {
+        "document_type": "devis",
+        "company": "Thierry",
+        "siret": "469 137 368 00418",
+        "date": "2005-02-23",
+        "montant_ht": 2796.65,
+        "montant_ttc": 3355.98
+    },
+    {
+        "document_type": "devis",
+        "company": "Giraud S.A.",
+        "siret": "082 148 628 00470",
+        "date": "1983-08-30",
+        "montant_ht": 2607.36,
+        "montant_ttc": 3128.83
+    },
+    {
+        "document_type": "devis",
+        "company": "Bodin",
+        "siret": "307 053 454 00079",
+        "date": "1997-01-05",
+        "montant_ht": 2931.0,
+        "montant_ttc": 3517.2
+    },
+    {
+        "document_type": "devis",
+        "company": "Coste",
+        "siret": "103 579 728 00819",
+        "date": "2007-07-09",
+        "montant_ht": 2451.24,
+        "montant_ttc": 2941.49
+    },
+    {
+        "document_type": "devis",
+        "company": "Masse Valette S.A.",
+        "siret": "524 140 605 00444",
+        "date": "1985-01-23",
+        "montant_ht": 2656.11,
+        "montant_ttc": 3187.33
+    },
+    {
+        "document_type": "devis",
+        "company": "Jourdan Giraud S.A.S.",
+        "siret": "334 680 071 00829",
+        "date": "2024-07-01",
+        "montant_ht": 171.88,
+        "montant_ttc": 206.26
+    },
+    {
+        "document_type": "devis",
+        "company": "Fleury",
+        "siret": "349 446 658 00016",
+        "date": "1984-11-06",
+        "montant_ht": 2236.04,
+        "montant_ttc": 2683.25
+    },
+    {
+        "document_type": "devis",
+        "company": "Guilbert",
+        "siret": "489 691 089 00598",
+        "date": "2014-01-19",
+        "montant_ht": 1063.34,
+        "montant_ttc": 1276.01
+    },
+    {
+        "document_type": "devis",
+        "company": "Baron",
+        "siret": "944 171 545 00766",
+        "date": "1987-10-09",
+        "montant_ht": 2799.37,
+        "montant_ttc": 3359.24
+    },
+    {
+        "document_type": "devis",
+        "company": "Bazin",
+        "siret": "432 830 966 00839",
+        "date": "1979-07-10",
+        "montant_ht": 2426.48,
+        "montant_ttc": 2911.78
+    },
+    {
+        "document_type": "devis",
+        "company": "Le Goff Pages et Fils",
+        "siret": "074 466 608 00929",
+        "date": "1985-02-17",
+        "montant_ht": 2605.79,
+        "montant_ttc": 3126.95
+    },
+    {
+        "document_type": "devis",
+        "company": "Pereira",
+        "siret": "875 842 825 00874",
+        "date": "2002-01-14",
+        "montant_ht": 2451.17,
+        "montant_ttc": 2941.4
+    },
+    {
+        "document_type": "devis",
+        "company": "De Oliveira",
+        "siret": "482 513 538 00165",
+        "date": "2023-08-19",
+        "montant_ht": 873.74,
+        "montant_ttc": 1048.49
+    },
+    {
+        "document_type": "devis",
+        "company": "Georges S.A.",
+        "siret": "549 471 704 00425",
+        "date": "2004-01-22",
+        "montant_ht": 2383.39,
+        "montant_ttc": 2860.07
+    },
+    {
+        "document_type": "devis",
+        "company": "Lejeune",
+        "siret": "684 602 238 00157",
+        "date": "2008-09-30",
+        "montant_ht": 413.48,
+        "montant_ttc": 496.18
+    },
+    {
+        "document_type": "devis",
+        "company": "Thomas S.A.R.L.",
+        "siret": "252 175 252 00581",
+        "date": "1988-08-12",
+        "montant_ht": 2629.28,
+        "montant_ttc": 3155.14
+    },
+    {
+        "document_type": "devis",
+        "company": "Antoine",
+        "siret": "292 712 965 00261",
+        "date": "1999-03-13",
+        "montant_ht": 2589.92,
+        "montant_ttc": 3107.9
+    },
+    {
+        "document_type": "devis",
+        "company": "Moreau Labbé SA",
+        "siret": "600 835 052 00611",
+        "date": "2012-08-24",
+        "montant_ht": 745.06,
+        "montant_ttc": 894.07
+    },
+    {
+        "document_type": "devis",
+        "company": "Brun",
+        "siret": "335 421 681 00933",
+        "date": "1974-06-11",
+        "montant_ht": 2468.1,
+        "montant_ttc": 2961.72
+    },
+    {
+        "document_type": "devis",
+        "company": "Le Goff Camus SARL",
+        "siret": "447 898 560 00050",
+        "date": "2021-01-17",
+        "montant_ht": 1434.88,
+        "montant_ttc": 1721.86
+    },
+    {
+        "document_type": "devis",
+        "company": "Denis Poulain et Fils",
+        "siret": "260 332 309 00244",
+        "date": "2014-04-09",
+        "montant_ht": 985.05,
+        "montant_ttc": 1182.06
+    },
+    {
+        "document_type": "devis",
+        "company": "Rousseau et Fils",
+        "siret": "648 909 018 00042",
+        "date": "1977-11-17",
+        "montant_ht": 2406.5,
+        "montant_ttc": 2887.8
+    },
+    {
+        "document_type": "devis",
+        "company": "Hernandez S.A.R.L.",
+        "siret": "761 847 235 00535",
+        "date": "2015-01-10",
+        "montant_ht": 760.03,
+        "montant_ttc": 912.04
+    },
+    {
+        "document_type": "devis",
+        "company": "Carre SA",
+        "siret": "849 926 183 00120",
+        "date": "2023-05-28",
+        "montant_ht": 168.63,
+        "montant_ttc": 202.36
+    },
+    {
+        "document_type": "devis",
+        "company": "Collet",
+        "siret": "739 348 357 00131",
+        "date": "1980-11-30",
+        "montant_ht": 660.08,
+        "montant_ttc": 792.1
+    },
+    {
+        "document_type": "devis",
+        "company": "Masson S.A.S.",
+        "siret": "873 753 008 00051",
+        "date": "2015-07-12",
+        "montant_ht": 1051.96,
+        "montant_ttc": 1262.35
+    },
+    {
+        "document_type": "devis",
+        "company": "Aubry",
+        "siret": "218 114 379 00637",
+        "date": "2001-08-05",
+        "montant_ht": 2606.62,
+        "montant_ttc": 3127.94
+    },
+    {
+        "document_type": "devis",
+        "company": "Thierry SA",
+        "siret": "120 455 613 00063",
+        "date": "1970-08-29",
+        "montant_ht": 2903.98,
+        "montant_ttc": 3484.78
+    },
+    {
+        "document_type": "devis",
+        "company": "Vidal",
+        "siret": "255 794 158 00170",
+        "date": "1977-09-30",
+        "montant_ht": 909.46,
+        "montant_ttc": 1091.35
+    },
+    {
+        "document_type": "devis",
+        "company": "Grenier Pages SA",
+        "siret": "674 676 218 00516",
+        "date": "1980-11-05",
+        "montant_ht": 1960.3,
+        "montant_ttc": 2352.36
+    },
+    {
+        "document_type": "devis",
+        "company": "Raymond",
+        "siret": "697 972 966 00132",
+        "date": "1971-12-18",
+        "montant_ht": 1259.07,
+        "montant_ttc": 1510.88
+    },
+    {
+        "document_type": "devis",
+        "company": "Bègue",
+        "siret": "277 167 011 00877",
+        "date": "1991-05-21",
+        "montant_ht": 2945.33,
+        "montant_ttc": 3534.4
+    },
+    {
+        "document_type": "devis",
+        "company": "Lesage et Fils",
+        "siret": "899 358 899 00016",
+        "date": "2019-06-14",
+        "montant_ht": 1655.03,
+        "montant_ttc": 1986.04
+    },
+    {
+        "document_type": "devis",
+        "company": "Bodin Lelièvre S.A.R.L.",
+        "siret": "756 289 005 00313",
+        "date": "1981-04-04",
+        "montant_ht": 2823.79,
+        "montant_ttc": 3388.55
+    },
+    {
+        "document_type": "devis",
+        "company": "Antoine",
+        "siret": "753 540 830 00092",
+        "date": "2025-08-09",
+        "montant_ht": 434.49,
+        "montant_ttc": 521.39
+    },
+    {
+        "document_type": "devis",
+        "company": "Lemaire",
+        "siret": "177 971 777 00301",
+        "date": "2003-11-06",
+        "montant_ht": 2914.16,
+        "montant_ttc": 3496.99
+    },
+    {
+        "document_type": "devis",
+        "company": "Texier S.A.S.",
+        "siret": "016 608 804 00957",
+        "date": "2013-05-21",
+        "montant_ht": 617.85,
+        "montant_ttc": 741.42
+    },
+    {
+        "document_type": "devis",
+        "company": "Rémy",
+        "siret": "883 755 035 00382",
+        "date": "2008-02-13",
+        "montant_ht": 2891.35,
+        "montant_ttc": 3469.62
+    },
+    {
+        "document_type": "devis",
+        "company": "Leblanc SARL",
+        "siret": "997 571 138 00988",
+        "date": "2013-02-13",
+        "montant_ht": 869.85,
+        "montant_ttc": 1043.82
+    },
+    {
+        "document_type": "devis",
+        "company": "Gautier",
+        "siret": "885 102 723 00370",
+        "date": "1987-04-22",
+        "montant_ht": 414.37,
+        "montant_ttc": 497.24
+    },
+    {
+        "document_type": "devis",
+        "company": "Boulay S.A.R.L.",
+        "siret": "331 637 355 00784",
+        "date": "1973-03-01",
+        "montant_ht": 1360.23,
+        "montant_ttc": 1632.28
+    },
+    {
+        "document_type": "devis",
+        "company": "Laporte et Fils",
+        "siret": "917 798 274 00812",
+        "date": "1973-04-22",
+        "montant_ht": 2212.78,
+        "montant_ttc": 2655.34
+    },
+    {
+        "document_type": "devis",
+        "company": "Chevallier et Fils",
+        "siret": "697 829 224 00701",
+        "date": "2010-11-13",
+        "montant_ht": 1009.66,
+        "montant_ttc": 1211.59
+    },
+    {
+        "document_type": "devis",
+        "company": "Cousin",
+        "siret": "586 693 467 00779",
+        "date": "2000-10-25",
+        "montant_ht": 1858.01,
+        "montant_ttc": 2229.61
+    },
+    {
+        "document_type": "devis",
+        "company": "Bourgeois Lacroix S.A.S.",
+        "siret": "269 848 586 00179",
+        "date": "2018-08-13",
+        "montant_ht": 1583.13,
+        "montant_ttc": 1899.76
+    },
+    {
+        "document_type": "devis",
+        "company": "Guillon",
+        "siret": "522 885 151 00376",
+        "date": "2008-10-31",
+        "montant_ht": 1217.07,
+        "montant_ttc": 1460.48
+    },
+    {
+        "document_type": "devis",
+        "company": "Rodrigues",
+        "siret": "684 608 102 00852",
+        "date": "1973-08-11",
+        "montant_ht": 1772.11,
+        "montant_ttc": 2126.53
+    },
+    {
+        "document_type": "devis",
+        "company": "Martins",
+        "siret": "034 244 202 00858",
+        "date": "2021-04-13",
+        "montant_ht": 838.7,
+        "montant_ttc": 1006.44
+    },
+    {
+        "document_type": "devis",
+        "company": "Gomez",
+        "siret": "057 198 384 00695",
+        "date": "2004-10-08",
+        "montant_ht": 2155.48,
+        "montant_ttc": 2586.58
+    },
+    {
+        "document_type": "devis",
+        "company": "Bernier SARL",
+        "siret": "406 665 802 00897",
+        "date": "1983-10-27",
+        "montant_ht": 104.9,
+        "montant_ttc": 125.88
+    },
+    {
+        "document_type": "devis",
+        "company": "Pons",
+        "siret": "735 989 337 00796",
+        "date": "1982-01-27",
+        "montant_ht": 2784.17,
+        "montant_ttc": 3341.0
+    },
+    {
+        "document_type": "devis",
+        "company": "Berthelot",
+        "siret": "122 816 069 00878",
+        "date": "1987-12-25",
+        "montant_ht": 1661.51,
+        "montant_ttc": 1993.81
+    },
+    {
+        "document_type": "devis",
+        "company": "Breton Godard SA",
+        "siret": "294 057 203 00167",
+        "date": "2022-08-25",
+        "montant_ht": 2186.35,
+        "montant_ttc": 2623.62
+    },
+    {
+        "document_type": "devis",
+        "company": "Gonzalez Dijoux SA",
+        "siret": "947 985 156 00803",
+        "date": "2023-07-04",
+        "montant_ht": 2251.66,
+        "montant_ttc": 2701.99
+    },
+    {
+        "document_type": "devis",
+        "company": "Dupré Rémy SARL",
+        "siret": "268 861 531 00641",
+        "date": "1994-07-21",
+        "montant_ht": 2044.82,
+        "montant_ttc": 2453.78
+    },
+    {
+        "document_type": "devis",
+        "company": "Guillot",
+        "siret": "398 780 155 00378",
+        "date": "2013-09-15",
+        "montant_ht": 1156.24,
+        "montant_ttc": 1387.49
+    },
+    {
+        "document_type": "devis",
+        "company": "Laurent",
+        "siret": "930 561 642 00784",
+        "date": "2005-03-04",
+        "montant_ht": 302.92,
+        "montant_ttc": 363.5
+    },
+    {
+        "document_type": "devis",
+        "company": "Buisson",
+        "siret": "588 770 438 00988",
+        "date": "1975-08-09",
+        "montant_ht": 2026.29,
+        "montant_ttc": 2431.55
+    },
+    {
+        "document_type": "devis",
+        "company": "Leclerc S.A.S.",
+        "siret": "288 013 360 00129",
+        "date": "2017-10-27",
+        "montant_ht": 1057.58,
+        "montant_ttc": 1269.1
+    },
+    {
+        "document_type": "devis",
+        "company": "Vincent S.A.",
+        "siret": "612 075 010 00944",
+        "date": "2024-01-18",
+        "montant_ht": 1010.36,
+        "montant_ttc": 1212.43
+    },
+    {
+        "document_type": "devis",
+        "company": "Lesage",
+        "siret": "819 346 677 00324",
+        "date": "1991-07-14",
+        "montant_ht": 2559.24,
+        "montant_ttc": 3071.09
+    },
+    {
+        "document_type": "devis",
+        "company": "Pelletier S.A.S.",
+        "siret": "618 091 904 00028",
+        "date": "1977-03-23",
+        "montant_ht": 2187.29,
+        "montant_ttc": 2624.75
+    },
+    {
+        "document_type": "devis",
+        "company": "Barbier",
+        "siret": "491 476 602 00371",
+        "date": "2006-04-21",
+        "montant_ht": 970.93,
+        "montant_ttc": 1165.12
+    },
+    {
+        "document_type": "devis",
+        "company": "Denis Dupont SA",
+        "siret": "268 424 504 00283",
+        "date": "2008-12-21",
+        "montant_ht": 996.93,
+        "montant_ttc": 1196.32
+    },
+    {
+        "document_type": "devis",
+        "company": "Imbert",
+        "siret": "688 143 536 00763",
+        "date": "2004-11-17",
+        "montant_ht": 1284.34,
+        "montant_ttc": 1541.21
+    },
+    {
+        "document_type": "devis",
+        "company": "Hamel S.A.S.",
+        "siret": "223 943 127 00181",
+        "date": "2001-05-22",
+        "montant_ht": 1266.96,
+        "montant_ttc": 1520.35
+    },
+    {
+        "document_type": "devis",
+        "company": "Rémy",
+        "siret": "814 141 396 00824",
+        "date": "1994-04-21",
+        "montant_ht": 957.4,
+        "montant_ttc": 1148.88
+    },
+    {
+        "document_type": "devis",
+        "company": "Boulanger",
+        "siret": "314 913 575 00168",
+        "date": "2011-12-11",
+        "montant_ht": 469.13,
+        "montant_ttc": 562.96
+    },
+    {
+        "document_type": "devis",
+        "company": "Thomas Bouvier S.A.",
+        "siret": "492 995 568 00846",
+        "date": "2023-06-19",
+        "montant_ht": 1319.29,
+        "montant_ttc": 1583.15
+    },
+    {
+        "document_type": "devis",
+        "company": "Becker",
+        "siret": "645 257 775 00280",
+        "date": "1990-10-15",
+        "montant_ht": 2827.05,
+        "montant_ttc": 3392.46
+    },
+    {
+        "document_type": "devis",
+        "company": "Charles Peron et Fils",
+        "siret": "812 914 281 00629",
+        "date": "1975-03-16",
+        "montant_ht": 2064.22,
+        "montant_ttc": 2477.06
+    },
+    {
+        "document_type": "devis",
+        "company": "Da Silva Courtois SARL",
+        "siret": "108 099 698 00939",
+        "date": "2006-12-26",
+        "montant_ht": 2718.14,
+        "montant_ttc": 3261.77
+    },
+    {
+        "document_type": "devis",
+        "company": "Charrier",
+        "siret": "725 639 421 00694",
+        "date": "2004-09-25",
+        "montant_ht": 1884.99,
+        "montant_ttc": 2261.99
+    },
+    {
+        "document_type": "devis",
+        "company": "Cohen Leroux S.A.",
+        "siret": "658 039 284 00117",
+        "date": "2008-07-16",
+        "montant_ht": 972.75,
+        "montant_ttc": 1167.3
+    },
+    {
+        "document_type": "devis",
+        "company": "Lemaître",
+        "siret": "275 037 315 00726",
+        "date": "1985-12-04",
+        "montant_ht": 1689.02,
+        "montant_ttc": 2026.82
+    },
+    {
+        "document_type": "devis",
+        "company": "Henry",
+        "siret": "385 677 000 00056",
+        "date": "2017-11-21",
+        "montant_ht": 101.18,
+        "montant_ttc": 121.42
+    },
+    {
+        "document_type": "devis",
+        "company": "Coste",
+        "siret": "449 892 660 00662",
+        "date": "2014-06-17",
+        "montant_ht": 932.05,
+        "montant_ttc": 1118.46
+    },
+    {
+        "document_type": "devis",
+        "company": "Leduc",
+        "siret": "846 386 555 00094",
+        "date": "2011-02-12",
+        "montant_ht": 1346.68,
+        "montant_ttc": 1616.02
+    },
+    {
+        "document_type": "devis",
+        "company": "Gérard Lemoine S.A.",
+        "siret": "827 231 846 00003",
+        "date": "1994-08-26",
+        "montant_ht": 1781.96,
+        "montant_ttc": 2138.35
+    },
+    {
+        "document_type": "devis",
+        "company": "Maury Renard et Fils",
+        "siret": "136 517 778 00777",
+        "date": "1997-12-17",
+        "montant_ht": 1998.65,
+        "montant_ttc": 2398.38
+    },
+    {
+        "document_type": "devis",
+        "company": "Baudry S.A.",
+        "siret": "302 992 284 00026",
+        "date": "1973-10-21",
+        "montant_ht": 1448.47,
+        "montant_ttc": 1738.16
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Fabre S.A.R.L.",
+        "siret": "428 699 045 00210",
+        "date_emission": "2011-04-11"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Brun",
+        "siret": "723 692 927 00608",
+        "date_emission": "2019-04-13"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Nicolas Durand S.A.",
+        "siret": "579 913 666 00874",
+        "date_emission": "2005-07-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Rossi S.A.S.",
+        "siret": "629 127 994 00644",
+        "date_emission": "2021-03-14"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lemaître",
+        "siret": "172 980 682 00154",
+        "date_emission": "1972-12-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lamy S.A.",
+        "siret": "863 765 996 00898",
+        "date_emission": "1987-04-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lacombe et Fils",
+        "siret": "314 986 431 00612",
+        "date_emission": "2023-09-21"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Étienne",
+        "siret": "981 806 359 00007",
+        "date_emission": "1977-04-03"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Bazin",
+        "siret": "694 486 952 00195",
+        "date_emission": "1997-01-17"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Fleury",
+        "siret": "368 872 586 00962",
+        "date_emission": "1990-11-13"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Grégoire Maréchal SARL",
+        "siret": "562 137 216 00734",
+        "date_emission": "2024-07-01"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Blanc",
+        "siret": "902 601 277 00707",
+        "date_emission": "1974-05-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Mendès",
+        "siret": "351 906 698 00334",
+        "date_emission": "2010-08-29"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Joseph S.A.S.",
+        "siret": "277 038 436 00071",
+        "date_emission": "2005-02-06"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Baron S.A.R.L.",
+        "siret": "392 053 021 00896",
+        "date_emission": "1994-01-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pages",
+        "siret": "669 380 115 00859",
+        "date_emission": "2008-01-18"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Bertin S.A.",
+        "siret": "554 393 769 00746",
+        "date_emission": "1997-09-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Tanguy",
+        "siret": "181 845 181 00641",
+        "date_emission": "2025-05-02"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Coste",
+        "siret": "476 973 573 00738",
+        "date_emission": "1971-11-11"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Blondel",
+        "siret": "141 633 560 00612",
+        "date_emission": "2006-06-14"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Ollivier Bouvier SARL",
+        "siret": "434 165 189 00011",
+        "date_emission": "1984-11-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Rolland Renaud S.A.",
+        "siret": "423 733 344 00737",
+        "date_emission": "2012-02-05"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Leduc SARL",
+        "siret": "211 179 080 00455",
+        "date_emission": "2012-03-27"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Hamel Verdier S.A.",
+        "siret": "794 728 469 00402",
+        "date_emission": "1973-09-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Mathieu",
+        "siret": "678 085 622 00671",
+        "date_emission": "2017-07-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Étienne",
+        "siret": "750 036 915 00668",
+        "date_emission": "2011-09-13"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Gonzalez",
+        "siret": "284 347 952 00335",
+        "date_emission": "2003-12-10"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Bruneau Torres S.A.",
+        "siret": "365 564 723 00549",
+        "date_emission": "2025-05-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Petit",
+        "siret": "438 663 221 00127",
+        "date_emission": "1982-01-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Chauvin SA",
+        "siret": "728 857 442 00533",
+        "date_emission": "2016-12-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Alves",
+        "siret": "034 717 546 00203",
+        "date_emission": "2008-02-18"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Valette Jacquet SARL",
+        "siret": "450 615 935 00712",
+        "date_emission": "1992-02-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Brun Riou SARL",
+        "siret": "877 169 474 00864",
+        "date_emission": "1998-09-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Prévost",
+        "siret": "996 112 538 00805",
+        "date_emission": "2014-06-09"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pasquier",
+        "siret": "496 475 989 00372",
+        "date_emission": "1981-05-21"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Gauthier SA",
+        "siret": "023 413 263 00239",
+        "date_emission": "2002-03-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Clément Bègue S.A.R.L.",
+        "siret": "006 811 491 00700",
+        "date_emission": "1991-01-20"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Dupré SARL",
+        "siret": "347 228 207 00291",
+        "date_emission": "1992-02-17"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lefort",
+        "siret": "784 872 822 00605",
+        "date_emission": "2020-12-18"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Blanc Pichon SARL",
+        "siret": "968 845 784 00816",
+        "date_emission": "1994-11-22"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lelièvre",
+        "siret": "424 008 258 00529",
+        "date_emission": "2006-05-31"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lévy SARL",
+        "siret": "774 064 935 00018",
+        "date_emission": "1982-10-31"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Chevalier",
+        "siret": "866 326 630 00526",
+        "date_emission": "1998-09-25"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Muller Vidal S.A.",
+        "siret": "389 448 465 00804",
+        "date_emission": "1989-09-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Fernandes SA",
+        "siret": "797 497 351 00149",
+        "date_emission": "2006-05-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Fernandes SA",
+        "siret": "214 427 031 00023",
+        "date_emission": "2003-08-03"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Hamel S.A.",
+        "siret": "564 757 052 00274",
+        "date_emission": "1973-10-24"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Rivière et Fils",
+        "siret": "618 723 464 00342",
+        "date_emission": "1986-12-10"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Perrier",
+        "siret": "730 371 838 00493",
+        "date_emission": "2016-05-16"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Philippe",
+        "siret": "520 881 475 00393",
+        "date_emission": "1994-07-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Delaunay S.A.",
+        "siret": "313 650 244 00061",
+        "date_emission": "1970-08-10"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Robin",
+        "siret": "979 251 329 00053",
+        "date_emission": "2016-09-05"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Rey",
+        "siret": "500 528 120 00792",
+        "date_emission": "1991-07-22"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Vallée et Fils",
+        "siret": "573 065 240 00711",
+        "date_emission": "1999-10-10"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Foucher",
+        "siret": "487 392 854 00716",
+        "date_emission": "2001-11-16"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Allard",
+        "siret": "982 182 743 00350",
+        "date_emission": "1994-12-25"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lebrun Mace SA",
+        "siret": "086 209 590 00586",
+        "date_emission": "2014-10-18"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lejeune",
+        "siret": "638 782 946 00682",
+        "date_emission": "2013-08-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Gautier Vallée S.A.",
+        "siret": "118 102 201 00415",
+        "date_emission": "1976-09-20"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Louis",
+        "siret": "967 899 402 00044",
+        "date_emission": "2011-03-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Tessier",
+        "siret": "103 717 054 00912",
+        "date_emission": "2024-01-19"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Paul Pereira SA",
+        "siret": "094 801 412 00902",
+        "date_emission": "2019-05-08"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Letellier",
+        "siret": "863 383 923 00290",
+        "date_emission": "1977-03-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Bodin",
+        "siret": "957 612 286 00980",
+        "date_emission": "1992-12-19"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pasquier",
+        "siret": "289 755 852 00844",
+        "date_emission": "2022-01-01"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Alves",
+        "siret": "659 398 366 00818",
+        "date_emission": "2000-10-14"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Robert",
+        "siret": "600 490 825 00574",
+        "date_emission": "1990-06-09"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Gauthier Morel S.A.R.L.",
+        "siret": "350 488 896 00282",
+        "date_emission": "1994-03-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Masse S.A.R.L.",
+        "siret": "245 933 445 00190",
+        "date_emission": "2008-09-22"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Morel",
+        "siret": "157 279 191 00272",
+        "date_emission": "2019-09-24"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Letellier Guibert S.A.S.",
+        "siret": "610 556 615 00736",
+        "date_emission": "1970-10-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Millet Gaudin et Fils",
+        "siret": "604 805 895 00819",
+        "date_emission": "1985-01-09"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Charpentier",
+        "siret": "067 998 138 00191",
+        "date_emission": "2023-07-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Charles",
+        "siret": "225 179 084 00507",
+        "date_emission": "1975-10-16"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Gilles",
+        "siret": "862 278 371 00516",
+        "date_emission": "2008-11-17"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pottier",
+        "siret": "898 331 467 00255",
+        "date_emission": "2009-03-14"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pires SARL",
+        "siret": "166 553 552 00117",
+        "date_emission": "1981-07-08"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Meyer",
+        "siret": "979 270 337 00442",
+        "date_emission": "2021-07-25"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lemonnier",
+        "siret": "110 392 404 00932",
+        "date_emission": "2024-09-24"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Morvan Barbe SARL",
+        "siret": "477 053 839 00148",
+        "date_emission": "2007-05-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lopez Jacquet S.A.",
+        "siret": "920 698 040 00614",
+        "date_emission": "2023-09-15"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Nicolas",
+        "siret": "940 701 642 00891",
+        "date_emission": "1971-04-20"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lemoine S.A.",
+        "siret": "636 815 797 00379",
+        "date_emission": "2004-01-26"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Vallet",
+        "siret": "800 384 570 00589",
+        "date_emission": "1980-09-07"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Chevallier",
+        "siret": "555 438 407 00028",
+        "date_emission": "2025-06-14"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Dijoux",
+        "siret": "843 256 215 00032",
+        "date_emission": "2016-02-20"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pons",
+        "siret": "363 926 494 00784",
+        "date_emission": "2006-11-25"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Perret Pires S.A.",
+        "siret": "329 832 489 00168",
+        "date_emission": "2014-08-28"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Petitjean Martinez SARL",
+        "siret": "251 881 256 00720",
+        "date_emission": "1998-03-06"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Ledoux S.A.S.",
+        "siret": "474 231 222 00529",
+        "date_emission": "2011-12-26"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Chevalier",
+        "siret": "999 393 309 00342",
+        "date_emission": "2016-10-29"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Reynaud",
+        "siret": "728 975 269 00990",
+        "date_emission": "1979-05-11"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Boulay Martins SA",
+        "siret": "330 604 638 00206",
+        "date_emission": "1982-01-19"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Fouquet",
+        "siret": "975 736 604 00565",
+        "date_emission": "1991-04-18"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Pineau",
+        "siret": "999 880 818 00508",
+        "date_emission": "1972-11-20"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Klein Besnard S.A.R.L.",
+        "siret": "886 086 800 00317",
+        "date_emission": "1990-09-22"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Barthelemy Imbert S.A.R.L.",
+        "siret": "472 649 086 00999",
+        "date_emission": "1976-02-26"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Lebreton",
+        "siret": "812 982 668 00921",
+        "date_emission": "1971-09-12"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Robin SA",
+        "siret": "793 714 528 00221",
+        "date_emission": "2018-01-22"
+    },
+    {
+        "document_type": "attestation_siret",
+        "company": "Bertrand",
+        "siret": "518 689 260 00579",
+        "date_emission": "2022-04-13"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Chauveau",
+        "siret": "592 222 061 00216",
+        "date_emission": "2022-04-22",
+        "date_expiration": "2026-08-12",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Mahe",
+        "siret": "421 230 947 00572",
+        "date_emission": "2003-12-07",
+        "date_expiration": "2026-04-19",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Chevalier",
+        "siret": "097 339 774 00693",
+        "date_emission": "2010-11-30",
+        "date_expiration": "2026-09-21",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Lefèvre Guibert SARL",
+        "siret": "038 498 309 00764",
+        "date_emission": "1972-07-01",
+        "date_expiration": "2026-06-25",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Renard Maillet SARL",
+        "siret": "099 451 015 00186",
+        "date_emission": "2011-08-02",
+        "date_expiration": "2026-09-23",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Breton",
+        "siret": "998 279 509 00843",
+        "date_emission": "1995-01-30",
+        "date_expiration": "2026-05-21",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Boulanger",
+        "siret": "168 147 213 00487",
+        "date_emission": "2005-11-12",
+        "date_expiration": "2027-01-09",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Ramos",
+        "siret": "833 901 986 00525",
+        "date_emission": "2016-11-11",
+        "date_expiration": "2026-05-19",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bonneau Thibault S.A.R.L.",
+        "siret": "469 548 994 00778",
+        "date_emission": "2005-05-14",
+        "date_expiration": "2026-08-30",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Turpin et Fils",
+        "siret": "772 934 303 00938",
+        "date_emission": "2024-03-20",
+        "date_expiration": "2026-05-30",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Dubois Riou S.A.",
+        "siret": "396 605 586 00157",
+        "date_emission": "2016-12-15",
+        "date_expiration": "2027-02-22",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Leblanc",
+        "siret": "414 488 502 00363",
+        "date_emission": "1996-12-13",
+        "date_expiration": "2026-05-29",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Imbert S.A.",
+        "siret": "990 235 574 00920",
+        "date_emission": "2002-10-07",
+        "date_expiration": "2026-10-16",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Berthelot",
+        "siret": "785 760 844 00197",
+        "date_emission": "2006-06-20",
+        "date_expiration": "2026-11-20",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Toussaint",
+        "siret": "395 512 403 00027",
+        "date_emission": "2006-05-11",
+        "date_expiration": "2026-08-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Maillard S.A.R.L.",
+        "siret": "996 291 456 00217",
+        "date_emission": "1975-11-28",
+        "date_expiration": "2027-01-15",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Morel",
+        "siret": "357 438 423 00638",
+        "date_emission": "2022-12-06",
+        "date_expiration": "2026-05-28",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Peron",
+        "siret": "178 078 234 00253",
+        "date_emission": "2005-08-19",
+        "date_expiration": "2026-08-25",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Thomas SARL",
+        "siret": "521 823 070 00391",
+        "date_emission": "1972-12-30",
+        "date_expiration": "2026-09-12",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Riou",
+        "siret": "915 701 841 00875",
+        "date_emission": "1984-04-12",
+        "date_expiration": "2026-04-23",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Barbier Paris SA",
+        "siret": "334 485 711 00413",
+        "date_emission": "1971-01-15",
+        "date_expiration": "2026-07-29",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Fischer Jacquet S.A.S.",
+        "siret": "881 385 850 00790",
+        "date_emission": "1986-08-30",
+        "date_expiration": "2026-07-29",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Parent",
+        "siret": "149 587 024 00212",
+        "date_emission": "1973-06-08",
+        "date_expiration": "2026-04-26",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Chauvet",
+        "siret": "601 662 992 00135",
+        "date_emission": "1994-03-15",
+        "date_expiration": "2026-12-15",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Pereira",
+        "siret": "538 179 219 00398",
+        "date_emission": "2001-01-01",
+        "date_expiration": "2027-02-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bonnin Chartier SARL",
+        "siret": "773 329 453 00395",
+        "date_emission": "2023-09-05",
+        "date_expiration": "2026-09-14",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Carre Lecoq SARL",
+        "siret": "770 171 577 00412",
+        "date_emission": "2011-02-18",
+        "date_expiration": "2026-10-11",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Rossi",
+        "siret": "281 615 815 00731",
+        "date_emission": "2001-05-15",
+        "date_expiration": "2027-02-16",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Leblanc S.A.",
+        "siret": "963 938 279 00519",
+        "date_emission": "2025-05-21",
+        "date_expiration": "2026-09-11",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Rousset et Fils",
+        "siret": "966 958 324 00883",
+        "date_emission": "2009-01-27",
+        "date_expiration": "2026-12-28",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Lebon",
+        "siret": "199 758 178 00628",
+        "date_emission": "1974-09-27",
+        "date_expiration": "2026-06-22",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Blin Faivre et Fils",
+        "siret": "196 570 139 00762",
+        "date_emission": "2025-02-09",
+        "date_expiration": "2027-02-26",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Leclerc Bazin SARL",
+        "siret": "227 846 995 00008",
+        "date_emission": "1990-05-25",
+        "date_expiration": "2026-10-05",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Cousin Bonnet SARL",
+        "siret": "465 190 981 00725",
+        "date_emission": "2007-05-09",
+        "date_expiration": "2026-09-18",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Toussaint",
+        "siret": "085 140 366 00064",
+        "date_emission": "1991-08-26",
+        "date_expiration": "2027-01-12",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Berthelot Jacob SARL",
+        "siret": "666 683 271 00918",
+        "date_emission": "1998-05-24",
+        "date_expiration": "2026-06-08",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Dufour",
+        "siret": "422 010 272 00199",
+        "date_emission": "1975-10-06",
+        "date_expiration": "2026-12-26",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Jacob",
+        "siret": "679 692 780 00175",
+        "date_emission": "1994-03-07",
+        "date_expiration": "2026-09-26",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Morvan",
+        "siret": "269 097 382 00288",
+        "date_emission": "2009-03-22",
+        "date_expiration": "2026-07-28",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Blanchard et Fils",
+        "siret": "009 751 975 00468",
+        "date_emission": "2019-10-07",
+        "date_expiration": "2027-01-08",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Pottier et Fils",
+        "siret": "478 189 137 00670",
+        "date_emission": "2006-09-10",
+        "date_expiration": "2026-10-15",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Baudry",
+        "siret": "490 580 776 00741",
+        "date_emission": "2019-12-09",
+        "date_expiration": "2026-10-31",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bonnet",
+        "siret": "654 420 942 00421",
+        "date_emission": "2012-10-28",
+        "date_expiration": "2027-01-22",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Marchand S.A.S.",
+        "siret": "929 049 047 00608",
+        "date_emission": "1975-03-26",
+        "date_expiration": "2026-10-20",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Maury Rousset S.A.",
+        "siret": "429 444 011 00358",
+        "date_emission": "2014-11-09",
+        "date_expiration": "2026-12-05",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Rodrigues S.A.S.",
+        "siret": "524 372 802 00578",
+        "date_emission": "2025-12-02",
+        "date_expiration": "2026-08-26",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Vincent",
+        "siret": "766 372 395 00190",
+        "date_emission": "2013-09-15",
+        "date_expiration": "2027-01-25",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Gillet Normand et Fils",
+        "siret": "102 767 472 00339",
+        "date_emission": "1996-07-18",
+        "date_expiration": "2027-01-29",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Laporte",
+        "siret": "428 604 763 00600",
+        "date_emission": "2016-06-20",
+        "date_expiration": "2027-01-03",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Adam et Fils",
+        "siret": "185 694 544 00056",
+        "date_emission": "2009-10-02",
+        "date_expiration": "2026-07-27",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Maillet SA",
+        "siret": "739 385 250 00504",
+        "date_emission": "1974-08-16",
+        "date_expiration": "2026-11-13",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Fontaine Laurent S.A.S.",
+        "siret": "618 175 343 00010",
+        "date_emission": "1976-04-04",
+        "date_expiration": "2026-07-21",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Masson Grenier S.A.",
+        "siret": "939 111 928 00072",
+        "date_emission": "1987-03-29",
+        "date_expiration": "2026-09-08",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Baron SA",
+        "siret": "717 465 421 00377",
+        "date_emission": "1996-01-19",
+        "date_expiration": "2027-02-12",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Colin",
+        "siret": "504 427 170 00494",
+        "date_emission": "2013-12-04",
+        "date_expiration": "2026-07-01",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Henry",
+        "siret": "128 639 176 00626",
+        "date_emission": "1972-05-16",
+        "date_expiration": "2027-01-17",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Da Costa",
+        "siret": "194 707 204 00096",
+        "date_emission": "1980-04-26",
+        "date_expiration": "2026-04-29",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Gimenez S.A.",
+        "siret": "569 087 760 00892",
+        "date_emission": "1970-03-24",
+        "date_expiration": "2026-09-18",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Poulain S.A.S.",
+        "siret": "719 855 462 00490",
+        "date_emission": "1993-02-21",
+        "date_expiration": "2026-05-06",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Gautier",
+        "siret": "743 280 638 00102",
+        "date_emission": "2012-11-30",
+        "date_expiration": "2026-08-09",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Camus Perrier SA",
+        "siret": "571 732 031 00885",
+        "date_emission": "2023-12-12",
+        "date_expiration": "2026-04-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Lebon SA",
+        "siret": "478 700 503 00699",
+        "date_emission": "1984-05-28",
+        "date_expiration": "2026-08-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Camus Guibert SA",
+        "siret": "878 293 109 00830",
+        "date_emission": "2002-01-25",
+        "date_expiration": "2027-01-25",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Maury Andre SA",
+        "siret": "032 020 414 00796",
+        "date_emission": "1977-10-08",
+        "date_expiration": "2026-10-09",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Pottier S.A.S.",
+        "siret": "993 136 563 00638",
+        "date_emission": "2007-02-24",
+        "date_expiration": "2026-08-18",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Boulay Legros S.A.",
+        "siret": "530 925 114 00171",
+        "date_emission": "2017-05-20",
+        "date_expiration": "2026-07-30",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Merle",
+        "siret": "827 390 212 00476",
+        "date_emission": "1980-09-25",
+        "date_expiration": "2027-02-16",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Jacquot",
+        "siret": "710 021 940 00022",
+        "date_emission": "1978-08-20",
+        "date_expiration": "2026-09-23",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Godard S.A.",
+        "siret": "248 763 294 00266",
+        "date_emission": "2018-10-22",
+        "date_expiration": "2027-01-08",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Laporte SA",
+        "siret": "914 560 834 00634",
+        "date_emission": "2012-02-13",
+        "date_expiration": "2026-06-28",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Pottier Reynaud S.A.R.L.",
+        "siret": "883 734 030 00462",
+        "date_emission": "1981-12-31",
+        "date_expiration": "2026-05-28",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bertrand",
+        "siret": "005 436 456 00205",
+        "date_emission": "1977-02-08",
+        "date_expiration": "2026-12-10",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Mace Hebert S.A.S.",
+        "siret": "082 207 812 00940",
+        "date_emission": "2009-06-15",
+        "date_expiration": "2026-05-12",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bourgeois",
+        "siret": "635 315 310 00410",
+        "date_emission": "1995-07-22",
+        "date_expiration": "2026-07-16",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Colin",
+        "siret": "179 706 239 00284",
+        "date_emission": "1996-05-11",
+        "date_expiration": "2026-12-07",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Guyot S.A.",
+        "siret": "273 543 520 00475",
+        "date_emission": "1977-07-24",
+        "date_expiration": "2026-04-27",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Verdier Lenoir S.A.",
+        "siret": "762 534 923 00599",
+        "date_emission": "1975-11-20",
+        "date_expiration": "2027-02-15",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Guyon",
+        "siret": "873 977 409 00523",
+        "date_emission": "1986-10-14",
+        "date_expiration": "2027-01-23",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Fournier S.A.R.L.",
+        "siret": "569 392 905 00315",
+        "date_emission": "2019-11-30",
+        "date_expiration": "2026-09-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Perez Pascal SA",
+        "siret": "806 867 172 00983",
+        "date_emission": "2017-03-03",
+        "date_expiration": "2026-10-24",
+        "status": "valid"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Renard",
+        "siret": "632 543 104 00939",
+        "date_emission": "2017-11-10",
+        "date_expiration": "2025-09-18",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Toussaint",
+        "siret": "990 772 626 00588",
+        "date_emission": "2001-08-06",
+        "date_expiration": "2026-01-16",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Rocher",
+        "siret": "016 580 466 00908",
+        "date_emission": "2011-09-06",
+        "date_expiration": "2026-01-02",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Jacob SARL",
+        "siret": "931 950 851 00697",
+        "date_emission": "2001-09-01",
+        "date_expiration": "2025-04-05",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Dupuis",
+        "siret": "055 281 836 00795",
+        "date_emission": "2006-09-21",
+        "date_expiration": "2025-05-08",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Baron",
+        "siret": "793 355 488 00149",
+        "date_emission": "1973-09-15",
+        "date_expiration": "2025-12-05",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Sauvage",
+        "siret": "557 788 171 00089",
+        "date_emission": "2012-04-03",
+        "date_expiration": "2025-12-16",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Gaillard SARL",
+        "siret": "137 116 240 00474",
+        "date_emission": "1977-08-16",
+        "date_expiration": "2025-04-14",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Reynaud Perrot S.A.R.L.",
+        "siret": "272 380 460 00894",
+        "date_emission": "2000-03-16",
+        "date_expiration": "2025-12-06",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Bègue",
+        "siret": "043 103 852 00943",
+        "date_emission": "2013-12-18",
+        "date_expiration": "2025-08-22",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Picard",
+        "siret": "798 877 494 00418",
+        "date_emission": "2023-09-17",
+        "date_expiration": "2025-05-06",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Maurice Renard et Fils",
+        "siret": "375 402 542 00332",
+        "date_emission": "2006-06-06",
+        "date_expiration": "2025-09-09",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Besnard Bertin SARL",
+        "siret": "222 231 052 00366",
+        "date_emission": "1982-07-22",
+        "date_expiration": "2025-10-25",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Rivière",
+        "siret": "805 525 789 00261",
+        "date_emission": "1971-09-12",
+        "date_expiration": "2025-05-18",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Reynaud",
+        "siret": "727 520 884 00519",
+        "date_emission": "1989-09-21",
+        "date_expiration": "2025-07-22",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Le Gall SA",
+        "siret": "929 751 709 00965",
+        "date_emission": "1997-05-01",
+        "date_expiration": "2025-05-09",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Gosselin Lopes S.A.",
+        "siret": "375 150 935 00795",
+        "date_emission": "1971-07-15",
+        "date_expiration": "2025-10-28",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Martineau SARL",
+        "siret": "871 863 759 00100",
+        "date_emission": "1997-01-20",
+        "date_expiration": "2025-11-05",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Guilbert",
+        "siret": "656 504 552 00182",
+        "date_emission": "1975-12-18",
+        "date_expiration": "2025-07-13",
+        "status": "expired"
+    },
+    {
+        "document_type": "attestation_urssaf",
+        "company": "Meunier S.A.",
+        "siret": "767 426 620 00278",
+        "date_emission": "1990-08-20",
+        "date_expiration": "2026-02-03",
+        "status": "expired"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Legros",
+        "siret": "851 961 060 00601",
+        "date_creation": "2019-03-06",
+        "adresse": "323, chemin Françoise Marin\n06942 Mary",
+        "dirigeant": "Paul Vaillant du Hubert"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Marin Lagarde et Fils",
+        "siret": "024 471 468 00033",
+        "date_creation": "2020-05-13",
+        "adresse": "avenue Daniel Joseph\n95470 Leduc-sur-Moreno",
+        "dirigeant": "Josette Techer"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Rodrigues SARL",
+        "siret": "715 890 422 00879",
+        "date_creation": "2024-01-17",
+        "adresse": "50, avenue Luce Hamon\n07396 Laporte",
+        "dirigeant": "Pierre Leclercq"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Pottier",
+        "siret": "219 285 541 00989",
+        "date_creation": "2022-05-15",
+        "adresse": "152, boulevard Carre\n47897 Bouchetboeuf",
+        "dirigeant": "Bernard Carpentier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Delattre S.A.R.L.",
+        "siret": "833 898 885 00193",
+        "date_creation": "2017-07-02",
+        "adresse": "8, chemin Marie Étienne\n18936 Godardboeuf",
+        "dirigeant": "Henri Leroy"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Chevalier Lamy et Fils",
+        "siret": "132 234 238 00955",
+        "date_creation": "2018-02-07",
+        "adresse": "avenue Augustin Pierre\n14133 AllainVille",
+        "dirigeant": "Célina Fleury"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gonzalez Leconte SARL",
+        "siret": "140 119 397 00051",
+        "date_creation": "2016-09-12",
+        "adresse": "69, rue Dominique Charrier\n97488 Bodin",
+        "dirigeant": "Antoinette-Capucine Delorme"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Benoit S.A.S.",
+        "siret": "083 342 808 00975",
+        "date_creation": "2024-04-11",
+        "adresse": "227, chemin Gillet\n54319 Dumasnec",
+        "dirigeant": "Hugues Denis"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Millet S.A.R.L.",
+        "siret": "182 754 804 00595",
+        "date_creation": "2018-03-04",
+        "adresse": "59, avenue de Jean\n70517 Gilbert",
+        "dirigeant": "Arthur du Potier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Meunier S.A.R.L.",
+        "siret": "207 167 818 00476",
+        "date_creation": "2023-01-07",
+        "adresse": "61, chemin Bourgeois\n76964 Rivière-sur-Mer",
+        "dirigeant": "Zoé Lopes"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gros",
+        "siret": "994 657 963 00975",
+        "date_creation": "2020-12-11",
+        "adresse": "2, avenue Colette Grondin\n80237 Saint Nathalie",
+        "dirigeant": "Arthur Didier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Samson SA",
+        "siret": "026 952 499 00866",
+        "date_creation": "2025-01-17",
+        "adresse": "84, boulevard Raymond Allard\n43928 MorvanVille",
+        "dirigeant": "Martin Lemaire"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Munoz",
+        "siret": "756 770 020 00490",
+        "date_creation": "2018-12-29",
+        "adresse": "74, rue Hélène Parent\n62775 Pottierdan",
+        "dirigeant": "Constance Guillou"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bonnet",
+        "siret": "647 969 542 00073",
+        "date_creation": "2016-09-05",
+        "adresse": "15, chemin de Gillet\n13538 Hamon",
+        "dirigeant": "Marine Lefèvre"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Marques S.A.",
+        "siret": "333 491 140 00849",
+        "date_creation": "2016-07-15",
+        "adresse": "avenue Hélène Buisson\n53373 Sainte Jacqueline",
+        "dirigeant": "Hugues Hoareau"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gaudin",
+        "siret": "659 171 359 00733",
+        "date_creation": "2021-12-23",
+        "adresse": "75, avenue Bousquet\n97619 Benoit-la-Forêt",
+        "dirigeant": "André-Henri Baudry"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Duhamel S.A.S.",
+        "siret": "391 919 545 00510",
+        "date_creation": "2024-04-15",
+        "adresse": "51, chemin de Lesage\n84652 Bourgeois",
+        "dirigeant": "Noémi Deschamps"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Benoit",
+        "siret": "878 208 297 00795",
+        "date_creation": "2024-02-25",
+        "adresse": "196, rue de Marchal\n59251 Fernandes",
+        "dirigeant": "Martin Bouchet Le Andre"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Dupuis",
+        "siret": "364 424 937 00811",
+        "date_creation": "2018-02-18",
+        "adresse": "4, avenue Claire Vaillant\n55532 Saint Hugues",
+        "dirigeant": "Daniel-Alexandre Poirier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Andre",
+        "siret": "820 700 151 00351",
+        "date_creation": "2023-02-16",
+        "adresse": "7, rue de Huet\n15684 Mathieu-la-Forêt",
+        "dirigeant": "Bernadette Gomez"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gautier Roger S.A.",
+        "siret": "155 963 630 00761",
+        "date_creation": "2020-11-14",
+        "adresse": "19, boulevard Alix Bonnin\n15424 Brianddan",
+        "dirigeant": "Guillaume Rodrigues-Étienne"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ruiz",
+        "siret": "540 900 347 00605",
+        "date_creation": "2022-05-17",
+        "adresse": "77, avenue Adam\n38192 Léger",
+        "dirigeant": "Édouard du Lefort"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Roussel",
+        "siret": "604 177 659 00405",
+        "date_creation": "2018-12-06",
+        "adresse": "6, boulevard Nathalie Lévy\n94434 LemonnierVille",
+        "dirigeant": "Tristan Clerc"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Masson S.A.",
+        "siret": "720 634 591 00237",
+        "date_creation": "2020-06-12",
+        "adresse": "85, rue Raymond Giraud\n87707 Carre",
+        "dirigeant": "Augustin du Tessier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Blanc Pinto S.A.",
+        "siret": "669 300 899 00236",
+        "date_creation": "2020-08-27",
+        "adresse": "boulevard Aurélie Brunel\n33252 Sainte JeanBourg",
+        "dirigeant": "Rémy Gay"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Weber",
+        "siret": "771 333 440 00986",
+        "date_creation": "2018-06-02",
+        "adresse": "434, rue Anouk Rodrigues\n04397 Huet",
+        "dirigeant": "Stéphanie Menard Le Guillon"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Neveu",
+        "siret": "710 725 631 00877",
+        "date_creation": "2023-05-28",
+        "adresse": "boulevard Lopez\n07440 Georges",
+        "dirigeant": "Amélie Thomas"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Blin S.A.",
+        "siret": "896 465 283 00324",
+        "date_creation": "2020-08-18",
+        "adresse": "85, rue Prévost\n90643 Blanchard-la-Forêt",
+        "dirigeant": "Hugues Bertrand"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Nguyen",
+        "siret": "745 644 948 00168",
+        "date_creation": "2019-01-04",
+        "adresse": "92, avenue de Vincent\n24252 Saint Jules",
+        "dirigeant": "Noël Bertin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Albert",
+        "siret": "761 707 587 00207",
+        "date_creation": "2024-08-03",
+        "adresse": "61, rue Jacquet\n23954 Bouvet",
+        "dirigeant": "Laetitia de la Guillon"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Michel",
+        "siret": "892 613 712 00009",
+        "date_creation": "2021-01-14",
+        "adresse": "29, rue Antoine Faure\n58950 De Sousa-la-Forêt",
+        "dirigeant": "Adèle Boulanger de Bègue"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bernier SA",
+        "siret": "759 230 451 00792",
+        "date_creation": "2022-09-09",
+        "adresse": "42, rue Alphonse Guillaume\n20497 Jacquet-les-Bains",
+        "dirigeant": "Henri Marin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Cohen",
+        "siret": "492 515 838 00554",
+        "date_creation": "2022-10-21",
+        "adresse": "296, chemin Laetitia Lemoine\n55745 MorinVille",
+        "dirigeant": "Marianne du Labbé"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Martel SARL",
+        "siret": "278 814 769 00289",
+        "date_creation": "2018-09-24",
+        "adresse": "93, chemin Hélène Rousseau\n70178 Saint Danielle",
+        "dirigeant": "Olivie Gauthier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Traore et Fils",
+        "siret": "945 491 801 00599",
+        "date_creation": "2024-01-29",
+        "adresse": "20, chemin Thomas Coste\n92565 Ferrand-la-Forêt",
+        "dirigeant": "Éléonore Lecomte"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ferreira",
+        "siret": "194 168 001 00239",
+        "date_creation": "2016-06-05",
+        "adresse": "77, boulevard de Pages\n62410 Chauvet-sur-Alves",
+        "dirigeant": "Madeleine Fernandez"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Delahaye",
+        "siret": "203 103 031 00167",
+        "date_creation": "2018-09-02",
+        "adresse": "531, rue Christelle Briand\n03219 Brunet",
+        "dirigeant": "Véronique Georges"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Petit",
+        "siret": "793 349 606 00020",
+        "date_creation": "2017-12-12",
+        "adresse": "99, rue Claire Alexandre\n62625 Pages-sur-Raymond",
+        "dirigeant": "Hortense Delannoy"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Reynaud",
+        "siret": "806 958 146 00078",
+        "date_creation": "2018-03-11",
+        "adresse": "77, rue Hervé\n92296 Barredan",
+        "dirigeant": "Philippe Vasseur-Coste"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Renard",
+        "siret": "597 246 651 00876",
+        "date_creation": "2019-09-23",
+        "adresse": "8, rue Bourgeois\n20720 Rousselnec",
+        "dirigeant": "Madeleine Huet"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Andre SARL",
+        "siret": "800 545 220 00264",
+        "date_creation": "2023-07-12",
+        "adresse": "91, avenue Poirier\n43903 Lecoq",
+        "dirigeant": "Roger Da Costa"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Guilbert SA",
+        "siret": "891 077 117 00192",
+        "date_creation": "2024-10-31",
+        "adresse": "4, rue Nathalie Klein\n90552 DidierBourg",
+        "dirigeant": "Tristan Marchal"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Renault",
+        "siret": "213 760 374 00420",
+        "date_creation": "2024-10-17",
+        "adresse": "chemin Michelle Faivre\n53469 Fernandes",
+        "dirigeant": "Paulette de la Dos Santos"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Wagner S.A.S.",
+        "siret": "667 850 721 00545",
+        "date_creation": "2017-05-21",
+        "adresse": "36, rue Anaïs Thierry\n05776 Bruneau",
+        "dirigeant": "Thomas Delannoy"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Guyot S.A.S.",
+        "siret": "846 684 553 00841",
+        "date_creation": "2018-09-13",
+        "adresse": "88, chemin de Delahaye\n51894 Hernandez",
+        "dirigeant": "Alfred Tanguy"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Dijoux",
+        "siret": "628 843 187 00426",
+        "date_creation": "2021-12-31",
+        "adresse": "boulevard Allain\n33347 Pages",
+        "dirigeant": "Claude Masson"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Léger",
+        "siret": "054 851 019 00932",
+        "date_creation": "2016-04-16",
+        "adresse": "99, rue de Marty\n38391 Maillet-sur-Joly",
+        "dirigeant": "Jeanne Duval"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Faure",
+        "siret": "893 571 265 00410",
+        "date_creation": "2017-10-09",
+        "adresse": "47, rue Alexandrie Labbé\n67512 Vaillant-sur-Paul",
+        "dirigeant": "Julie Mary"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Mendès",
+        "siret": "677 622 821 00630",
+        "date_creation": "2023-12-28",
+        "adresse": "481, avenue Arthur Letellier\n20672 Lemaire",
+        "dirigeant": "Odette Masson de Lemaître"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Cousin",
+        "siret": "408 215 457 00735",
+        "date_creation": "2024-06-20",
+        "adresse": "79, chemin Jacquet\n27287 BernardBourg",
+        "dirigeant": "Marine Mercier-Bertrand"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ledoux Dos Santos S.A.S.",
+        "siret": "794 975 672 00534",
+        "date_creation": "2024-01-17",
+        "adresse": "62, boulevard Chartier\n79519 Reynec",
+        "dirigeant": "Amélie Leconte"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Olivier S.A.S.",
+        "siret": "412 094 815 00567",
+        "date_creation": "2017-02-06",
+        "adresse": "901, rue Paris\n97636 Munoz",
+        "dirigeant": "Simone-Aurélie Joubert"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Legros Laurent S.A.S.",
+        "siret": "569 070 568 00773",
+        "date_creation": "2021-08-08",
+        "adresse": "2, boulevard Roy\n36247 Adam",
+        "dirigeant": "Denis Le Gall"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Perrin",
+        "siret": "209 520 048 00528",
+        "date_creation": "2021-08-24",
+        "adresse": "74, rue Renaud\n30870 Coste-sur-Gomez",
+        "dirigeant": "Dominique Chrétien"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Guillet SA",
+        "siret": "614 057 867 00648",
+        "date_creation": "2023-02-19",
+        "adresse": "boulevard Jacqueline Parent\n13352 Gilles-les-Bains",
+        "dirigeant": "Roland Cordier du Perez"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Berthelot",
+        "siret": "832 582 381 00816",
+        "date_creation": "2023-11-21",
+        "adresse": "boulevard Stéphane Guibert\n21100 Sainte Richard",
+        "dirigeant": "Jeannine Bazin du Marty"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ribeiro SA",
+        "siret": "398 402 891 00806",
+        "date_creation": "2022-12-05",
+        "adresse": "446, boulevard de Prévost\n87450 Chrétien",
+        "dirigeant": "Laetitia Moulin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Raynaud S.A.R.L.",
+        "siret": "553 795 022 00845",
+        "date_creation": "2016-04-10",
+        "adresse": "96, avenue de Ledoux\n50651 Saint ÉliseVille",
+        "dirigeant": "Chantal Benard"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Hebert Petit S.A.",
+        "siret": "956 201 750 00489",
+        "date_creation": "2016-07-15",
+        "adresse": "23, chemin de Wagner\n28339 ÉtienneVille",
+        "dirigeant": "Paul-Thibaut Lacroix"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Delmas Rousset S.A.S.",
+        "siret": "361 498 728 00001",
+        "date_creation": "2019-03-10",
+        "adresse": "31, boulevard Michel Barbe\n93901 Olivier",
+        "dirigeant": "Yves Rossi"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Paris",
+        "siret": "487 060 568 00788",
+        "date_creation": "2018-04-10",
+        "adresse": "18, rue de Rousseau\n35530 Ponsboeuf",
+        "dirigeant": "Louis Leclercq"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Boulanger Langlois SA",
+        "siret": "190 361 337 00420",
+        "date_creation": "2017-11-06",
+        "adresse": "60, rue Franck Reynaud\n30448 Sainte Dorothée",
+        "dirigeant": "Auguste Diallo-Brunel"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bouvier",
+        "siret": "717 911 002 00797",
+        "date_creation": "2017-04-23",
+        "adresse": "rue Thibaut Bourdon\n80542 Saint MargaretVille",
+        "dirigeant": "Anastasie Cousin-Weber"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Barthelemy",
+        "siret": "196 399 075 00510",
+        "date_creation": "2023-06-27",
+        "adresse": "8, chemin de Coste\n24210 Saint JeannineBourg",
+        "dirigeant": "Élise-Charlotte Diaz"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bertrand Lopez S.A.",
+        "siret": "456 797 232 00653",
+        "date_creation": "2021-07-03",
+        "adresse": "94, rue Lelièvre\n39717 Klein",
+        "dirigeant": "Adrienne Paul"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bourgeois Riou S.A.",
+        "siret": "203 880 653 00753",
+        "date_creation": "2017-05-14",
+        "adresse": "67, boulevard de Daniel\n78406 Boulanger-les-Bains",
+        "dirigeant": "Michel Dupont"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Guyon",
+        "siret": "303 379 333 00634",
+        "date_creation": "2021-11-03",
+        "adresse": "12, rue David Pelletier\n04668 Saint Stéphanedan",
+        "dirigeant": "Thomas Le Bertrand"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Colin Pierre SA",
+        "siret": "334 234 259 00037",
+        "date_creation": "2019-03-14",
+        "adresse": "rue Gillet\n83906 Sainte Marc-la-Forêt",
+        "dirigeant": "Isabelle Lemaître"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Olivier Rossi S.A.R.L.",
+        "siret": "289 611 220 00475",
+        "date_creation": "2022-07-27",
+        "adresse": "13, boulevard de Roche\n68401 Millet",
+        "dirigeant": "André Lombard-Guyot"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Grégoire Chevallier et Fils",
+        "siret": "897 317 913 00167",
+        "date_creation": "2024-11-11",
+        "adresse": "672, chemin de Laine\n88594 Reynaud-la-Forêt",
+        "dirigeant": "Noémi-Alex Guillaume"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Besson Adam S.A.S.",
+        "siret": "373 634 666 00284",
+        "date_creation": "2017-08-23",
+        "adresse": "avenue Diane Benard\n29697 Sainte Denise",
+        "dirigeant": "Maggie Launay du Bigot"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Rey",
+        "siret": "657 546 024 00552",
+        "date_creation": "2020-09-20",
+        "adresse": "5, boulevard de Morvan\n82180 Dumas",
+        "dirigeant": "Charles Guérin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Aubert",
+        "siret": "083 535 443 00465",
+        "date_creation": "2018-07-19",
+        "adresse": "chemin Valentine Perrot\n97661 DelormeVille",
+        "dirigeant": "Clémence Chauvin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Leblanc",
+        "siret": "337 389 878 00295",
+        "date_creation": "2017-08-30",
+        "adresse": "46, avenue Dominique Pascal\n04483 Verdier",
+        "dirigeant": "Honoré Gallet"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Germain",
+        "siret": "755 366 689 00015",
+        "date_creation": "2016-08-06",
+        "adresse": "75, rue Anaïs Andre\n68495 Ollivier",
+        "dirigeant": "Jacques Colas"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Michel",
+        "siret": "412 182 099 00579",
+        "date_creation": "2019-05-19",
+        "adresse": "chemin Lucas Rey\n37775 Mullerdan",
+        "dirigeant": "Julien Paul"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Martel",
+        "siret": "256 621 285 00012",
+        "date_creation": "2017-05-16",
+        "adresse": "53, avenue Hugues Texier\n73417 Renaud-sur-Gaudin",
+        "dirigeant": "Laure Renaud"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Jacques",
+        "siret": "271 693 855 00006",
+        "date_creation": "2024-01-28",
+        "adresse": "5, avenue de Perrot\n89962 Michaud",
+        "dirigeant": "Diane Legros de la Colin"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Barbier Paris et Fils",
+        "siret": "676 291 602 00792",
+        "date_creation": "2021-03-02",
+        "adresse": "77, rue de Tessier\n10873 Sainte Anoukdan",
+        "dirigeant": "Gilbert Guillaume"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Chauvin Morel SA",
+        "siret": "070 176 565 00649",
+        "date_creation": "2020-06-19",
+        "adresse": "85, avenue Daniel Perez\n70772 Delannoy",
+        "dirigeant": "Christine Georges"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Roy",
+        "siret": "220 912 414 00350",
+        "date_creation": "2017-07-10",
+        "adresse": "82, rue Martin Delannoy\n05791 Fabredan",
+        "dirigeant": "Timothée Barbe"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gosselin",
+        "siret": "164 709 008 00829",
+        "date_creation": "2019-08-20",
+        "adresse": "23, avenue Leroy\n02445 Bazin",
+        "dirigeant": "Frédéric Pereira"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ferrand Guillaume S.A.S.",
+        "siret": "220 681 555 00854",
+        "date_creation": "2022-12-03",
+        "adresse": "rue Gautier\n45431 Garcia",
+        "dirigeant": "Margaux Richard"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Carpentier S.A.R.L.",
+        "siret": "373 149 509 00490",
+        "date_creation": "2021-05-01",
+        "adresse": "boulevard de Colas\n21357 Sainte Louisenec",
+        "dirigeant": "Jacques Roger"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Gros",
+        "siret": "571 509 975 00819",
+        "date_creation": "2020-02-27",
+        "adresse": "2, rue Nathalie Gilbert\n97141 Chevalier-sur-Lopez",
+        "dirigeant": "Julien Didier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Lucas",
+        "siret": "326 303 971 00377",
+        "date_creation": "2020-12-07",
+        "adresse": "9, chemin Odette Laurent\n29967 Le Goff",
+        "dirigeant": "François Gimenez-Vincent"
+    },
+    {
+        "document_type": "kbis",
+        "company": "François S.A.R.L.",
+        "siret": "339 685 273 00858",
+        "date_creation": "2017-05-23",
+        "adresse": "rue de Martins\n17193 Allain",
+        "dirigeant": "Emmanuelle Huet-Guillou"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bailly Renault S.A.S.",
+        "siret": "674 233 622 00101",
+        "date_creation": "2023-10-30",
+        "adresse": "61, avenue Jacques Georges\n56532 Bourdonnec",
+        "dirigeant": "Olivier Lefebvre"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Boucher Gillet S.A.R.L.",
+        "siret": "661 498 287 00977",
+        "date_creation": "2021-05-28",
+        "adresse": "88, chemin Dufour\n91580 Meyer",
+        "dirigeant": "Adrien de Charrier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Clerc",
+        "siret": "576 665 673 00934",
+        "date_creation": "2017-05-31",
+        "adresse": "avenue Moreno\n20298 Adamboeuf",
+        "dirigeant": "Victoire Le Grenier"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Bertin Texier S.A.R.L.",
+        "siret": "663 370 500 00071",
+        "date_creation": "2018-09-16",
+        "adresse": "192, rue Weiss\n91493 MunozBourg",
+        "dirigeant": "Élisabeth du Gaillard"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Nicolas et Fils",
+        "siret": "448 869 461 00542",
+        "date_creation": "2022-01-22",
+        "adresse": "56, rue Marin\n01199 Sainte Édithnec",
+        "dirigeant": "Martin Picard de la Besson"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Lemoine Bourgeois SA",
+        "siret": "237 281 795 00235",
+        "date_creation": "2019-04-24",
+        "adresse": "27, rue de Chevalier\n37187 Denis-la-Forêt",
+        "dirigeant": "Jean Martinez"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Pereira S.A.",
+        "siret": "377 100 409 00749",
+        "date_creation": "2025-02-01",
+        "adresse": "884, chemin Josette Gilbert\n43479 Gomes",
+        "dirigeant": "Jules Chartier-Alexandre"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Michel Marion SA",
+        "siret": "905 510 764 00483",
+        "date_creation": "2020-12-15",
+        "adresse": "89, avenue de Peltier\n24103 Durand",
+        "dirigeant": "Amélie Guyon"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Ollivier",
+        "siret": "739 769 156 00418",
+        "date_creation": "2017-11-29",
+        "adresse": "932, boulevard de David\n17609 Sainte Victoiredan",
+        "dirigeant": "Maurice Ferreira"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Renard SARL",
+        "siret": "833 321 169 00611",
+        "date_creation": "2022-09-22",
+        "adresse": "27, rue de Joubert\n81842 Robinboeuf",
+        "dirigeant": "Sébastien Gosselin-Brunel"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Charpentier SA",
+        "siret": "566 863 346 00086",
+        "date_creation": "2018-02-05",
+        "adresse": "631, chemin Gillet\n73854 Sainte Charles",
+        "dirigeant": "Élisabeth-Nath Briand"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Tanguy S.A.R.L.",
+        "siret": "528 993 165 00406",
+        "date_creation": "2021-07-30",
+        "adresse": "87, boulevard Jacquet\n19864 Sainte Thierry",
+        "dirigeant": "Chantal Le Munoz"
+    },
+    {
+        "document_type": "kbis",
+        "company": "Peron Jean et Fils",
+        "siret": "737 460 527 00739",
+        "date_creation": "2017-02-04",
+        "adresse": "34, boulevard Michaud\n43532 Lévêquenec",
+        "dirigeant": "Arnaude Evrard"
+    },
+    {
+        "document_type": "rib",
+        "company": "Carre",
+        "iban": "FR1938612590472927742333059",
+        "bic": "VZEMFR1K",
+        "bank": "Pereira SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Colin",
+        "iban": "FR8501859626301367492617647",
+        "bic": "ADDCFRH56OB",
+        "bank": "Paris Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Allain S.A.",
+        "iban": "FR2267649215182606888718981",
+        "bic": "VDFTFRLA",
+        "bank": "Bouvier Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Fournier S.A.",
+        "iban": "FR9393218401184582603408487",
+        "bic": "SPWKFR7W",
+        "bank": "Lagarde Perrin et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Gomez SA",
+        "iban": "FR4532432983954296184462671",
+        "bic": "VNWEFR8NERM",
+        "bank": "Thibault Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Humbert Brunet SARL",
+        "iban": "FR1866093141818615155423401",
+        "bic": "HMDZFRHL7T5",
+        "bank": "Evrard SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Courtois",
+        "iban": "FR7649102562588967924082226",
+        "bic": "BXULFRP03L2",
+        "bank": "Bigot Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Baron",
+        "iban": "FR6568341465111312901487068",
+        "bic": "PPQVFR8H",
+        "bank": "Garcia Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Vallet Robert et Fils",
+        "iban": "FR0568538909728321528506762",
+        "bic": "DKVHFR8HST4",
+        "bank": "Aubry Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Bernard Gallet et Fils",
+        "iban": "FR0296348079705097545105265",
+        "bic": "DNPGFRF7",
+        "bank": "Bouchet Denis S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Meyer et Fils",
+        "iban": "FR2543765456284177225605313",
+        "bic": "BEMNFRVCKM4",
+        "bank": "Lemaire Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Camus",
+        "iban": "FR5387256862110225803056906",
+        "bic": "JJPCFR1PJ6L",
+        "bank": "Guyot Gosselin SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Bonnin",
+        "iban": "FR9536371892392312604326093",
+        "bic": "BMNQFRTO",
+        "bank": "Marques Launay S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Gros S.A.R.L.",
+        "iban": "FR7604145456350200053474916",
+        "bic": "IPLKFRTH",
+        "bank": "Laroche SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Rémy Alves et Fils",
+        "iban": "FR1359895343961129109337118",
+        "bic": "JXPYFRM8JCI",
+        "bank": "Humbert Dias et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Thierry",
+        "iban": "FR2685571617688029424090367",
+        "bic": "FOYQFRY9",
+        "bank": "Maréchal Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Leclerc",
+        "iban": "FR2420293908788443448123083",
+        "bic": "BUEIFRIRDPN",
+        "bank": "Martin et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lefort",
+        "iban": "FR0395518426945005342408916",
+        "bic": "UUTRFRN2OUR",
+        "bank": "Blin Lombard S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Cohen Grondin et Fils",
+        "iban": "FR1365271727223972404226931",
+        "bic": "CNHOFRZG",
+        "bank": "Petitjean Hamel SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Hoareau S.A.R.L.",
+        "iban": "FR7401002314290018513279724",
+        "bic": "PEHBFR8R8HB",
+        "bank": "Henry S.A.S. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Henry",
+        "iban": "FR2186203036625436172131451",
+        "bic": "DLCBFRJL17V",
+        "bank": "Potier Lamy S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Ferrand",
+        "iban": "FR3445147541022526771196421",
+        "bic": "EFYMFRWU514",
+        "bank": "Marion Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Dos Santos",
+        "iban": "FR9436687887883619689313503",
+        "bic": "LRPEFRHD",
+        "bank": "Alves Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Cousin Jacques S.A.",
+        "iban": "FR2986333021260650191792025",
+        "bic": "CHCAFR0J",
+        "bank": "Lelièvre Bernier S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lelièvre",
+        "iban": "FR7365704120092820667849843",
+        "bic": "FICQFRYINZD",
+        "bank": "Michaud Gonzalez et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Jacquot S.A.R.L.",
+        "iban": "FR2575662056341115950342811",
+        "bic": "TAYJFRM9",
+        "bank": "Diaz David S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Clément",
+        "iban": "FR6299097005140546835652156",
+        "bic": "QZYEFRBY",
+        "bank": "Coste Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Charpentier S.A.",
+        "iban": "FR1927113322889857254596063",
+        "bic": "TTCEFR5G",
+        "bank": "Meunier SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Didier SA",
+        "iban": "FR1175242149551127474721970",
+        "bic": "JMNTFRI2X6U",
+        "bank": "Perez Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Guillou",
+        "iban": "FR9474090380214629613671577",
+        "bic": "DCFXFRGZ1MZ",
+        "bank": "François Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Le Goff",
+        "iban": "FR0597371470827235909605673",
+        "bic": "GAYVFR1R",
+        "bank": "Bousquet Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Perez Blanchard SA",
+        "iban": "FR6346147683420165423567782",
+        "bic": "LWSMFRA9MEJ",
+        "bank": "Chartier Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Garcia",
+        "iban": "FR2827275164807279103368296",
+        "bic": "LGGVFRAX",
+        "bank": "Durand Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Le Gall",
+        "iban": "FR3581776655868512765289286",
+        "bic": "JVWVFR1SGFG",
+        "bank": "Delahaye SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Duval",
+        "iban": "FR6679817890463378613715766",
+        "bic": "LZHQFRSR",
+        "bank": "Le Gall Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Maillet",
+        "iban": "FR8630600025895529638639609",
+        "bic": "EUMXFRLZU7K",
+        "bank": "Grondin Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lacombe S.A.",
+        "iban": "FR3081964825311060920981960",
+        "bic": "OUUYFRWL",
+        "bank": "Guibert Louis SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Regnier Moulin et Fils",
+        "iban": "FR3464041209117911244211753",
+        "bic": "DPZAFR0E5EN",
+        "bank": "Mallet Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Couturier",
+        "iban": "FR1472240299015579980284139",
+        "bic": "RAQQFRJN",
+        "bank": "Noël Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Martinez Millet S.A.",
+        "iban": "FR4331244731584776863423461",
+        "bic": "FZGXFR5121R",
+        "bank": "Loiseau Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Seguin S.A.R.L.",
+        "iban": "FR6563955172084964985601256",
+        "bic": "LHCGFRXX",
+        "bank": "Valette Bouvier SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Julien et Fils",
+        "iban": "FR3505379538164938318491966",
+        "bic": "KGGBFR55CR0",
+        "bank": "Denis S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Brunel Millet S.A.S.",
+        "iban": "FR7163904090742608805017164",
+        "bic": "KYLMFRF9U5D",
+        "bank": "Léger Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Teixeira",
+        "iban": "FR4115910300215632135800401",
+        "bic": "JCIKFRYR",
+        "bank": "Dos Santos Guillon S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Marchand SARL",
+        "iban": "FR4029671883977457314415833",
+        "bic": "CPBGFRAN",
+        "bank": "Collin Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Coulon Duval SARL",
+        "iban": "FR2939885472812356798363146",
+        "bic": "VJSUFRGJ",
+        "bank": "Gautier Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Guillot SA",
+        "iban": "FR6172407875418156326868507",
+        "bic": "LDBUFRY1MSM",
+        "bank": "Schmitt Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Laporte",
+        "iban": "FR7797861031310094318143966",
+        "bic": "DHXWFRR5NKN",
+        "bank": "Diaz Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Munoz",
+        "iban": "FR6094012897432512257207650",
+        "bic": "ICFVFRAW",
+        "bank": "Guillon Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Camus S.A.",
+        "iban": "FR0471009438822114577584745",
+        "bic": "ALJWFRV74HR",
+        "bank": "Caron S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Delmas Blanchard SARL",
+        "iban": "FR5770396531361487824556964",
+        "bic": "GBSQFRVH13W",
+        "bank": "Masson Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Didier et Fils",
+        "iban": "FR6527284982474140703491074",
+        "bic": "NLVAFRDQ",
+        "bank": "Marty Jacquet S.A.S. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Fernandez Delannoy SARL",
+        "iban": "FR0323691430753666144942965",
+        "bic": "VYGIFRI0",
+        "bank": "Hernandez Schneider SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Duhamel",
+        "iban": "FR6378266128758575676670806",
+        "bic": "YETJFRP6",
+        "bank": "Rodriguez Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Vincent",
+        "iban": "FR8762607870104159149750198",
+        "bic": "WGQEFR95",
+        "bank": "Hubert Parent et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Hernandez Techer SARL",
+        "iban": "FR3607931102918133170876014",
+        "bic": "PFHRFRQ2H1J",
+        "bank": "Gonzalez S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Picard Gros et Fils",
+        "iban": "FR8083774419754661766204719",
+        "bic": "ASJBFR2CWI3",
+        "bank": "Baron Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Leroux SARL",
+        "iban": "FR2388358681225957244617679",
+        "bic": "SWQYFR7Q",
+        "bank": "Rocher Breton S.A.S. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Mary",
+        "iban": "FR8296100231177533126610941",
+        "bic": "XCOYFRXB",
+        "bank": "Lebrun Nicolas et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Hoareau",
+        "iban": "FR0629833477433268319013020",
+        "bic": "YNSRFREVL75",
+        "bank": "Guillaume Masse S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Hamon",
+        "iban": "FR7798217661912841173098503",
+        "bic": "IMWLFREKSE8",
+        "bank": "Paul Bourdon S.A.S. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Alexandre",
+        "iban": "FR5790819740056435023850371",
+        "bic": "LCNTFRF9",
+        "bank": "Dumont Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Ramos",
+        "iban": "FR2301078356743000389608706",
+        "bic": "WENWFR19IH2",
+        "bank": "Chauvet SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Leclercq",
+        "iban": "FR7856033190368900301027240",
+        "bic": "LTUHFRSIZ4H",
+        "bank": "Garnier SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Costa Munoz et Fils",
+        "iban": "FR1153745843845881056974132",
+        "bic": "JXRGFRHX",
+        "bank": "Da Silva Huet et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Delahaye",
+        "iban": "FR4671070449641049670667033",
+        "bic": "FVNRFRDTC8W",
+        "bank": "Raynaud SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Chrétien",
+        "iban": "FR5693059660186487699842673",
+        "bic": "AIZVFRRF",
+        "bank": "Pires Allard SARL Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Masse",
+        "iban": "FR3060945449014954277070705",
+        "bic": "URGNFRDFR9U",
+        "bank": "Besnard S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Gosselin",
+        "iban": "FR1744723229031028795083044",
+        "bic": "VLRWFRCP",
+        "bank": "Nicolas Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Guillou S.A.R.L.",
+        "iban": "FR3118133595616420595565749",
+        "bic": "FLBJFRJB",
+        "bank": "Raynaud S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Gros",
+        "iban": "FR4489536902611398986818097",
+        "bic": "KIGSFRSPVPX",
+        "bank": "Pineau Gomes et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Jacquot S.A.",
+        "iban": "FR1376515881579376392836929",
+        "bic": "ZJKKFRHF006",
+        "bank": "Bruneau Costa et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Arnaud De Sousa SA",
+        "iban": "FR5221648712060212886652683",
+        "bic": "DKKSFRGCEW2",
+        "bank": "Lombard Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Traore",
+        "iban": "FR5564722981209957657289413",
+        "bic": "PKBSFR7761S",
+        "bank": "Jacob Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Boulay",
+        "iban": "FR1522036849951542144773244",
+        "bic": "HVIEFRGN",
+        "bank": "Leroy Joseph SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Robert Camus SA",
+        "iban": "FR9553496782741176741241513",
+        "bic": "KFQKFRR3",
+        "bank": "Munoz et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Morel",
+        "iban": "FR2861853800329633472727423",
+        "bic": "QXXGFRA1",
+        "bank": "Marin S.A.S. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lacombe Colin SA",
+        "iban": "FR1964969357824347769587413",
+        "bic": "YYJNFR2U",
+        "bank": "Dupré Lamy SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Barthelemy Julien et Fils",
+        "iban": "FR4315627796304483608545667",
+        "bic": "MIBIFR5OVCT",
+        "bank": "Lejeune Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Baudry Brun S.A.S.",
+        "iban": "FR4831995298006155810835832",
+        "bic": "WHJZFRKXV0N",
+        "bank": "Richard Da Silva SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Charrier S.A.R.L.",
+        "iban": "FR0570244033041662411186008",
+        "bic": "DXSZFRZM",
+        "bank": "Breton Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Blanchet",
+        "iban": "FR1004473149764613684748836",
+        "bic": "PXMLFR8G",
+        "bank": "Hubert Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Chauvin S.A.",
+        "iban": "FR8075791452118237931269789",
+        "bic": "BYPIFR0T",
+        "bank": "Fernandes Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lebrun et Fils",
+        "iban": "FR5099604387875357788116162",
+        "bic": "FQXDFRKM",
+        "bank": "Noël Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lamy S.A.R.L.",
+        "iban": "FR5428728660416448595922483",
+        "bic": "QTIPFR3NVIK",
+        "bank": "Dubois Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Delattre",
+        "iban": "FR2422710433187510979215835",
+        "bic": "GIJNFRTX",
+        "bank": "Adam Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Garnier Allain S.A.",
+        "iban": "FR9413424912896599949732033",
+        "bic": "ZTEEFRK4",
+        "bank": "Breton SA Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Dos Santos S.A.S.",
+        "iban": "FR4676754813866675485819324",
+        "bic": "NROPFRQH",
+        "bank": "Gilles Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Colin",
+        "iban": "FR3605756398365203758309451",
+        "bic": "IQATFRRCR4Z",
+        "bank": "Grenier et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Paris",
+        "iban": "FR4909079772781050922216107",
+        "bic": "KDRIFRMB",
+        "bank": "Maillet Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Lacombe",
+        "iban": "FR2929580660138241270493862",
+        "bic": "JIRLFRHV",
+        "bank": "Duhamel Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Moreno S.A.R.L.",
+        "iban": "FR4611121259020357134324064",
+        "bic": "IESKFR0O",
+        "bank": "Maillard Bourgeois S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Poirier",
+        "iban": "FR2574175955872096289365435",
+        "bic": "CQYGFRQN3QC",
+        "bank": "Blondel et Fils Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Ollivier Joly S.A.R.L.",
+        "iban": "FR5895596905150267551254278",
+        "bic": "YAOZFR31",
+        "bank": "Reynaud Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Fleury Ramos SARL",
+        "iban": "FR6595764038166496902824983",
+        "bic": "EVKZFRDF",
+        "bank": "Gosselin Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Perrot Albert S.A.R.L.",
+        "iban": "FR4327023244123361328507251",
+        "bic": "RVMWFRN4Y3P",
+        "bank": "Chevallier S.A. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Ledoux",
+        "iban": "FR1126546968157903923555809",
+        "bic": "CUHEFR5MCNT",
+        "bank": "Morin Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Jacob",
+        "iban": "FR5526244670462268171516025",
+        "bic": "SQMVFR3A",
+        "bank": "Guibert Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Briand",
+        "iban": "FR7004641978575851268612059",
+        "bic": "GQTXFR31D3S",
+        "bank": "Rivière S.A.R.L. Bank"
+    },
+    {
+        "document_type": "rib",
+        "company": "Poulain",
+        "iban": "FR0609546540842456075409150",
+        "bic": "HFCRFRGIJ51",
+        "bank": "Barre Bank"
+    }
+]

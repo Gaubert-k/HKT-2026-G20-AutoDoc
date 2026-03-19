@@ -1,0 +1,14 @@
+{
+  "documents": [
+    {
+      "nom_fichier": "demo-facture.pdf",
+      "extracted_data": {
+        "siret": "12345678900012",
+        "tva": "FR12345678901",
+        "amount_ht": "99.99",
+        "date": "2024-12-15"
+      },
+      "anomalies": ["Montant inhabituel pour ce fournisseur"]
+    }
+  ]
+}
